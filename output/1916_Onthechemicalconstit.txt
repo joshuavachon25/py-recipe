@@ -1,0 +1,1278 @@
+On the Chemical Constitution of the 
+
+Proteins of Wheat Flour and Its 
+
+Relation to Baking Strength 
+
+
+
+A THESIS SUBMITTED TO THE FACULTY OF THE GRADUATE 
+SCHOOL OF THE UNIVERSITY OF MINNESOTA 
+
+BY 
+
+MORRIS J. BLISH 
+
+IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR 
+THE DEGREE OF DOCTOR OF PHILOSOPHY 
+
+June, 19 15 
+
+
+
+Easton, Pa.: 
+
+EscHENBACii Printing Co. 
+
+1916 
+
+
+
+On the Chemical Constitution of the 
+
+Proteins of Wheat Flour and Its 
+
+Relation to Baking Strength 
+
+
+
+A THESIS SUBMITTED TO THE FACULTY OF THE GRADUATE 
+SCHOOL OF THE UNIVERSITY OF MINNESOTA 
+
+BY 
+
+MORRIS J. BUSH 
+
+IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR 
+THE DEGREE OF DOCTOR OF PHILOSOPHY 
+
+June, 1915 
+
+
+
+Easton, Pa.: 
+
+EscHENBACH Printing Co. 
+
+1916 
+
+
+
+
+
+
+^in 
+
+
+
+ON THE CHEMICAL CONSTITUTION OF THE PROTEINS 
+
+OF WHEAT FLOUR AND ITS RELATION TO 
+
+BAKING STRENGTH 
+
+By M. J. Bush 
+
+Received June 7, 1915 
+
+INTRODUCTION 
+
+The most generally accepted, definition of "baking 
+strength" of a wheat flour is that put forward by- 
+Humphries and BifTen/ in 1907, which states that a 
+"strong wheat is one which yields flour capable of 
+making large, well-piled loaves;" a definition similar 
+
+to that of Jago," who states that "strength is 
+
+defined as the measure of the capacity of the flour for 
+producing a bold, large-volumed, well-risen loaf." 
+Since the value of wheat (other things being equal) 
+depends on the so-called "strength" of the flour which 
+may be made from it, it is obviously of great importance 
+that complete knowledge be obtained concerning the 
+factors which cause strength, and to this end an 
+enormous amount of scientific, work has been done, 
+especially during the last twenty years. In spite of 
+the fact that some of the foremost investigators of 
+the world have bent their energies to this task, the 
+problem is not yet completely solved, although con- 
+siderable light has been thrown on the subject. It is 
+not yet possible to correlate baking strength with any 
+chemical or physical factor to such an extent that a 
+simple laboratory test or group of tests will always 
+furnish an infallible guide, but it is necessary to mill 
+the wheat into flour and have a sample of it actually 
+baked into a loaf of bread by an expert baker, before 
+its strength can be accurately ascertained. 
+
+FACTORS WHICH MAY INFLUENCE BAKING STRENGTH 
+
+Almost every known constituent, or group of con- 
+stituents, and almost every known physical and chemical 
+property of flour has been investigated with respect 
+to its possible relation to baking strength, but as yet 
+no one is believed to have discovered a limiting factor 
+or group of factors which completely solves the prob- 
+lem. Moreover, there is a general disagreement 
+among many of the leading investigators as to the 
+importance which should be attached to each factor 
+
+1 "The Improvement of English Wheat," Jour. Agr. Set., 2 (1907), 
+1-16. 
+
+2 "Technology of Bread Making." Chap. XV, p. 291, 1911. 
+
+
+
+4 
+or set of factors, and two workers frequently have 
+arrived at exactly opposite conclusions after having 
+investigated practically the same problem; however, 
+much of this confusion is caused by the use of different 
+methods of analysis. 
+
+A brief review of some of the more important work 
+which has been done will serve to bear out the pre- 
+ceding statement, as well as to indicate the many sides 
+from which the question of flour strength has been 
+studied. 
+
+GLIADIN-GLUTENIN RATIO — As soon as Osbornc and 
+Voorhees,^ in 1893, established the composition and 
+properties of the wheat proteins, attention was at- 
+tracted to gliadin and glutenin, the two conspicuous 
+and characteristic proteins of wheat, which were 
+shown to make up the gluten, the more or less elastic 
+binding material which enables flour to be made into 
+the dough with its characteristic elastic, gas-retaining 
+property, and which may be separated from the starch 
+and soluble proteins by the well-known process of 
+washing the dough in a stream of water. Fleurent,' 
+in 1896, claimed that flour strength depends on the 
+proportion of gliadin to glutenin present in the gluten 
+of the flour. He concluded from his experiments 
+that the optimum ratio was 75 parts of gliadin to 25 
+of glutenin or 3:1. He assigned certain limits, outside 
+of which flours were said to be of poor baking quality. 
+Snyder,^ in 1899, published similar results, although 
+he fixed his ideal ratio at 65:35. He also states* 
+that the quality rather than the quantity of gluten is 
+the important factor, because he was able to add up 
+to 20 per cent starch to flour without decreasing its 
+baking quality. Regarding the quantity of gluten in 
+flour, the amount of gliadin present, the ratio of gliadin 
+to glutenin, and the relation of these to baking quality, 
+it suffices to say that the results of different investi- 
+gators quite frequently are not concordant. However, 
+as mentioned before, this is in a considerable measure 
+due to different analytical methods employed by differ- 
+ent workers. 
+
+CRUDE GLUTEN — The crude gluten determination, 
+which consists essentially of washing the gluten free 
+from starch and soluble material by means of water, 
+and weighing the gluten, both in a wet and dry state, 
+
+1 "The Proteids of the Wheat Kernel," Am. Chem. J., 15 (1893), 
+392-471; Ibid., 16 (1894), 524-535. 
+
+* "Sur une method chimique d'appreciation de la valeur boulangere 
+des farines de ble," Compi. rend.. 123 (1896), 755-758. 
+
+» Minn. Exp. Sla. Bull., 62 (1899). 
+
+« U. S. Dept. Agr., Bull. 101 (1901). 
+
+
+
+5 
+was for a long time considered of great value, but 
+Snyder and Norton,^ in 1906, Chamberlain, ^ in 1906, 
+and others showed that it gave but little information 
+which might not be gained from a determination of 
+total nitrogen or alcohol-soluble nitrogen. Neverthe- 
+less, it is still used extensively by millers and bakers, 
+and in technical laboratories. 
+
+PHYSICAL STATE OF GLUTEN AND SUGAR CONTENT 
+
+In 1907, Wood^ published the results of a thorough 
+and systematic study of the chemistry of flour strength. 
+He concluded that there is no difference in the chemical 
+constitution of gliadin and glutenin from strong and 
+weak flours, and decided that strength (particularly 
+shape of loaf) is much more closely related to the 
+physical state of gluten, which in turn is profoundly 
+affected by the presence of electrolytes. He showed 
+that minute quantities of acids and bases tend to 
+"disperse" gluten, making it weak and inelastic, 
+while small quantities of neutral salts have the opposite 
+and consequently beneficial effect. Furthermore, he 
+found that the volume of a loaf of bread is proportional 
+to the rate of carbon dioxide evolution resulting from 
+diastatic activity of yeast in the later stages of fer- 
+mentation. In other words, he concludes that loaf 
+volume depends on the amount of available sugar in 
+the later stages of fermentation. Alway and Hartzell,.^ 
+in 1909, however, performed experiments which led 
+them to say, in contrast to Wood's findings, "there is 
+clearly no direct connection shown between the size 
+of the loaf and the volume of gas evolved. The thir- 
+teen fiours which gave the largest loaves evolved on 
+the average somewhat less gas than the other thirteen 
+flours." Shutt^ states that from his experimental 
+evidence he was unable to find any relation between 
+size of loaf and sugar content. 
+
+ENZYMES — Comparatively less study has been made 
+of the enzymes of flour and their relation to strength. 
+Perhaps the most prominent work in this field is that 
+which was done simultaneously but independently by 
+Baker and Hulton,^ and by Ford and Guthrie,^ in 
+
+1 "Crude Gluten," J. Am^ Chem. Soc, 28 (1906), 8-25. 
+
+2 "Properties of Wheat Proteins," Ihid., 28 (1906), 1657-1667. 
+
+3 "The Chemistry of Strength of Wheat Flour," Jour. Agr. Sci., 2 
+(1907), 139-161 and 267-277. 
+
+< Neb. Exp. Sta.. 23rd Annual Report, 1909. 
+
+' "Flour — the Relationship of Composition to Bread Making Value," 
+Canadian Miller and Cerealist, 5 (1913), 176-178. 
+
+' "Conditions Affecting the Strength of Wheaten Flour," Jour. Soc. 
+Chem. Ind.. 27 (1908), 368-376. 
+
+' "The Amylolytic and Proteolytic Ferments of Wheaten Flour and 
+Relation to Baking Value." Jour. Soc. Chem. Ind., 27 (1908), 389-393. 
+
+
+
+igoS. They point out that both proteoclastic and 
+amyloclastic enzymes are present in flour and in many 
+instances may exert a profound influence on its bread- 
+making qualities. Baker and Hulton state that 
+"it is obvious that the strength of a flour must be 
+closely connected with the gluten, although no doubt 
+the presence of enzymes, soluble carbohydrates, and 
+mineral constituents all play a part." Koch,^ in 
+1914, found no difference in the quantity of diastase 
+in strong and weak flours, after extracting them with 
+water at 0° according to the method of Thatcher 
+and Koch. 2 
+
+CONCENTRATION OF HYDROGEN IONS H. JcSSCn- 
+
+Hansen,' in 1911, finds a close relationship between 
+the concentration in hydrogen ions and baking strength, 
+and asserts that there is an optimum hydrogen-ion 
+concentration for flour, the poorer flours having lower 
+concentrations. He. attributes the beneficial effects 
+of neutral salts and "flour improvers" on flour to the 
+fact that they raise the hydrogen ion concentra- 
+tion. 
+
+SOLUBLE PROTEINS — There does not seem to have 
+been a very* considerable amount of work done regard- 
+ing the role of the soluble proteins as a factor in baking 
+strength. Snyder,^ in 1897, says "When any of the 
+wheat proteids except gliadin or glutenin are extracted 
+the expanding and bread-making qualities of the flour 
+are not affected." The conclusions of Bremer,^ 
+in 1907, are also to the effect that the soluble proteins 
+have little bearing on flour strength. Rousseaux 
+and Sirot,^ in 1913, consider the ratio of total nitrogen 
+to soluble nitrogen as a valuable index to baking value 
+and have determined an ideal ratio for flours according 
+to their method, as well as the limits between which 
+strong flours must fall in this respect. 
+
+GENERAL CONSIDERATIONS— Numerous othcr results 
+of careful and valuable research might be cited, but 
+the above serve to indicate the confusion existing in 
+
+' "The Diastase and Invertase Content of Wheat Flour and Their 
+Relation to Baking Strength." Thesis for Master's Degree, University of 
+Minnesota, June, 1914. 
+
+2 "The Quantitative Extraction of Diastases from Plant Tissues," 
+J. Am. Chem. Soc. 36 (1914), 759-770. 
+
+' "Studies on Wheat Flour. Influence of H-ion Concentration on 
+Baking Value of Flour," Compl. rend.. 10 (1911), 170-206. 
+
+* Minn. Exp. Sla. Bull.. 54 (1897). 
+
+' "Hat der gehalt des Weizemehles an Wasserloslichen StickstoEf einer 
+Einfluss auf seiner Backwert," Ztschr. Unter. Nahr. Genuss., 13 (1907), 
+69-74 
+
+5 "Les matiSres azotees solubles comme facteur d'appreciation des 
+farines," Compt. rend. Acad. Sci., 156 (1913), 723-725. 
+
+
+
+7 
+
+
+
+the present state of our knowledge regarding the 
+factors involved in flour strength, and is intended to 
+serve this purpose rather than constitute anything 
+like a complete summary of all the work which has 
+been done in this field. Numerous summaries of this 
+sort have been published in text-books and articles 
+dealing with methods of milling and baking technology, 
+such as that of the Jagos,i and a repetition of them 
+here would serve no useful purpose. It is believed, 
+moreover, that the above discussion indicates nearly 
+all of the view-points from which the problem of the 
+chemistry of flour strength has been attacked. The 
+situation is very well expressed by Bailey^ when he 
+says: "Perhaps one of the reasons that a greater de- 
+gree of success has not attended these endeavors is 
+the fact that it has been attempted to discover one 
+constituent (or group of constituents) which is the sole 
+determining factor. It does not seem reasonable to 
+believe that in so complex a substance as wheat flour 
+the percentage of one constituent can be regarded as 
+solely indicative of baking quality. Rather must we 
+study these various compounds in their relation to 
+one another, in an effort to arrive at their single and 
+combined effects." 
+
+PURPOSE OF THIS INVESTIGATION 
+
+In a series of investigations of the various factors 
+which may influence the strength of wheat flour, now 
+in progress in the Division of Agricultural Chemistry 
+of the University of Minnesota, it was proposed to 
+study the chemical constitution of the various proteins 
+in flour with a view toward ascertaining more defi- 
+nitely than has yet been done, whether or not the pro- 
+teins of a strong flour may differ in their chemical 
+constitution from those of a weak flour, since the 
+physical properties of their glutens are found to differ 
+so markedly. 
+
+Wood, 3 in 1907, following Osborne and Harris' 
+modification of Hausmann's method, subjected samples 
+of gliadin and crude gluten (composed chiefly of gliadin 
+and glutenin) of flours of different strength, to hydrolysis 
+for 8 hours with strong hydrochloric acid. He then 
+steam-distilled the products of hydrolysis with magnesia 
+and determined the percentage of nitrogen given off 
+as ammonia. Finding a close agreement in the different 
+samples he concluded that gliadin and glutenin of 
+
+1 Loc. cit. 
+
+2 "Relation of the Composition of Flour to Baking Quality," Canadian 
+Miller and CerealisI, 5 (1913), 208-209. 
+
+9 Loc. cit. 
+
+
+
+all wheat flours are of the same chemical composition, 
+since the work of Wood/ a more detailed method of 
+protein analysis, which gives further insight into the 
+constitution of the protein molecule and is capable of 
+yielding quantitative results, has been presented by 
+Van Slyke,2 who has incidentally shown that the 
+hydrolysis of gliadin with strong hydrochloric acid 
+is not complete at the end of 8 hours. It was therefore 
+decided to make further study of the chemical con- 
+stitution of flour proteins in the light of better methods 
+of analysis now available. 
+
+METHODS OF STUDYING CHEMICAL COMPOSITION OF 
+PROTEINS 
+
+It has been shown repeatedly that for practical 
+considerations all of the nitrogen of flours of the higher 
+milling grades may be regarded as in the proteins. 
+The chemical structure of the proteins has been clearly 
+demonstrated by Fischer^ and a host of other workers 
+since, so that it needs no elaborate discussion here. 
+Briefly stated, the facts appear to be that the protein 
+molecule is made up of a number of amino acids, there 
+being some i8 or 20 of these which occur in natural 
+proteins. These are probably linked together by 
+anhydride combinations between the amino group of 
+one amino acid and the carboxyl group of another. 
+This is indicated by the nature of the products formed 
+(amino acids) when the protein is subjected to hydroly- 
+sis. Moreover, it appears that the characteristic 
+chemical and physical nature of individual proteins 
+depends largely on the nature and number of the 
+various amino acids of which they are composed. 
+In a comparison of the chemical constitution of proteins, 
+then, it is necessary to split the molecule by hydrolysis 
+into its "bausteine" (characteristic units) and determine 
+the relative proportions of these which are formed in 
+each case. There is no known method of ascertaining 
+the exact manner in which these units are grouped 
+together in the various proteins, since even the sensi- 
+tive anaphylaxis reaction is not specific in the case of 
+many vegetable proteins, as has been demonstrated 
+by Wells and Osborne,* who found that animals 
+
+1 Loc. cit. 
+
+2 "The Analysis of Proteins by the Determination of the Chemical 
+Groups Characteristic of the Different Amino Acids," J. Biol. Chem.. 10 
+(1911). 15-55. 
+
+' "Untersuchungen uber Aminosauren, Polypeptide und Proteine," 
+Berlin, 1899-1906 
+
+4 "Is the Specificity of the Anaphylaxis Reaction Dependent on the 
+Chemical Constitution of the Proteins or on Their Biological Relations? 
+The Biological Reactions of the Vegetable Proteins. II," Jour. Infect. 
+Dis.. 12 (1913), 341-358. 
+
+
+
+9 
+sensitized with gliadin of either wheat or rye will react 
+with hordein of barley, a protein known to have a 
+different chemical constitution, and that gliadin and 
+glutenin, known to be different as regards the relative 
+proportions of the various amino acids in their molecule, 
+react anaphylactically with each other. 
+
+METHOD USED IN DETERMINING PRODUCTS OF PROTEIN 
+HYDROLYSIS 
+
+Van Slyke's method gives the most detailed insight 
+into the protein molecule of any known method which, 
+at the same time, indicates quantitatively the dis- 
+tribution of its component units. Accordingly, the 
+Van Slyke method, in some cases slightly modified, 
+was used in this investigation. The method, which 
+is an extension of the principle of the Hausmann 
+method, consists of a division of the protein molecule 
+into various groups, or units, after prolonged hy- 
+drolysis with hydrochloric acid, and the determination 
+of the percentage of nitrogen in each individual group, 
+thus ascertaining the distribution of the total nitrogen 
+in the protein. Briefly, the groups determined are: 
+(i) ammonia or amide nitrogen, which is considered 
+to be derived from — CONH2 or — CONHOC — 
+groups linked to the carboxyl groups of the dicarboxylic 
+acids in the protein molecule (glutamic and aspartic 
+acids); (2) humin nitrogen, from the dark-colored 
+pigment and slight amount of insoluble matter always 
+formed in the hydrolytic products of acid hydrolysis 
+of proteins; (3) the amino nitrogen of the mono-amino 
+acids, which corresponds to all of the mono-amino 
+acids excepting proline and oxy-proline; (4) the non- 
+amino nitrogen of the mono-amino acids, which corre- 
+sponds to the proline and oxy-proline; and (5) to (8) 
+the nitrogen corresponding to each of the individual 
+di-amino acids, i. e., arginine, lysine, histidine, and 
+cystine, respectively. Thus, eight units of the protein 
+molecule may be estimated quantitatively, the de- 
+termination of histidine nitrogen and lysine nitrogen 
+being subject to a larger experimental error than the 
+other units, which may be determined with the exact- 
+ness required by ordinary quantitative procedure. 
+
+FLOURS USED IN THE INVESTIGATION 
+
+Eight flours of the higher grades (as separated in the 
+process of milling) from various sources and of varying 
+baking qualities were selected for the preliminary 
+work. Their sources and relative baking values, as 
+measured by loaf volume, are indicated in Table I. 
+
+
+
+X d 13 
+
+h5 2 3 
+
+
+
+\D • • ■ • 
+
+in lo vo lo ' 
+
+
+
+■O O *0 \0 VO 'O vO 
+
+
+
+
+
+
+Ov 00 r^ 00 1^ a> 00 
+
+
+
+1^ 
+
+
+
+)io r^ lo 
+
+
+
+to bj S ^ 
+
+
+
+s;5 
+
+
+
+
+
+
+O ooo O r^ 
+
+. r^ CN r^ fO >o vo ^ 
+
+-H ^ (N CN CN ^ ^ 
+
+
+
+O H 
+Z O 
+
+P9 H 
+
+
+
+o 
+
+
+
+4J 1^ 71 
+
+
+
+(8^ 
+
+.5 > I" ^^ t> 
+
+
+
+w 
+
+^7 T; OJ rt O 
+
+
+
+a -9 
+
+aot> 
+xjat> 
+III cs . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ja f 
+
+
+
+
+
+
+ft t£ 
+
+
+
+
+
+
+SSf^ 
+
+
+
+
+
+
+
+
+
+
+3 
+
+
+
+
+
+D 
+
+
+
+
+
+our 
+
+ten, Lo 
+b Glute 
+d" Soft 
+
+
+
+yi(UaJ4Jja>ifellJ 
+
+d, pi< PL, fL, HI > ; fl. 
+
+
+
+V • -- 00 On O ^^ -^ »0 CN 
+rO O f^ ro -^ -^ Ti' Tf IT) 
+
+i*z '^•^■^•^■^•^■^•^ 
+
+t'" pq pq pq pq pq pq fq ffl 
+
+
+
+THE PRODUCTS OF PROTEIN HYDROLYSIS FROM ENTIRE 
+FLOUR 
+
+Osborne^ and his associates have shown that there 
+are five proteins present in flour, viz., gliadin, glutenin, 
+albumin, globulin and proteose, the latter being of 
+little significance. The first two named compose the 
+gluten, already referred to, while the others are soluble 
+in dilute salt solutions and are, for the most part, 
+removed in the familiar process of "washing out" 
+the gluten. 
+
+Since the proteins are, for all practical considerations, 
+the only nitrogen compounds in the higher grade 
+flours, it was decided to submit first, in all cases, a 
+sample of the entire fiour to prolonged hydrolysis with 
+strong hydrochloric acid, and determine the distribu- 
+tion of nitrogen in the various units. Should the re- 
+sults vary in different flours, it would be necessary to 
+obtain the different proteins and ascertain their com- 
+position in a similar manner. If they should show the 
+same chemical constitution then they must be present 
+in the flour in varying amounts to account for the differ- 
+ence when analyzed collectively, as is done in the 
+hydrolysis of the entire flour. That the latter is true 
+has, of course, been concluded by numerous investi- 
+gators who have extracted flour proteins with specific 
+solvents and have found their amounts to vary widely 
+in different flours. The solvents most frequently used 
+are: (i) alcohol — varying from 50 to 80 per cent, and 
+(2) neutral salt solutions of different concentrations. 
+The former was at first thought to extract only gliadin 
+while the latter was considered to remove only albumin, 
+globulin and proteose. Owing to the fact that solu- 
+tions of varying strengths and different methods of 
+extraction have been employed by different investi- 
+gators, however, their results often disagree widely, 
+and in many cases even fail to support the same general 
+conclusions. Furthermore, it has been found that the 
+solvents mentioned above are not as specific as was 
+formerly supposed, and that alcohol extracts not only 
+gliadin but also considerable of the "soluble proteins," 
+the material so extracted depending on the strength of 
+the alcohol, while salt solutions extract some gliadin 
+as well as albumin and globulin, according to the con- 
+centration of the solution. Other physico-chemical 
+factors undoubtedly enter as well. Olson^ states that 
+
+1 "The Vegetable Proteins" (1912). Plimmer's, Monograph, London, 
+New York, etc. 
+
+2 "Quantitative Estimation of Salt-Soluble Proteins in Wheat Flour," 
+J. Ind. Eng. Chem., 6 (1914), 212. 
+
+
+
+"the amount of gliadin extracted by i per cent sodium 
+chloride solution approximately amounts to about 
+29 per cent of the total proteids," and "the nitrogen 
+bodies soluble in salt solution are partly or wholly 
+soluble in diluted alcohols varying with the concentra- 
+tion of sodium chloride used." That a study of the 
+products of hydrolysis of the flour proteins both 
+collectively and individually can furnish an indica- 
+tion of the proportions of these proteins in the flour, 
+providing there is no difTerence in the chemical con- 
+stitution of -the same proteins in different flours, is 
+evident from the following considerations: the per- 
+centage of ammonia nitrogen yielded on the hydrolysis 
+of the individual proteins of wheat flour varies as 
+follows, according to Osborne, gliadin 24.5, glutenin 
+18.8, leucosin (albumin of flour) 6.8, and globulin, 
+7.7. Since the figures for the ammonia nitrogen 
+show wider variation than do those of any other units, 
+and since also the estimation of this unit is probably 
+accompanied by less error than that of any of the 
+others, it may be supposed that its estimation in the 
+proteins taken collectively and individually will 
+indicate closely the relative amounts of the various 
+proteins present, providing, as mentioned before, the 
+same proteins of different flours do not vary in their 
+chemical constitution. 
+
+In determining the distribution of nitrogen in the 
+entire flour, lo-gram samples were hydrolyzed for 
+48 hours, and the "Hausmann" units determined. 
+In the case of the entire flour the presence of a large 
+amount of starch occasions a voluminous precipitate 
+of "humin" material which made it impractical to 
+attempt a determination of all the units of the Van 
+Slyke method, since a large enough sample could not 
+be used to insure the estimation of the smaller units 
+with sufficient accuracy that the figures would be 
+of much significance. The instructions of Van Slyke 
+regarding the conditions for precipitating and washing 
+the bases, however, were carefully followed. 
+
+In determining the total nitrogen in the hydrolyzed 
+mixture, the presence of large amounts of "humin" 
+substances resulting from the carbohydrates, and small 
+amounts of fat, necessitated the slight modification of 
+Van Slyke's method suggested by Gortner.^ The 
+above mentioned substances make it impossible to 
+
+> "Studies on the Chemistry of Embryonic Growth. I. Certain 
+Changes in the Nitrogen Ratios of Developing Trout Eggs," J. Am. Chem. 
+Soc, 36 (1913), 632-645. 
+
+
+
+13 
+
+obtain an aliquot until after they have been removed 
+in the processes of determining the ammonia and humin 
+nitrogen. Consequently, the hydrolyzed mixture is 
+evaporated in vacuo to remove most of the hydro- 
+chloric acid. The ammonia is distilled off as in the 
+Van Slyke process (without removing the material 
+from the distillation flask from which the acid was 
+evaporated off), collected in standard acid, and esti- 
+mated by titration; the humin filtered, washed, and 
+submitted to Kjeldahl analysis for nitrogen, and total 
+nitrogen determined in aliquot portions of the filtrate 
+from the humin. This, added to the ammonia nitrogen 
+and the humin nitrogen, gives the total nitrogen in 
+the hydrolyzed sample. No correction was made 
+in any of the analyses for the solubilities of the bases 
+in the solutions from which they were precipitated, 
+since the same conditions were observed in all cases 
+and the results are strictly comparable. 
+
+The results given in Table I were obtained from the 
+analyses of the eight samples of flour by the above- 
+described process. The different flours vary signifi- 
+cantly with respect to the ammonia nitrogen yielded 
+on hydrolysis. The basic nitrogen or nitrogen of the 
+diamino acids also shows a slight variation, this being 
+inversely as the variation in ammonia nitrogen. The 
+variations shown in the table are much greater than 
+could possibly be due to experimental error and were 
+confirmed by repeated determinations. Hence, there 
+can be no doubt that these variations show actual 
+characteristic differences in the nitrogen distribution 
+in the different samples. 
+
+THE DISTRIBUTION OF NITROGEN IN GLIADIN, GLUTENIN, 
+AND SOLUBLE PROTEINS 
+
+Hydrolysis of the entire flour having shown character- 
+istic differences in the composition of the entire protein 
+material contained in them, it appeared to be necessary 
+to establish as definitely as possible whether or not 
+the chemical constitution of the various individual 
+proteins is the same in different flours. For this 
+purpose two flours which differed widely in their 
+origin, total nitrogen content, and baking strength were 
+selected. Flour B401 is a typical Minnesota patent 
+flour, milled from northern spring wheat, of fairly 
+high nitrogen content and of good baking strength, 
+while B438 is a patent biscuit flour, made from a softer 
+Missouri wheat, low in total nitrogen and of poor 
+baking strength. Gliadin was extracted from the 
+
+
+
+14 
+gluten of the flours with alcohol and carefully purified 
+by pouring the concentrated syrup from the clear 
+alcoholic extract alternately into large volumes of water 
+and strong alcohol and finally digesting with absolute 
+alcohol and ether, according to the method of Osborne. 
+Glutenin was also prepared according to Osborne's 
+method which consists, briefly, of dissolving the residue 
+left after the alcohol extraction of the crude gluten in a 
+dilute solution of potassium hydroxide, neutralizing 
+with hydrochloric acid to precipitate the glutenin, 
+decanting the liquid and further extracting the pre- 
+cipitate repeatedly with alcohol to remove the re- 
+maining gliadin; finally digesting with absolute alco- 
+hol and ether. The preparations of glutenin in this 
+work were not pure, being contaminated by small 
+quantities of carbohydrates, owing to lack of facilities 
+for obtaining clear extracts and filtrates at the time, 
+but it is believed that all other nitrogen-containing 
+bodies were removed, and that the preparations served 
+the purpose of the investigation, namely, to ascertain 
+whether there was any appreciable difference in the 
+chemical constitution of the pure proteins. Consider- 
+able quantities of each of the two flours were then 
+extracted with i per cent salt solution, the extracts 
+were filtered as clear as possible and concentrated 
+in vacuo. These extracts and weighed quantities of 
+the gliadin and glutenin were then hydrolyzedfor 48 
+hours with strong HCl. The gliadin and glutenin 
+were analyzed according to the Van Slyke method, 
+while only ammonia nitrogen was determined in the 
+case of the soluble proteins. From the results shown 
+in Table 11 (i, 2, and 3) it is readily seen that, after 
+making allowance for the limits of experimental error 
+of the method, there is no apparent difference in the 
+chemical constitution of the proteins of typical strong 
+and weak flours of the same market grade. 
+
+THE DISTRIBUTION OF NITROGEN IN CRUDE GLUTEN 
+
+More complete evidence that the gluten-forming 
+proteins are of the same chemical constitution in differ- 
+ent flours was obtained by analyzing thoroughly 
+washed crude glutens of three flours of widely differing 
+characteristics. The same two flours as in the immedi- 
+ately preceding experiments were used, and in addition, 
+B444, a Kansas flour of exceedingly high nitrogen and 
+gluten content, but of low baking strength, as shown 
+in Table I. The results, obtained from the complete 
+Van Slyke process as applied to the crude glutens from 
+these three flours, appear in Table II (4) and indicate 
+
+
+
+15 
+
+that not only are the gluten-forming proteins in flours 
+of widely differing baking qualities of the same chemical 
+constitution, but the ratio of gliadin to glutenin is 
+probably the same, or very nearly so, in flours of the 
+same market grade but very different baking strengths. 
+With respect to this latter point, it may be said that 
+since, as is shown above, gliadin yields 26 per cent of 
+its nitrogen as ammonia nitrogen after hydrolysis, 
+while glutenin yields only 16 per cent of its nitrogen 
+in this fraction, the determination of ammonia nitrogen 
+of the hydrolyzed glutens will certainly indicate any 
+significant variation in the ratio of gliadin to glutenin 
+in different flours, although the limits of experimental 
+error are not narrow enough to indicate very small 
+variations in this ratio. The data in Table 11 (4) 
+indicate very clearly, therefore, that there is no signifi- 
+cant variation in the gliadin-glutenin ratio in flours 
+of such widely varying baking strength as those used 
+in this investigation. 
+
+THE SIGNIFICANCE OF THE SOLUBLE PROTEINS IN 
+AFFECTING THE NITROGEN DISTRIBUTION IN FLOUR 
+
+It is evident that the differences in the percentages 
+of ammonia nitrogen and basic nitrogen yielded on the 
+hydrolysis of the several entire flours, as shown in 
+Table I, cannot be accounted for as being due to 
+differences in chemical composition of the individual 
+proteins since it has been clearly shown that these 
+have the same chemical constitution. 
+
+It was though't at first that the varying percentages 
+of starch in the different flours might cause differences 
+in the percentage of ammonia nitrogen, since Mann,^ 
+in 1906, states "if in addition to the carbohydrate, 
+ammonia or other nitrogenous substances are in solu- 
+tion, then the humins combine with the ammonia and 
+thereby become nitrogenous." In order to ascertain 
+whether varying proportions of starch would influence 
+the results obtained by the Van Slyke method as used 
+in these investigations, a sample of the flour B401, 
+to which had previously been added 20 per cent of 
+its weight of wheat starch,- was hydrolyzed and the 
+distribution of nitrogen in the products of hydrolysis 
+determined. . There was no signiflcant change in the 
+percentage of ammonia nitrogen when compared with 
+the sample to which no starch was added, although 
+there was a very noticeable increase in humin N and 
+a corresponding decrease in basic N, as shown in Table 
+III. 
+
+1 "Chemistry of the Proteids." New York, 1906. 
+
+
+
+i6 
+
+
+
+■<*• nl 
+
+
+
+
+
+
+ob^^-* 
+
+
+
+Tf O 
+
+
+
+trios 
+
+
+
+Z .B-O 
+
+
+
+[ooj4 r^sooot^a\0 
+
+
+
+J o 
+
+
+
+•25H«^- 
+
+
+
+vo ^ O CM^ ^ 
+
+
+
+H^3« 
+
+
+
+— Mo-*ooOvr^ — 
+O" looo — vo-^^o 
+'f o 
+
+
+
+, TO -M tj 
+
+
+
+00^ o r^ ON 1^ fN r^ 
+
+•* 4; 
+
+looo'i'io o 
+
+
+
+P5^ 
+
+
+
+o ^ 
+
+
+
+'i^r. 
+
+
+
+^Z 
+
+^ ft! . 
+
+>w 
+
+
+
+„ OB f^ Or^>ot^io vo ■* 
+^mi3 »ooo-*^o ror^ 
+
+
+
+
+
+
+2 b|-b:h-s.s 
+
+
+
+Basic 
+
+
+Mono-amino 
+
+
+N 
+
+
+acid N 
+
+
+8.10 
+
+
+65.77 
+
+
+6.95 
+
+
+65.62 
+
+
+
+17 
+
+Further, it has recently been shown by Gortner and 
+Blish^ that other carbohydrates than starch which 
+might be present in flour do not affect the percentage 
+of ammonia nitrogen obtained after hydrolysis, al- 
+though they may, in many instances, increase the humin 
+nitrogen by forming condensation products of humin- 
+like nature with tryptophane. 
+
+The significant variation in the percentages of am- 
+monia nitrogen in the different flours (Table I) must 
+therefore be due to considerable variations in the 
+amounts of soluble proteins present, since the gliadin- 
+glutenin ratio does not differ enough to account for 
+
+Table III — Effect of Starch on the Distribution of Nitrogen in the 
+Products of Hydrolysis of Flour B401 
+
+Per cent of the total nitrogen 
+
+Ammonia Humin 
+Material Used N N 
+
+B401 20.81 5.32 
+
+B401 + 2 g. Starch 21.05 6.38 
+
+the difference in the percentages of ammonia nitrogen. 
+As already shown, the "soluble proteins" (albumin 
+and globulin) yield respectively 6.8 per cent and 
+7.7 per cent of ammonia nitrogen on hydrolysis, 
+while the gluten yields about 23 per cent. It may be 
+calculated, therefore, that flours containing the larger 
+amounts of "soluble proteins" will yield the smaller 
+percentages of their total nitrogen as ammonia nitrogen 
+after hydrolysis. Accordingly, the flours showing 
+the lower ammonia nitrogen figures as shown in Table 
+I might be supposed to contain the larger percentages 
+of their proteins in the form of albumin and globulin. 
+Since there is no known method of quantitatively 
+estimating the albumin and globulin in flour, owing 
+to the fact that the extraction of the various proteins 
+varies with the concentration of the solvents em^ 
+ployed, the proportions of solvent to material extracted, 
+and possibly other physico-chemical factors, the de- 
+termination of ammonia nitrogen in hydrolyzed flour, 
+flour extracts, and gluten should form a basis for a 
+more exact knowledge of the proportions in which 
+the various proteins occur in flours. Such methods 
+are obviously unadapted to ordinary analytical use, 
+but afford the best possible method of exact study 
+and careful investigational work. For example, in 
+Table II (3), the per cent of ammonia nitrogen yielded 
+on hydrolysis of the extract with i per cent salt solu- 
+tion indicates clearly that protein other than albumin 
+and globulin was extracted, since, as already pointed 
+
+1 "On the Origin of the Humin Formed by the Acid Hydrolysis of 
+Proteins," J. Am. Chem. Soc, 37 (1915). 
+
+
+
+out, the per cent of ammonia nitrogen yielded by pure 
+albumin and globulin should be lower. It is suggested 
+also that to ascertain how much albumin and globulin 
+are extracted by alcohol of any given percentage it 
+should suffice to hydrolyze the alcoholic extract and 
+determine the percentage of ammonia .nitrogen in a 
+similar manner. 
+
+Since this article has been in press, the results of a 
+study of the purity of proteins extracted from flour by 
+various solvents, using methods here indicated, have 
+been 'published by Bailey and Blish.^ 
+
+In order to substantiate the evidence that there is 
+a relation between the ammonia nitrogen yielded on 
+hydrolysis of flour, and the total quantity of soluble 
+proteins in the flours in question, the latter were ex- 
+tracted with tap water (since it was thought desirable 
+to use the same solvent as was used in washing out the 
+glutens) and the percentage of "soluble nitrogen" 
+in the total nitrogen of the flour estimated in the ex- 
+tract. Although protein material other than globulin 
+and albumin is extracted in this process, the results 
+should be comparative, and in the order as indicated 
+above, that is to say, the previously indicated relation- 
+ship between ammonia nitrogen of the hydrolyzed 
+entire flour and the soluble nitrogen should be apparent. 
+That this is true is indicated by the results obtained, 
+as shown in Table IV. 
+
+Table IV — Comparison of Percentages of Soluble Nitrogen in 
+
+Entire Flour with Ammonia Nitrogen after Hydrolysis of 
+
+Entire Flour 
+
+Total Per cent of total N 
+
+Sample No. Nitrogen Soluble N Ammonia N 
+
+B444 2.55 15.68 23.00 
+
+B440 2.17 18.20 21.47 
+
+B439 1.928 18.67 21.01 
+
+B401 2.085 18.94 20.81 
+
+B452 1.917 19.55 19.87 
+
+B441 2.130 20.42 21.03 
+
+B438 1.67 26.86 18.85 
+
+B445 1.26 28,96 18.21 
+
+Inspection of Table IV shows that, with the single 
+exception of B441, as the percentage of ammonia 
+nitrogen increases, the percentage of soluble nitrogen 
+decreases, as was expected from the theoretical con- 
+siderations already discussed. 
+
+CONCLUSIONS 
+
+I — The individual proteins of strong and weak 
+flours are identical in their chemical constitution, 
+as determined by Van Slyke's method for the analysis 
+of proteins. 
+
+[Since this went to press, the attention of the writer 
+
+1 "Concerning the Identity of the Proteins Extracted from Wheat Flour 
+by the Usual Solvents," J. Biol. Chem., 23 (1915), 345-357. 
+
+
+
+19 
+
+was called to a study of some of the physical constants 
+of gliadin from flours of varying strengths, by Gr6h 
+and Friedl,' in which they conclude that proteins of 
+different flours have the same constitution.] 
+
+II — The ratio of gliadin to glutenin is much more 
+nearly constant in flours of different baking qualities 
+than has heretofore been supposed. 
+
+Ill — There is a far greater variation in the per- 
+centages of the so-called "soluble proteins" (albumin 
+and globulin) in flours. 
+
+IV — Since the various proteins in the same flour 
+differ widely in their content of ammonia nitrogen, 
+the determination of ammonia nitrogen in flours, in 
+extracts of flours made with various solvents, and in 
+the crude gluten of flours, after their previous complete 
+hydrolysis with strong mineral acid, can be made to 
+serve as an accurate indication of the amounts of the 
+various proteins present, since the proteins of widely 
+different flours have been shown to have the same 
+chemical constitution. 
+
+Acknowledgment and sincere thanks are herewith 
+extended to Professor R. W. Thatcher under whose 
+supervision this work was done, also to Dr. R. A. 
+Gortner and Professor C. H. Bailey for many valuable 
+and helpful suggestions. 
+
+Department of Agriculture 
+
+University of Minnesota 
+
+St. Paul, Minnesota 
+
+> Biochem. Ztschr., 66 (1914), 154. 
+
+
+
+BIOGRAPHICAL 
+
+Morris J. Blish was born April 21, 1889, at Lincoln, 
+Nebraska. He attended the public schools there, 
+through the seventh grade. He then moved to Omaha, 
+Nebraska, where he graduated from the Omaha High 
+School in 1906. After working in one of the Omaha 
+banks for a year, he entered the University of Nebraska 
+in the fall of 1907, specializing in chemistry and grad- 
+uated with the B.Sc. degree in February, 191 2. Enroll- 
+ing in the graduate school of the University of Nebraska, 
+he received the A.M. degree in agricultural chemistry, 
+June, 1913, thesis work having been on soil chemistry 
+under the direction of Dr. F. J. Alway. He received 
+an appointment as research assistant in agricultural 
+chemistry at the University of Minnesota, and enrolled 
+in the graduate college of that university in Septem- 
+ber, 1913, working under the direction of Prof. R. W. 
+Thatcher. He received the Ph.D. degree in June, 
+191 5, thesis work having been on the chemical consti- 
+tution of the proteins of wheat flour, in relation to 
+"baking strength." 
+
+
+
+PUBLICATIONS 
+
+1. On the Distribution and Composition of the 
+Humus of the Loess Soils of the Transition Region. 
+
+2. On the Origin of the Humin Formed by the 
+Acid Hydrolysis of Proteins. (In collaboration with 
+Dr. R. A. Gortner.) 
+
+3. Concerning the Identity of the Proteins Ex- 
+tracted from Wheat Flour by the Usual Solvents. (In 
+collaboration with C. H. Bailey.) 
+
+
+
+LIBRARY OF CONGRESS 
+
+
+
+
+lllllilililllll II 111 I 111 III 
+014 338 840 2 • 
+
+
+

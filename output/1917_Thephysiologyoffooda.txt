@@ -1,0 +1,3662 @@
+HYSIOLOGY OF FOOD 
+CONOMY IN DIET 
+
+. M. BAYLISS 
+
+
+
+I 
+
+
+
+I 
+
+
+
+THE PHYSIOLOGY OF FOOD 
+AND ECONOMY IN DIET 
+
+
+
+B 
+
+THE PHYSIOLOGY OF 
+
+FOOD AND ECONOMY 
+
+IN DIET 
+
+
+
+BY 
+
+W. M. BAYLISS, M.A., D.Sc. (OxoN.), F.R.S., ETC. 
+
+PROFESSOR OF GENERAL PHYSIOLOGY IN UNIVERSITY COLLEGE, LONDON 
+
+
+
+i j i 
+
+LONGMANS, GREEN AND GO, 
+
+39 PATERNOSTER ROW, LONDON 
+
+FOUBTH AVENUE A SOra STREET, NEW TOBK 
+BOMBAY, CALCUTTA, AND MADRAS 
+
+1917 
+
+
+
+PREFATORY NOTE 
+
+THIS little manual has arisen from a 
+course of public lectures given at University 
+College, London, in October and November, 
+1916. It has been thought that a useful 
+purpose might be served at the present time 
+by making these lectures more generally 
+accessible. Although no previous know- 
+ledge of physiology is assumed, references 
+are inserted to sources of more detailed 
+information on certain questions for those 
+readers who may desire to enter more deeply 
+into these questions. Occasionally, points 
+of interest are indicated which, though un- 
+essential to the main argument, will be found 
+to appeal to the reader possessing the 
+necessary scientific preparation. 
+
+I would especially acknowledge my in- 
+debtedness to the booklet by Wood and 
+Hopkins, Food Economy in War-Time. 
+
+
+
+vi PREFATORY NOTE 
+
+It may be pointed out that the problems 
+involved are not only of importance in war- 
+time, but also in times of peace, since waste 
+should always be avoided, as far as possible. 
+
+W. M. B. 
+
+
+
+CONTENTS 
+
+
+
+I THE PROBLEM AS A WHOLE i 
+
+II THE USES OF FOOD 6 
+
+1. Growth 
+
+2. Maintenance 
+
+3. Work 
+
+Energy 
+Constituents of the Body and of Diet 
+
+Proteins 
+' Oxygen 
+
+III THE THREE CLASSES OF FOOD STUFFS . 25 
+Proteins 
+Fats 
+Carbohydrates 
+
+IV THE QUANTITY REQUIRED ... 32 
+" Man Value " 
+Food Available 
+Belgian Food Commission 
+Actual Values of Food Stuffs 
+Protein Minimum 
+Use of Carbohydrate 
+Use of Fat 
+
+V ACCESSORY FACTORS, OR " VITAMINES " . 56 
+
+VI DIGESTIBILITY 61 
+
+vii 
+
+
+
+viii CONTENTS 
+
+CHAP. PAGE 
+
+VII ALCOHOL .... 67 
+
+VIII VEGETARIANISM 75 
+
+IX EXERCISE. 77 
+
+X THE VALUE OF COOKING ... 80 
+XI CHARACTERISTICS OF CERTAIN ARTICLES 
+
+OF DIET 82 
+
+Bread 
+
+Other Articles 
+
+XII POSSIBILITIES OF ECONOMY ... 90 
+
+XIII GENERAL CONCLUSIONS .... 97 
+
+REFERENCES 101 
+
+INDEX 105 
+
+
+
+THE PHYSIOLOGY OF FOOD 
+AND ECONOMY IN DIET 
+
+CHAPTER I 
+
+THE PROBLEM AS A WHOLE 
+
+ALTHOUGH many physiological problems 
+have been brought into prominence by the 
+War, most of these concern people as a whole 
+only indirectly. That of Food, however, is 
+of immediate interest to us all. Leaving on 
+one side that aspect of the matter which may 
+be regarded as, in a sense, aesthetic, associated 
+with the gratification of the sense of taste, it 
+may be taken for granted that every one is 
+sincerely desirous of avoiding unnecessary 
+consumption of food, so far as it can be done 
+wisely and without diminution of value of the 
+individual as a member of the community. 
+
+We have to inquire, therefore, into the uses 
+
+of food, into the amount necessary to fulfil 
+B 
+
+
+
+2 PHYSIOLOGY OF FOOD 
+
+these uses, into the necessary constituents of 
+an adequate diet, and into the ways in which 
+these constituents can be supplied most econo- 
+mically. Some subsidiary questions will need 
+brief discussion, such as the part played by 
+digestion and the use of alcohol. It is, 
+indeed, remarkable how widespread is the 
+impression that butchers' meat has some 
+specially valuable properties ; and that sugar, 
+amongst other things, should not be regarded 
+as a food in the true sense of the word. Again, 
+there are some people who appear to be 
+under the belief that the more food eaten the 
+better, so long as it is digested, We hear of 
+a "fine healthy appetite," when the person 
+spoken of is probably really consuming much 
+more than he needs. 
+
+We shall see later that there is no probability 
+of any actual deficiency in the food supply as 
+a whole, although there is undoubtedly already 
+some scarcity in particular articles of diet, and 
+prices have risen all round. We want to know 
+how far we can avoid costly articles or replace 
+them by cheaper ones, without any disadvan- 
+tage. It is scarcely necessary to remark 
+
+
+
+THE PROBLEM AS A WHOLE 3 
+
+that saving in unnecessary expense enables 
+more money to be devoted to national needs, 
+as by purchase of War Loan and so on. Here 
+we may note that the problem is not merely 
+a physiological one, it is a complex one of 
+economics also. I call attention to this point, 
+although it is outside the scope of the present 
+inquiry. If, for example, a great demand 
+were to arise for some particular article of 
+food on account of its cheapness, this demand 
+in itself would produce a rise in price. It 
+seems that the best course to take to avoid 
+economical disturbance is that indicated by 
+Wood and Hopkins (1916, p. 3 ; see List of 
+Literature at the end of this book). This is, 
+that articles whose price is either falling, or 
+only slowly rising, should be selected rather 
+than those whose price is rising quickly. This 
+of course implies an observation of the market 
+prices from day to day. We may hope for 
+guidance in this respect from the Government 
+Departments. 
+
+It may be well, before we proceed further, 
+to state the general conclusion to which we 
+shall arrive. This is, that any kind of diet 
+
+
+
+4 PHYSIOLOGY OF FOOD 
+
+which is at all likely to be chosen in the British 
+Isles will contain all that is necessary, provided 
+that it be taken in the right amount. Even 
+potatoes alone, under favourable conditions, 
+can be made to suffice, as we shall see later. 
+It is not in the least probable that any reason- 
+able person here would attempt to live only 
+on polished rice, still less on a pure chemical 
+product such as cane-sugar or olive oil. 
+
+In the succeeding pages, I attempt to give, 
+in as simple and elementary a manner as 
+possible, the essential facts of the science of 
+nutrition. At the same time, I do not feel 
+compelled to avoid occasional reference to 
+somewhat more difficult aspects of the sub- 
+ject, but only where they may be of interest 
+to readers already in possession of some 
+physiological knowledge and where they may 
+be omitted by others without loss of what is 
+of immediate practical importance. It may 
+happen, of course, that readers of the latter 
+kind will be deprived of the proof of some 
+statements which rest on the more difficult 
+parts of physiological investigation. I must 
+ask them to take such statements on trust. 
+
+
+
+THE PROBLEM AS A WHOLE 5 
+
+We will proceed to discuss, in order, the 
+reasons why food must be taken, the essen- 
+tial components of food, the quantity of these 
+required, and finally some practical sugges- 
+tions following from the physiological facts 
+brought forward. 
+
+
+
+CHAPTER II 
+
+THE USES OF FOOD 
+
+1. Growth. When a living being is in- 
+creasing in size, it is perfectly obvious that 
+materials must be supplied for the purpose, 
+and that the supply must contain in some 
+form the actual chemical constituents of the 
+new tissues formed. 
+
+2. Maintenance. Even in the adult, the 
+various parts of the body undergo waste by 
+wear and tear, just as any other machine 
+does. This loss must be replaced, and again 
+material containing the chemical elements of 
+the substance lost must be supplied. When 
+we say this, it is not to be understood that 
+the same actual chemical compounds as those 
+contained in the body must be given in the 
+food. But, since chemical elements, except 
+under very special conditions, cannot be 
+
+
+
+THE USES OF FOOD 7 
+
+changed into other elements, food which con- 
+tains some compounds of the elements found 
+in the body must be taken. For example, 
+new growth contains, compounds of nitrogen ; 
+therefore, food containing nitrogen must be 
+available. 
+
+These two functions of food are very 
+closely related, although not necessarily iden- 
+tical. Under certain circumstances, more- 
+over, as in the training of an athlete, new 
+muscular substance is produced. So that, 
+even in the adult, material for actual growth 
+is sometimes required. 
+
+3. Work. But the greater part of the 
+food, both in the young and in the adult, is 
+needed for a different purpose, a fact which 
+is frequently apt to be overlooked by those 
+who are unfamiliar with scientific studies. 
+While the addition of new substance and the 
+replacement of that lost are sufficiently 
+plain to most people as requiring food, the 
+necessary consumption for the* purpose to 
+which I am now referring is somewhat 
+intangible. 
+
+One of the most characteristic of the 
+
+
+
+8 PHYSIOLOGY OF FOOD 
+
+properties of living beings is the perpetual 
+change shown by them : they are always 
+doing something, as one may say. Now, 
+universal experience teaches us that such 
+activity means doing work, and that this im- 
+plies the loss of something by the worker. 
+The capacity of doing work is called energy, 
+by physical science. An extremely impor- 
+tant fact, on which the whole of science is 
+based, is that energy can be measured exactly. 
+And the loss of energy in doing work is pre- 
+cisely equivalent to the work done. Having 
+measured by an appropriate method a par- 
+ticular amount of energy, we know that we 
+can obtain from it just so much work and no 
+more. As a matter of course, then, if work 
+is to be done by our muscles, they must be 
+supplied with a source of energy. This is 
+done by what we may call, with justification, 
+combustible substances in food. The fact 
+that work can be obtained from the burning 
+of coal under a steam-boiler is familiar to 
+every one. There are numbers of similar 
+materials which burn in air, and one of the 
+most instructive experiments which can be 
+
+
+
+THE USES OF FOOD 9 
+
+performed is the very simple one of showing 
+that the products of the combustion of sugar 
+in air and those found in the air which we 
+expel from the lungs are identical. These 
+latter arise from the burning of sugar and 
+other foods in our bodies for the purpose of 
+affording energy to perform work. An im- 
+portant practical fact which follows naturally 
+from what has just been said is, that the 
+greater the quantity of work done the more 
+fuel is required. Probably one of the most 
+significant results of modern physiological 
+research, is that there is an exact balance 
+between the energy taken in and that given 
+out in the form of work of various forms. 
+From this, again, it is plain that energy may 
+exist in different forms ; the chemical energy 
+of the food is transformed partly into that of 
+muscular contraction, partly into heat, and 
+so on. But none is lost and none is ever 
+created. Some readers will doubtless recog- 
+nize this statement as what is known as the 
+first law of energetics, that of the conservation 
+of energy, and it is one of the greatest modern 
+physiological achievements to have shown 
+
+
+
+10 PHYSIOLOGY OF FOOD 
+
+that it applies no less to man than to inani- 
+mate nature. 
+
+We see that food is required for two main 
+purposes : (i) for growth or repair of bodily 
+substance ; (2) to afford energy. Since a 
+great variety of different materials are capable 
+of being burnt up for this latter purpose, 
+although they may not contain what is wanted 
+for growth, it follows that J:he requirements 
+are different for the two purposes. While 
+the food stuffs needed for growth and main- 
+tenance do, as a matter of fact, contain 
+combustibile constituents, and thus give 
+energy, there are other food stuffs, which are 
+equally valuable as producers of energy, but 
+insufficient for growth. 
+
+The general facts may be better under- 
+stood by comparison with a petrol motor. 
+Such a machine in process of construction 
+requires certain materials steel, iron, brass, 
+insulating material and so on some of which 
+cannot be replaced by others. When finished, 
+and set to work, a supply of these materials 
+is no longer necessary, but a combustible fuel 
+is used as food for the engine. This fuel is 
+
+
+
+THE USES OF FOOD 11 
+
+burned in the cylinder, and the energy 
+afforded can be made use of for various 
+purposes. Notice that the fuel does not 
+become part of the motor, but that its energy 
+is made available by means of the mechanism. 
+Now, in process of time, certain parts, such 
+as the piston rings and valves, wear out and 
+must be replaced by new ones, whereas there 
+are other parts, such as the fly-wheel and the 
+general framework, which last for the dura- 
+tion of the life of the engine, except for 
+accidents. There are also other suggestive 
+points of resemblance to the animal machine. 
+Attention will be directed to these later. 
+
+Proceeding now to further details, we 
+may first consider the nature of the food 
+necessary for growth and maintenance. 
+
+Examining the constituents of the animal 
+body, we find that they consist of numerous 
+compounds of carbon with nitrogen, hydro- 
+gen and oxygen. Some of these contain also 
+sulphur and phosphorus. In addition to 
+these, there is a large amount of water and 
+a small amount of some inorganic salts, chiefly 
+of sodium, potassium and calcium. 
+
+
+
+12 PHYSIOLOGY OF FOOD 
+
+As regards water, this does not afford 
+energy, since it is already completely burnt 
+or oxidized. But it may be looked upon as 
+a kind of food, in so far as it is necessary for 
+the proper working of the animal machine, 
+and may be compared to the lubricating oil 
+used for the moving parts of the petrol 
+motor. As water is continually being lost 
+from the lungs and kidneys, it must be re- 
+placed. In civilized and habitable places there 
+is, or ought to be, a copious supply of good 
+water, a matter which is by no means the 
+least important one to ensure. 
+
+As regards salts, similar remarks may be 
+made. The machine will not work without 
+them ; but, except under special conditions, 
+they are taken with other forms of food, 
+being contained therein. The only salt com- 
+monly consumed as such is sodium chloride, 
+ordinary table salt. Further remarks in 
+connection with water or salts will not be 
+required. 
+
+What about the carbon compounds which 
+form the greater part of our bodies ? As is 
+well known, the large body of doctrine 
+
+
+
+THE USES OF FOOD 18 
+
+known as organic chemistry is concerned 
+with these, and the name is due to the fact 
+that the first compounds of this kind were 
+obtained from plants or animals. We may 
+ask why the compounds of carbon should 
+have this special place of honour. It is 
+interesting to consider for a moment what 
+are the peculiarities of carbon that have 
+caused it to be the basis of the evolution of 
+life. In the first place, carbon is quadri- 
+valent, as the chemists call it ; that is, it can 
+combine with four other elements or groups. 
+Moreover, its atoms possess in a special 
+degree, unknown in the case of other ele- 
+ments, the power of combining with each 
+other, so that long chains or rings are formed. 
+Compounds containing as many as two hun- 
+dred or more atoms are known to exist. 
+Another important fact about carbon is its 
+position with respect to other elements with 
+which it may combine. The chemical ele- 
+ments can be arranged in a series, such that 
+those at opposite ends have the greatest 
+"affinity" for each other. In other words, 
+they combine together with the setting free 
+
+
+
+14 PHYSIOLOGY OF FOOD 
+
+of large amounts of energy. Oxygen and 
+hydrogen, for example, are a long way apart 
+in this arrangement, and they combine with 
+great violence. Now, carbon is somewhere 
+about the middle, so that it can combine with 
+either hydrogen or with oxygen. In the 
+latter case, we have the universal product of 
+combustion of carbon compounds as it takes 
+place in living organisms, as well as in the 
+non-living world. This is carbon dioxide or 
+carbonic acid, as it used to be called, since it 
+forms an acid when dissolved in water. In 
+this process of combustion, energy is given 
+off. On the other hand, carbon can be made 
+to combine with hydrogen, giving rise to the 
+well-known paraffin oils and similar hydro- 
+carbons. But, in this case, energy must be 
+supplied from outside. These compounds of 
+carbon and hydrogen, when burnt, give out 
+large quantities of energy, as is familiar to 
+all, at all events in one of its forms, that of 
+heat. We see thus that carbon serves as 
+an admirable means for the transference of 
+energy in vital processes. 
+
+The carbon compounds in the form in 
+
+
+
+THE USES OF FOOD 15 
+
+which they leave the animal body, after 
+being made use of, are, nearly all of them, 
+completely burnt up, so that they contain 
+no more available energy, or merely a negli- 
+gible quantity. It is clear, therefore, that 
+some means must exist for converting them 
+back again into food-stuffs containing energy. 
+A description of this means is beyond the 
+scope of this book ; in brief, it may be 
+stated that it is provided by the green plant, 
+with the aid of energy derived from the 
+rays of the sun. This energy is stored up 
+in the form of compounds from which the 
+oxygen has been partially removed, which 
+then serve as sources of food to give energy 
+to the animal. Thus, our energy is derived 
+from the sun. Further details may be found 
+in my General Physiology (1915), pp. 558- 
+
+5 6 9- 
+
+Animals are dependent for their food 
+
+either on plants or on other animals, that 
+is, ultimately on plants in all cases. 
+
+Since all the constituent parts of the 
+body structures contain nitrogen, food must 
+be supplied containing this element. The 
+
+
+
+16 PHYSIOLOGY OF FOOD 
+
+simplest chemical compounds of this kind 
+which can be used by the higher animals 
+are those known as ammo-acids. One of 
+these is formed from acetic acid, familiar in 
+vinegar, by the combination with it of a 
+derivative of ammonia, which contains nitro- 
+gen. There are a large number of different 
+amino-acids, and together these have been 
+found capable of serving as nitrogen food, 
+without the addition of other nitrogen com- 
+pounds. But, as a regular diet, they would 
+be impossible on account of the difficulty 
+and cost of preparing them, apart from ob- 
+jection on the ground of taste. Accordingly, 
+what we actually use are the various com- 
+pounds, consisting of amino-acids united 
+together, which are found in the tissues of 
+plants and animals. These compounds are 
+known as " proteins," a name which will be 
+frequently used in succeeding pages, and has 
+even become familiar from the pages of the 
+daily press. Certain of these proteins con- 
+tain sulphur and phosphorus, so that the 
+supply of these elements is provided for. 
+The word " proteid " is now obsolete. 
+
+
+
+THE USES OF FOOD 17 
+
+In actual practice, very few foodstuffs are 
+of such a nature that they can be used by 
+the cells of the body without being split up 
+into simpler substances. Proteins, for ex- 
+ample, must be converted into amino-acids, 
+and starch into sugar. This is the function 
+of the process known as digestion, to which 
+our attention will be devoted presently. 
+
+An important point with regard to the 
+materials required for growth is that different 
+proteins are composed of different mixtures 
+of amino-acids, such that one or more may 
+be absent from a particular protein. Such a 
+protein, therefore, would only be an adequate 
+source of nitrogen if the amino-acid wanting 
+could be formed in the body from those 
+which are actually present in the food itself. 
+But there are some amino-acids which 
+cannot be so formed. A protein which does 
+not contain them is accordingly not, of itself 
+alone, adequate as a source of nitrogen food. 
+Such a contingency is not likely to happen 
+in the British Isles, but must not be for- 
+gotten where there is a possibility of a 
+limited variety in protein diet. 
+
+
+
+18 PHYSIOLOGY OF FOOD 
+
+It may be remembered that, in our illustra- 
+tion of the petrol motor, it was pointed out 
+that there are parts which do not require 
+renewal on account of wear and tear. It is 
+not unexpected to find that, after the work- 
+ing machinery of the body has been con- 
+structed, certain parts of it also do not 
+appear to suffer loss in this way. Hence, 
+a particular constituent of food may be 
+necessary for growth, but not for main- 
+tenance. Some experiments made in the 
+United States seem to show that this is 
+actually the case. 
+
+The important fact, however, for our pre- 
+sent purpose, is that the products of wear 
+and tear contain nitrogen, both in the adult 
+and in the growing child. 
+
+Turning next to the second function of 
+food, the supply of energy, there are a few 
+more facts needed in order to make further 
+discussion intelligible. 
+
+While there are many forms of energy- 
+mechanical motion, heat, electricity and so 
+on these can be converted into one another. 
+Indeed, practically all the energy which we 
+
+
+
+THE USES OF FOOD 19 
+
+make use of is derived from the chemical 
+energy of the food taken. This food, when 
+burnt by the oxygen taken in by respiration, 
+sets free energy which is converted into the 
+various forms required. As Clark Maxwell 
+has put it, the transactions of the material 
+universe are carried on by a system of debit 
+and credit in which energy changes hands, 
+as it were. Now, it is just in this transfer 
+of energy that the phenomena which par- 
+ticularly strike us as characteristic of living 
+beings are manifested. It is while in the 
+act of transference that it is especially capable 
+of being made use of. Just as in com- 
+mercial transactions money can be most 
+readily appropriated when passing from one 
+form to another. From another point of 
+view, while life lasts there cannot be a real 
+state of equilibrium. Life means activity, 
+and activity means transfer of energy. 
+
+When it was stated above that all forms 
+of energy can be changed into one another, 
+it must not be understood that the whole 
+of any one form can be changed into the 
+equivalent value in any other form. While 
+
+
+
+20 PHYSIOLOGY OF FOOD 
+
+this is true for all forms of energy with the 
+exception of heat, in this latter case the 
+whole cannot be converted into another form 
+of energy. This fact impresses upon us the 
+consequence that, when once energy has 
+become heat, a part of it is lost for other 
+useful purposes. It is no longer " free " 
+energy, and is sometimes said to be " de- 
+graded " to heat. Kelvin called attention 
+to this fact under the name of the " dissipa- 
+tion of energy," and to many readers it will 
+be recognised as involved in the second law 
+of energetics, or, as it is often called, Thermo- 
+dynamics. The name Thermodynamics as 
+applied to the laws of energy, arises from 
+the circumstance that these laws have been 
+mostly made out from investigations on heat 
+energy. 
+
+The special position of heat as regards con- 
+vertibility may possibly be due to the fact that 
+under ordinary conditions we can obtain an 
+absence, or zero value, of all other forms of 
+energy, but that the zero of heat is at a tem- 
+perature 273C. below the freezing point of 
+water. 
+
+
+
+THE USES OF FOOD 21 
+
+The reader will probably ask what this 
+discussion is meant to lead to. Its immediate 
+object is to explain the name, calorie, a 
+unit in which the energy value of food is now 
+universally expressed. The calorie is that 
+quantity of heat energy required to raise the 
+temperature of one kilogram of water by one 
+degree centigrade, or, more precisely, from a 
+temperature of 1 5 to that of 1 6. Now, while 
+every one is quite familiar with differences of 
+temperature, the conception of quantities of 
+heat is not quite so easily grasped. Perhaps 
+the distinction may be realized by reference 
+to the homely illustration of a hot-water bottle 
+used to warm the bed. It will be granted at 
+once that if only a table-spoonful of boiling 
+water is put into the bottle, very little benefit 
+will result, whereas if it is filled with water, 
+at the same temperature as before, the bed 
+may be comfortably warmed. Thus, the heat 
+required to raise the temperature of two kilo- 
+grams of water by one degree is double that 
+required for one kilogram, and the amount of 
+heat energy contained in the former is twice 
+that in the latter. 
+
+
+
+22 PHYSIOLOGY OF FOOD 
+
+The reason why the energy value of food is 
+expressed in heat units is, that this is the most 
+convenient practical method of determining 
+the total energy that can be obtained from the 
+food. It is done by burning a known weight 
+of the foodstuff in oxygen and measuring the 
+amount of heat produced by the combustion. 
+The heat is caused to raise the temperature of 
+a known amount of water. 
+
+But it is very important to remember that 
+the whole of the energy of food is not ne- 
+cessarily converted directly into heat in the 
+body. It is used more economically, as the 
+second law of energetics tells us, by direct 
+conversion into other forms of energy. In 
+the contraction of muscle, for example, the 
+potential energy present before activity is con- 
+verted into that of the pull exerted, without 
+any loss as heat. It is only in the subsequent 
+recovery process that a loss occurs. Of course 
+the production of heat is not altogether a loss, 
+at all events when the external temperature 
+is lower than that of the body. Heat is 
+necessary to keep up the normal temperature. 
+But, nevertheless, the distinction sometimes 
+
+
+
+THE USES OF FOOD 23 
+
+made between " flesh-forming" food, by 
+which protein is meant, and " heat-forming " 
+food is misleading. It suggests that protein 
+is the special food for muscle, that non-nitro- 
+genous kinds of food form heat only, with the 
+exclusion of energy of other kinds, and that 
+protein itself does not form heat. None of 
+these statements is correct. 
+
+Oxygen. No energy can be obtained from 
+food unless it is burnt by combustion with 
+oxygen. Oxygen is consumed in all active 
+organs of the body, as shown by the dark 
+colour of the blood in the veins leaving 
+them. As can easily be tested by any one, 
+blood becomes bright red when shaken with 
+oxygen or air, dark crimson when the oxygen 
+is removed. The bluish colour of the veins 
+is due to reflected light. Since oxygen is uni- 
+versally present in the atmosphere, it is not 
+usually regarded as a food ; but it is really 
+the most important of all foods. 
+
+In point of fact, however, it is not easy 
+to explain the obviously beneficial effects of 
+fresh air. There is no actual deficiency of 
+oxygen in many rooms which seem " stuffy," 
+
+
+
+24 PHYSIOLOGY OF FOOD 
+
+so that the cause of the unpleasant results of 
+remaining in such places must lie in some 
+other factor. A partial explanation may be, 
+as Leonard Hill contends, that the effect is 
+due to the absence of currents of air and the 
+stimulation of the skin produced by them. 
+It would thus be a result of failure of stimu- 
+lation of the nervous system. The general 
+experience of more refreshing sleep obtained 
+when the bedroom window is open tends 
+to support the view of the importance of 
+the effect on peripheral sense-organs. The 
+benefit of a cold bath is probably of a similar 
+nature, as also that of exercise, to a certain 
+degree. Further remarks on the question of 
+exercise will be found below. 
+
+
+
+CHAPTER III 
+
+THE THREE CLASSES OF FOODSTUFFS 
+
+AFTER this somewhat lengthy, but neces- 
+sary, physiological introduction, we are in a 
+position to consider with profit the materials 
+actually consumed for food and to deduce 
+practical conclusions as to their use and 
+value. Readers who desire more informa- 
+tion on the physiology of nutrition may con- 
+sult the textbook by Lusk (1909), or those 
+sections of the works of Starling (1915), or 
+of the present author (1915), which deal with 
+the subject. The titles of these books are 
+given in the list at the end of this manual. 
+
+In order to produce new growth or to 
+replace tissue lost, nitrogen, as well as car- 
+bon, hydrogen and oxygen, is required, be- 
+cause these elements are contained in the 
+new tissue. Proteins, therefore, in some 
+
+25 
+
+
+
+26 PHYSIOLOGY OF FOOD 
+
+form, are a necessary component of an ade- 
+quate diet. Other articles of diet do not 
+contain available nitrogen. Protein, more- 
+over, is able, if taken in sufficient amount, 
+to afford all the energy required. But, in 
+order to do this, a large excess of the nitro- 
+genous component of protein must be dealt 
+with by the body ; and, since this nitrogenous 
+part affords no appreciable energy and is 
+greatly in excess of that needed for building 
+or repairing purposes, it is merely wasted. 
+The energy to be obtained from protein is 
+practically the same as that of an equal 
+weight of sugar ; but since, as we shall see, 
+it is the most costly of all food materials, to 
+use it for the supply of energy only would 
+be very wasteful, provided that other mate- 
+rials are capable of serving the purpose. It 
+is as if we were to use for fuel in a petrol 
+motor a petroleum spirit containing copper 
+in fine powder. The copper would merely 
+drain away from the cylinder in the waste 
+lubricating oil, just as the excess nitrogen 
+of protein leaves our bodies in the form of 
+urea in the urine, without having fulfilled 
+
+
+
+THREE CLASSES OF FOODSTUFFS 27 
+
+any useful purpose in the activities of the 
+organism. The energy value of proteins is, 
+in fact, only a trifle greater than that of their 
+hydrocarbon part alone. 
+
+Now it is familiar to every one that there 
+are many substances in the world which give 
+out energy in the form of heat when they 
+are burnt. Such are charcoal, metallic mag- 
+nesium, paraffin candles, as well as butter or 
+sugar. None of these contains nitrogen. 
+As regards the materials typified by the first 
+three mentioned, the higher animals possess 
+no agents in the alimentary canal capable 
+of rendering them soluble in such a way as 
+to be able to gain admission to the blood. 
+Even if they did so, the oxidizing mechanisms 
+of the body would be unable to deal with 
+them, although it appears that certain micro- 
+organisms can utilize paraffin oil. Cotton 
+fibre also is useless for man's food, although 
+herbivorous animals make use of it ; it is 
+said that sheep grow fat on blotting paper. 
+The second things mentioned, typified by 
+butter and sugar, on the other hand, can be 
+11 digested," as we call the process of acting 
+
+
+
+28 PHYSIOLOGY OF FOOD 
+
+upon them so as to make them able to be 
+oxidized. They are then burnt in such a 
+way as to render their energy available in 
+some form or other. 
+
+Butter and sugar represent two classes of 
+food stuffs, the fats and the carbohydrates, 
+both of which are consumed for the purpose 
+of affording energy. The energy require- 
+ment of the adult being at least nine times 
+as great, as regards weight of the food taken, 
+as that of the nitrogen requirement, the 
+advantage of using cheaper forms than that 
+of protein is obvious. 
+
+A word or two may be said with respect 
+to the chemical nature of fats and carbo- 
+hydrates. Fats are compounds of glycerin 
+with acids containing a large number of 
+carbon, hydrogen and oxygen atoms, but the 
+oxygen contained is much less than that 
+with which the carbon and hydrogen are 
+capable of combining. Hence they afford 
+much energy when burnt. Butter, lard, suet, 
+olive oil are examples of nearly pure fats, 
+but fat is a constituent of most natural food- 
+
+
+
+THREE CLASSES OF FOODSTUFFS 29 
+
+stuffs in varying quantity. On account of 
+their content in glycerin, fats are required in 
+large amount for the manufacture of those 
+explosives which contain nitro-glycerin. 
+
+Carbohydrates are so called because their 
+composition is such that they contain carbon, 
+hydrogen and oxygen in such proportions as 
+to possess sufficient oxygen to combine with 
+the whole of the hydrogen to form water. 
+For this reason, they give scarcely more 
+energy than that of the carbon which they 
+contain. But, owing to their abundance, 
+they form very valuable foodstuffs. They 
+are met with in a variety of forms starch, 
+a prominent constituent of wheat and other 
+cereals and of potatoes ; sugar, of which 
+there are several kinds distinguished by the 
+chemist : cane sugar, found especially in the 
+sugar-cane and in beetroot, malt sugar in 
+malt, milk sugar or lactose in milk, glucose 
+and fructose in fruits, honey, etc. All the 
+natural carbohydrates are, for practical pur- 
+poses, to be regarded as identical in energy 
+value as foods, although some of them 
+
+
+
+30 PHYSIOLOGY OF FOOD 
+
+require preliminary treatment, mostly of a 
+simple kind, by digestive enzymes, before 
+they can be utilized by the organism. 
+
+Natural foodstuffs, especially those of vege- 
+table origin, contain, as a rule, indigestible 
+matter in greater or less amount. Although 
+this is valueless for building or energy pur- 
+poses, it has its importance in preventing 
+constipation by the stimulating effect on the 
+contractions of the intestinal tube. A diet 
+consisting of materials of too digestible a 
+nature gives trouble on this account. Hence 
+the importance of the fibre in fruit and 
+vegetables, the outer part of the wheat grain 
+in whole-meal bread, and so on. 
+
+Of the three classes protein, fat and carbo- 
+hydrate we see that the two latter may be 
+looked upon as having the same function, 
+that of giving energy ; so that, in a diet, 
+they may be replaced one by the other. 
+The reasons for using both will be seen 
+later. Protein is indispensable, because it 
+forms part of the machinery of the living 
+cell. But, just as we have seen that protein 
+has also its energy value, so it appears that 
+
+
+
+THREE CLASSES OF FOODSTUFFS 31 
+
+the cell machinery requires both carbo- 
+hydrate and fat in particular forms, not only 
+to facilitate its working, but probably also 
+as actual parts of the machine. This, how- 
+ever, uses up but a very small fraction of 
+the total consumption, which is almost en- 
+tirely for energy purposes. At the same 
+time, it would be a great mistake to un- 
+dervalue the importance of substances on 
+account of their relatively small amount, as 
+we shall see presently. 
+
+
+
+CHAPTER IV 
+
+THE QUANTITY REQUIRED 
+
+THE following are the quantities which 
+are generally accepted at the present time 
+as a sufficient daily diet for a man of average 
+weight, doing a moderate amount of muscular 
+work. 
+
+
+
+
+
+Weight in 
+Grams. 
+
+
+Weight 
+in Oz. 
+
+
+Enerpy Value 
+in Calories. 
+
+
+Protein . . . 
+
+
+IOO 
+
+
+375 
+
+
+400 
+
+
+Fat .... 
+
+
+100 
+
+
+3'75 
+
+
+900 
+
+
+Carbohydrates . 
+
+
+500 
+
+
+iS'oo 
+
+
+2OOO 
+
+
+
+Total Energy Value, 3300 calories 
+
+Of course, the energy value must be greater 
+if more work is done, and conversely : so 
+that we may have such figures as these 
+3 2 
+
+
+
+THE QUANTITY REQUIRED 88 
+
+Light work . 3000 calories 
+
+Moderate work . 3500 ,, 
+
+Heavy work . 4000 or more calories 
+
+Since part of our food is consumed for 
+the purpose of maintaining the body tem- 
+perature, in cold weather the total calorie 
+requirement is greater than in hot weather. 
+Thus, according to Langworthy (1908), the 
+average energy value of the diet of the 
+Egyptian labourer is 2825. In the Tropics, 
+indeed, where the external temperature may 
+be higher than that of the body, it would 
+clearly be of advantage if no heat were 
+produced. But the machinery, as a whole, 
+is not of the high degree of efficiency re- 
+quired for this to be the case. Heat, 
+therefore, must be got rid of, chiefly by 
+evaporation of sweat, but the actual pro- 
+duction tends to be kept as low as possible 
+by reduction of unnecessary muscular work. 
+
+It may be noticed that chief stress seems 
+to be laid in diet tables on the energy or 
+calorie value of the food. This is justified 
+by the fact, already mentipned, that, if any 
+
+
+
+34 PHYSIOLOGY OF FOOD 
+
+reasonable kind of combination of foodstuffs 
+be consumed, it will be found that, if taken 
+in the amount necessary to afford the energy 
+value, sufficient protein will be contained in 
+it without further addition. Natural food- 
+stuffs, even potatoes, contain more protein 
+than is often supposed to be the case. Pure 
+products extracted from parts of plants or 
+animals, such as sugar or oil, are not likely 
+to be made the sole articles of a diet. 
+
+We may put the matter thus : 
+
+" Take care of the calories and the protein 
+will take care of itself." 
+
+On the other hand, if a large proportion of 
+the diet is made up of sugar or fat, it may be 
+necessary to take account of the protein value 
+of the remainder. 
+
+Some readers may have observed that the 
+number of calories given in the table on 
+page 33 refer only to muscular work. They 
+may ask, What about mental work ? This is 
+a rather difficult problem. The energy value 
+of the diet for a man engaged in such work 
+is sometimes given as the same as that of 
+a man doing very light mechanical work. 
+
+
+
+THE QUANTITY REQUIRED 35 
+
+Now, this is possibly correct, since, so far as 
+we know, the actual consumption of energy 
+in mental processes is not great. But there 
+is another consideration which, as it seems 
+to me, should be taken into account. The 
+oxygen consumed by an organ, as we have 
+seen, is an index of the exchange of energy 
+therein, or, for our present purpose, an index 
+of the food required by the organ. So far 
+as experimental results go, it seems to be the 
+fact that the actual consumption of oxygen 
+in the nerve centres is not great, but, on the 
+other hand, it has to be supplied at a high 
+pressure. This is shown by the fact that 
+even momentary stoppage of the blood 
+supply causes immediate unconsciousness, 
+although the oxygen of the blood still re- 
+maining in the brain cannot have been ex- 
+hausted. It is somewhat as if we had an 
+electro-magnet which does not need much 
+current to actuate it, but, owing to the wire 
+with which it is wound being of a high 
+resistance, a high voltage is necessary to 
+drive even a small current through. Should 
+the brain be an analogous case, it seems 
+
+
+
+36 PHYSIOLOGY OF FOOD 
+
+possible that, although the actual consump- 
+tion of food is not great, yet this food may 
+require to be presented at a high pressure, 
+and that to attain this high pressure it might 
+be necessary to take a diet of an energy 
+value equivalent to that of moderate muscular 
+work. But this should certainly be sufficient, 
+and the question is not yet decided. 
+
+In reckoning the food-supply necessary for 
+a population consisting of men, women and 
+children of various ages, it is convenient to 
+convert the total number of individuals to 
+some common unit. Since women and 
+children, on the average, consume less than 
+men, it will be clear that the number of men 
+to which the total population is equivalent is 
+less than the total number of individuals. A 
+factor calculated from the average proportion 
+of men to women and children is very nearly 
+075. Thus, the total number of "men" for 
+whom the standard ration has to be provided 
+is obtained with a considerable degree of ac- 
+curacy by taking three-quarters of the whole 
+population. This is known as the man-value. 
+
+Tables have been drawn up by Professor 
+
+
+
+THE QUANTITY REQUIRED 87 
+
+Thompson (1916) and others, from returns 
+of the Board of Agriculture and other sources, 
+which give the total food supply of the United 
+Kingdom as it was just before the War. 
+There are, naturally, gaps in these lists, on 
+account of the fact that the returns do not 
+include the food consumed by people who 
+grow it, farmers especially. This has to be 
+estimated. But, on the whole, there would 
+not be any considerable error on this account, 
+and the various tables drawn up by differ- 
+ent persons show a somewhat remarkable 
+agreement. 
+
+Now, at the present time, it is of vital 
+importance that soldiers in the field, and also 
+of course the men of the Navy, should have 
+a completely adequate supply. The follow- 
+ing is generally taken to be such a diet 
+
+War Ration in the Field 
+
+Protein . . .158 grams 
+Fat .... 200 ,, 
+
+Carbohydrate . .514 ,, 
+Energy Value, 4600 calories 
+
+
+
+38 PHYSIOLOGY OF FOOD 
+
+The protein supply is, perhaps, rather un- 
+necessarily high, for the reasons that will 
+appear presently, but this is an error on the 
+right side, in any case. The carbohydrate 
+might possibly be increased with advantage, 
+even at the expense of a little less meat. 
+There is, without a doubt, a great desire 
+for chocolate and cakes on the part of 
+soldiers on active service. One can hardly 
+suppose that this desire is entirely devoid of 
+physiological basis. 
+
+After deducting that part of our food 
+supply required for the Army and Navy, it 
+will be found, by any one who will take the 
+trouble to make the calculation, that what is 
+left for the civilian population will supply an 
+average diet per "man" approximately as 
+follows 
+
+Protein . . .109 grams 
+Fat . . -123 
+
+Carbohydrate . .514 ,, 
+Energy Value, 3700 calories 
+
+This assumes that the supply is not less than 
+before the War, and it must also be remem- 
+
+
+
+THE QUANTITY REQUIRED 39 
+
+bered that the number of soldiers to be fed 
+is increasing. The protein ration is no 
+greater than the standard given above for 
+moderate muscular work. While, therefore, 
+there is no ground for alarm as regards the 
+possibility of starvation, it will be plain that 
+it is the duty of those who do not require so 
+much as this to reduce it as far as possible. 
+Any one who takes more than his share is 
+depriving some one else of part of his. 
+Hence the need for some kind of regulation 
+of food consumption. But there is also, or 
+should be, the desire to limit unnecessary 
+expense. Anything saved by this means 
+serves to augment the resources of the 
+nation by enabling the purchase of War 
+Loan, or in similar ways. We see, then, the 
+need for the regulation of prices of food ; and 
+also that it is incumbent on us all to choose 
+the sources of our food as far as possible 
+from those of least cost. 
+
+The Belgian Food Commission. It is of 
+interest to consider briefly the feeding of the 
+Belgian population by the American Com- 
+mission as an application of some of the 
+
+
+
+40 PHYSIOLOGY OF FOOD 
+
+principles given in the previous pages. I 
+must here express my admiration for the 
+wonderful organization by which this is being 
+done. Humanity owes a debt of gratitude 
+to our American brethren, which it is to be 
+hoped will never be forgotten. 
+
+The object of this Commission has been to 
+supply to all a uniform ration of 2000 calories 
+per day, chiefly by means of a system of 
+tickets enabling bread to be bought at a 
+price which enables a small profit to be made 
+by the Commission. But other foodstuffs, 
+such as potatoes, beans, sugar and lard, are 
+supplied. It was found that people could be 
+kept in health at a cost of three and a half 
+pence per day. Owing to the excellent 
+method adopted, the bread can be sold at a 
+comparatively cheap rate (see Commission for 
+Relief in Belgium, Report 1916, and the 
+pamphlet by Mr. Robinson Smith, 1916). 
+
+But this diet alone is only just about the 
+minimum required to keep body and soul 
+together. So that, if there is an impossibility 
+of getting sufficient supplies, as has happened 
+in Lille, the death-rate goes up. The nor- 
+
+
+
+THE QUANTITY REQUIRED 41 
+
+mal mortality of 20 per thousand rose to 30 
+in December 1915, to 40 in March 1916. 
+Those, however, who are well-to-do purchase 
+additional food for themselves, and the profit 
+from the sale of bread is distributed to the 
+destitute. This latter item is very consider- 
+able, owing to the magnitude of the whole 
+undertaking. Over one million pounds profit 
+was earned up to October 3ist, 1915. It 
+should be remembered that the work of organ- 
+ization is voluntary, but that there are large 
+expenses involved in the distribution and so 
+on. This has to be met by subscriptions 
+from friends outside. Up to October 3ist, 
+1915, these amounted to three and a half 
+million pounds. The bread supplied appears 
+to be of excellent quality. Rice and other 
+foodstuffs can also be purchased from the 
+Commission. Rice, in fact, is sold in Bel- 
+gium at one-half the peace price. It is satis- 
+factory to know that very strict means are 
+taken to ensure that no part of the food finds 
+its way to the Germans ; and, so far, it seems 
+that escape of this kind has not occurred to 
+any important degree. I refer to this work 
+
+
+
+42 PHYSIOLOGY OF FOOD 
+
+as an illustration of what is possible under 
+very difficult conditions. 
+
+Actual Value of some Foods. In order to 
+give a concrete meaning to the figures given 
+above for a standard diet, the calorie value 
+and contents in protein, fat and carbohydrate 
+of certain articles are given below. 
+
+NUMBER OF GRAMS REQUIRED TO PRODUCE 
+100 CALORIES 
+
+( 28 '35 grams =i oz.) 
+Butter. . . . 13-5 
+
+Cheddar Cheese . . .22 
+Sugar . . . 24-5 
+
+Oatmeal . , . .28 
+Mutton . . . .29 
+
+Fish 67 
+
+Eggs 68 
+
+Milk ..... 145 
+
+100 grams of protein are contained in 
+Steak . . . i8'5 oz. 
+
+Milk .... 5 pints 
+Oatmeal . . . i -5 Ib. 
+Peas, Dried . . ., 13-5 oz. 
+Bread . . . 2-5 Ib. 
+
+
+
+THE QUANTITY REQUIRED 43 
+
+100 grams cffat are contained in 
+Butter .... 4*5 oz. 
+
+500 grams of carbohydrate are contained 
+in 
+
+Bread . . . 2 Ib. 2 oz. 
+Oatmeal . . . i Ib. 1 1 oz. 
+Potatoes . . . 7*5 Ib. 
+Sugar . . i Ib. 2 oz. 
+
+The percentage composition of bread is as 
+
+follows 
+
+Water 36 
+
+Protein 9-5 
+
+Fat i 
+
+Carbohydrate . . -53 
+
+Ash, etc. . . . . 1-5 
+
+Calories per pound, 1215. 
+
+The composition of bread varies some- 
+what, but we see that, taken in the correct 
+quantity, it forms an excellent basal con- 
+stituent of diet, being deficient only in fat. 
+Further particulars regarding individual 
+articles of diet will be found below. The 
+
+
+
+44 PHYSIOLOGY OF FOOD 
+
+detailed tables in Miss McKillop's book 
+(1916) and, for convenient calculation, the 
+triangle method of Irving Fisher (1905) will 
+be useful. 
+
+Minimum of Protein required. Although 
+100 grams of protein is usually recognized 
+as that of a satisfactory diet, there is evidence 
+that, at all events for healthy individuals, 
+this quantity may be unnecessarily large. 
+The question is a somewhat difficult one, 
+but must not be shirked. It has been 
+pointed out above that all ordinary diets 
+likely to be adopted will automatically con- 
+tain as much protein as 100 grams. But 
+should it be necessary in any circumstances 
+to reduce the protein ration to some extent, 
+no alarm need be felt. This conclusion is 
+forced upon us by several facts, to which 
+we must denote a small space. The de- 
+terminations of Hamill and Schryver (1906) 
+showed that the protein consumption of 
+many persons during their regular work, 
+and taking their ordinary diet, was less than 
+100 grams, of some as low as 76 grams. 
+Further, from the theoretical point of view 
+
+
+
+THE QUANTITY REQUIRED 45 
+
+it is not easy to see why so much nitro- 
+genous food should be necessary, since, in 
+the adult, the only function of the nitro- 
+genous part of the protein is to replace wear 
+and tear. We have not very accurate 
+determinations of what this amount actually 
+is, but the muscular system may be fairly 
+taken as a representative one. Now the 
+most careful and accurate experiments show 
+that, so long as the work does not result in 
+excessive fatigue, no increase of nitrogen 
+consumption can be detected (see Cathcart, 
+1912, p. 109). Naturally, this fact does not 
+imply that there is no wear and tear in the 
+muscle machinery, but that it is too small 
+to be detected. The fuel consumed in 
+muscular work is carbohydrate, when there 
+is sufficient supply, although fat and even 
+the non-nitrogenous part of protein can be 
+utilized (see Benedict and Cathcart, 1913, 
+pp. 71, etc.). 
+
+Some further evidence is of interest. In 
+the feeding of pigs, it has been found that 
+these animals may be kept on a diet free 
+from protein for three weeks without losing 
+
+
+
+46 PHYSIOLOGY OF FOOD 
+
+weight. Fat pigs, of course, do not lead 
+a very strenuous existence, but the heart, 
+muscles of respiration, and the digestive 
+organs are in activity ; and in fact, a small 
+amount of nitrogen was being continually 
+excreted. 
+
+To some extent, the amount of nitrogen 
+excreted on a diet of full energy value, but 
+devoid of protein, is a guide to the amount 
+of wear and tear of the tissues. This 
+amounts to about 29 grams of protein per 
+day, according to Cathcart's experiments on 
+men. 
+
+But perhaps the most striking experiments 
+are those reported by Hindhede (1913) from 
+the Nutrition Institute of Copenhagen. They 
+were made on a laboratory servant of 70 kilos 
+weight. But, in order to apprize their value, 
+it must be remembered that the subject was 
+a man of exceptional intelligence, taking a 
+great interest in the work going on, and what 
+is perhaps of more importance, is that he 
+appears to have been of unusually good health 
+and strength. Another fact which greatly 
+facilitated the experiments was, that the 
+
+
+
+THE QUANTITY REQUIRED 47 
+
+subject was able to live on a diet consisting 
+exclusively of potatoes, cooked in a particular 
+way with margarine and a little onion. This 
+man, in one experiment, continued his regular 
+duties for 150 days on a diet whose average 
+calorie value was 4000, with a protein content 
+of 29 grams, per day. In another experiment, 
+in vacation time, he undertook hard work as 
+mason and labourer for 95 days on a diet with 
+an energy value of 5000 calories and a protein 
+content of 43 grams. At the end of the 
+experiment, the subject was in perfect health 
+and anxious to commence another experiment. 
+He had, however, lost altogether, on the 
+general balance, about 35 grams of protein 
+from his tissues. This is less than one day's 
+consumption. The contrast between the 
+consumption of protein in this case and the 
+standard 100 grams is obvious. But it is 
+probable that the result was due to the subject 
+being an unusually strong and healthy man ; 
+and the interest of the experiments is that 
+they show the possibility of a perfectly 
+adequate diet containing less than one-third 
+of the so-called standard amount of protein. 
+
+
+
+48 PHYSIOLOGY OF FOOD 
+
+This latter ration is therefore well on the 
+generous side, and a small reduction need not 
+be objected to. 
+
+The uncertainty about the real protein 
+standard necessitates caution in drawing con- 
+clusions as to the poverty of individuals from 
+their protein consumption. In Rowntree's 
+valuable work " Poverty, a Study in Town 
+Life" the author has adopted Atwater's 
+standard of 1 25 grams as the minimum protein 
+ration, and therefore finds that 27% of the 
+population of York are living in poverty, 
+because their protein consumption is below 
+this figure, a conclusion by no means justified. 
+When the statement is made that certain 
+familieswhose income was less than twenty-six 
+shillings a week, were in an unsatisfactory 
+state of nutrition because they consumed only 
+89 grams of protein, and a total energy value 
+in diet of 2685 calories, we can hardly regard 
+the protein as really deficient, and the calorie 
+value could probably have been increased by 
+the addition of some such food as oatmeal at a 
+very small cost : if necessary, by the omission 
+of part of the more costly form of protein. 
+
+
+
+THE QUANTITY REQUIRED 49 
+
+A special value has been ascribed to protein 
+diet on various grounds. But, if we examine 
+these, we are bound to admit that the evidence 
+is not particularly strong. There is a re- 
+markable fact in connection with protein food, 
+known by the name of " specific dynamic 
+energy." The explanation of this behaviour 
+has not yet been satisfactorily given. To put 
+the matter simply, it means that when a meal 
+of protein is taken and the total combustion 
+of the body measured during the few hours 
+immediately succeeding, this combustion is 
+found to be in excess of that which could 
+have been obtained from the protein alone. 
+It must have increased the rate of combustion 
+of other materials present in the organism. 
+So far as the experimental results go, it would 
+seem that this excess merely disappeared as 
+heat, a result which might or might not be 
+an advantage. It does not necessarily follow, 
+however, that the energy is not available for 
+other purposes, as for muscular contraction, 
+if required, and it has been supposed that 
+protein does in fact afford special fuel for 
+times of unusual exertion. The experience 
+
+
+
+50 PHYSIOLOGY OF FOOD 
+
+of alpine guides, however, does not favour 
+this view. They are known to take with them 
+on mountain excursions refreshment such as 
+raisins, which contain chiefly sugar and very 
+little protein. It must be admitted that indi- 
+viduals differ in this respect. When taking 
+food for a long day's walk, for example, some 
+prefer meat sandwiches ; others, of whom I 
+am one, have far more appetite for such 
+things as cake and fruit. From what we 
+know to be the usual fuel burnt for muscular 
+work, carbohydrate would be expected to be 
+the more appropriate. Some individuals may 
+be able to utilize the non-nitrogenous portion 
+of protein more readily than they do carbo- 
+hydrate. A difficulty in regarding protein as 
+valuable in affording energy in times of strain 
+is that there is no storage of it in the body, 
+except in the form of increase in the actual 
+structure of the organs and tissues. In this 
+respect, it differs from both fat and carbo- 
+hydrate. Any special value it has must be 
+manifested while it is being absorbed from 
+the alimentary canal. 
+
+It has also been stated that a danger of a 
+
+
+
+THE QUANTITY REQUIRED 51 
+
+low protein consumption is a liability to suffer 
+more from infectious disease. But no definite 
+evidence has been brought forward to show 
+that this is the case. 
+
+On the whole, it seems that it would be 
+perfectly safe for healthy people to limit their 
+protein consumption to some extent, even 
+below the standard 100 grams. Those in 
+less robust health should proceed carefully. 
+In any case, it is probable that at first some 
+degree of discomfort might be experienced, 
+as indeed would be the temporary result of 
+any reduction in the total amount of food 
+consumed. 
+
+There is one point with regard to which 
+erroneous statements are sometimes made. 
+That is, that the products of the chemical 
+changes which protein undergoes in the body 
+are injurious or poisonous. This is not so. 
+Urea is a perfectly innocuous substance, de- 
+void of active chemical properties. So is 
+uric acid, notwithstanding the nonsense of 
+newspaper advertisements. Although uric 
+acid is found in gouty deposits, there is no 
+reason to suppose that it is the cause of the 
+
+
+
+52 PHYSIOLOGY OF FOOD 
+
+general disorder of nutrition known as 
+gout. 
+
+Turning next to the two sources of energy, 
+we may note that it is possible to supply all 
+the energy required by means of either fat or 
+carbohydrate, so that we may ask, Why do we 
+take both ? 
+
+The vise of carbohydrate is fairly obvious 
+on the ground of its cheapness, but there is 
+also reason to believe that it is of great im- 
+portance, if not essential, to the utilization of 
+proteins (see Cathcart, 1912, p. 1 16). It has, 
+indeed, been suggested that this is the reason 
+why in diabetes, although carbohydrate is 
+carefully withheld, nevertheless the organism 
+continues to produce sugar out of other 
+materials. 
+
+The chief value of fat is in the ease with 
+which it is stored, almost in unlimited quan- 
+tity, chiefly in the so-called connective tissue 
+which fills up spaces between organs in the 
+body and forms a layer under the skin. Al- 
+though carbohybrate is also stored, in the 
+form of glycogen, a kind of starch, in the 
+
+
+
+THE QUANTITY REQUIRED 58 
+
+liver and muscles, this takes place only to a 
+limited extent. We notice that both these 
+foodstuffs, fat and carbohydrate, enable a 
+store of reserve material to be kept for use 
+when required to give energy. 
+
+Although, however, the fat of food is easily 
+stored, the experience of farmers in fattening 
+cattle shows that fat is formed out of carbo- 
+hydrate. Therefore, even on a carbohydrate 
+diet, a store of fat may be laid up. It is 
+perhaps not so easily done as from fatty 
+food. 
+
+Fat has another advantage over carbo- 
+hydrate in that, weight for weight, it has 
+a higher energy value ; but this, of course, 
+could be compensated by consuming a some- 
+what larger proportion of the carbohydrate 
+diet. 
+
+It is sometimes stated that fat is more 
+easily digested than carbohydrate. This de- 
+pends on the particular kind of each taken, 
+especially as regards its physical condition ot 
+subdivision. For example, the fat in milk is 
+probably more digestible than raw starch, but 
+it is very unlikely that cold mutton fat is more 
+
+
+
+54 PHYSIOLOGY OF FOOD 
+
+easily digested than sugar. Pavlov showed 
+that fat in the stomach retards the secretion 
+of gastric juice. Neither carbohydrate nor 
+fat is digested, to any important degree, in 
+the stomach itself, but both are rapidly at- 
+tacked by the pancreatic juice in the small 
+intestine. The sugar, especially, which is 
+produced, is rapidly absorbed, whether it 
+comes from the starch or from the sugar of 
+other kinds in the food. When the stomach 
+is not in a healthy state, both carbohydrates 
+and fats in large amount are apt to cause 
+indigestion, the sugar being easily subject to 
+a fermentation by microbes present. An 
+irritable stomach does not like the presence 
+of matter which it cannot digest. 
+
+On the whole, it would appear that the 
+practical value of fat consists chiefly in its 
+use in cooking. Very few attractive dishes 
+could be made without it, and we shall find 
+presently how important is the fact that food 
+should be eaten with relish. But, in any 
+case, it is rather difficult to understand why 
+the scarcity of fat is so severely felt in 
+Germany. 
+
+
+
+THE QUANTITY REQUIRED 55 
+
+I am unable to follow the objections taken 
+by some to the use of sugar as a food. Un- 
+doubtedly, when carbohydrate is taken in the 
+form of natural grains or roots, other valuable 
+substances are taken with it. But the starch 
+present is all converted into sugar before 
+being of any service to the organism, while 
+the other constituents, so far as they are 
+necessary, can be obtained elsewhere. There 
+is no reason to reject sugar as a valuable 
+foodstuff, so long as it does not make up 
+too large a proportion of the total energy 
+value of the diet. In fact, any objection to 
+it can only be of a negative kind. 
+
+
+
+CHAPTER V 
+
+ACCESSORY FACTORS, OR "VITAMINEs" 
+
+THERE are certain essential constituents of 
+an adequate diet to which, as yet, no refer- 
+ence has been made. Although they are 
+present in very small amount in most natural 
+foods and their chemical nature is unknown, 
+healthy life is impossible in their absence. 
+
+They are best called "accessory factors." 
+Unfortunately, the name "vitamines" was 
+given to them under the mistaken impression 
+that they had been separated in a pure state 
+from foods, and that their chemical nature 
+had been determined. The name has come 
+into use, even in the daily Press. If used, it 
+must be understood that the substances re- 
+ferred to are not " amines" in the chemical 
+sense, and the word must be taken as a mere 
+name, not conveying any meaning by its 
+derivation. 
+
+56 
+
+
+
+ACCESSORY FACTORS 57 
+
+It was discovered by Captain Cook (1776, 
+p. 405) that, in order to preserve the health 
+of his crew on long voyages, it was necessary 
+for them to take every opportunity of obtain- 
+ing fresh food. The preserved food taken 
+on the ship was deficient in something. The 
+passage in which Captain Cook describes his 
+experience is worth quoting 
+
+" We came to few places where either the 
+art of man or nature did not afford some sort 
+of refreshment or other, either of the animal 
+or vegetable kind. It was my first care to 
+procure what could be met with of either by 
+every means in my power, and to oblige our 
+people to make use thereof, both by my 
+example and authority ; but the benefits 
+arising from such refreshments soon became 
+so obvious that I had little occasion to 
+employ either the one or the other." 
+
+Further discoveries in this field are of 
+comparatively recent date. Stepp found, in 
+1909, that alcohol removed something from 
+bread and milk, so that it was no longer able 
+to serve as food for rats. When, however, 
+
+
+
+58 PHYSIOLOGY OF FOOD 
+
+the alcohol was boiled off from the extract, 
+the residue, even in small quantity, added 
+to the inadequate bread and milk, restored 
+its value. Hopkins, in 1912, showed that a 
+diet of purified foodstuffs was incapable of 
+serving as a food for growing rats, but that 
+the addition of a minute amount of fresh 
+milk made the same diet altogether satis- 
+factory. Subsequent investigations showed 
+that the substances concerned are to be 
+found in fresh food of all kinds, vegetable 
+and animal, and that they will stand a certain 
+amount of boiling or heating, so long as the 
+medium is not alkaline. They are apt to be 
+destroyed by long preservation, although 
+some are stable in acid solutions. Lime- 
+juice, which is strongly acid, is well known 
+to retain its protective power against scurvy, 
+which is one of the results of absence of the 
+accessory factors, for a considerable time. 
+There is evidently a variety of these acces- 
+sory factors ; for example, there is one in 
+the outer coat of rice which prevents the 
+occurrence of the disease " beri-beri," caused 
+by the exclusive use of polished rice. 
+
+
+
+ACCESSORY FACTORS 59 
+
+Further, there is evidence that they may be 
+divided into two groups, neither of which 
+is effective for growth without the other. 
+McCollum and Davis (1915) find that rats 
+will not grow on polished rice, even if wheat 
+germ be added ; nor will they grow if butter 
+alone is added. Both together made the 
+diet an adequate one. That contained in 
+wheat germ is soluble in water, not in fat, 
+and may be called the "water-soluble B 
+factor," the other is the " fat-soluble A 
+factor." From Hopkins's experiments, fresh 
+milk must contain both of these. 
+
+It has been noticed in experiments on the 
+effect of absence of these factors, that the 
+deleterious effects do not come on at once. 
+They are subject to a delay of some days. 
+This shows that they do not rapidly dis- 
+appear, although they must be present in 
+very small quantity. The fact indicates that 
+they do not undergo chemical change, like 
+the foodstuffs properly so called. The way 
+in which they act is unknown, but the 
+chemist will be reminded of the phenomena 
+called " catalytic." The mode of action of 
+
+
+
+60 PHYSIOLOGY OF FOOD 
+
+the digestive agents known as "enzymes" is 
+also catalytic. 
+
+An interesting fact is that plants are 
+dependent for normal growth on similar 
+factors. The first case in which the ques- 
+tion was investigated was that of yeast, by 
+Wildiers in 1901. This work was done at 
+the ill-fated University of Louvain, whose 
+wanton destruction has aroused the execra- 
+tion of all civilized nations. The more 
+recent work of Bottomley indicates that these 
+plant factors may be destined to play an 
+important part in the cultivation of vegetable 
+foodstuffs. 
+
+The practical application of the facts 
+described in this section is that in a diet 
+composed of a fair variety of foodstuffs, 
+inclusive of fresh vegetables or fruit, there 
+is no risk of absence of the necessary acces- 
+sory factors. But when a monotonous diet 
+is taken, such as rice, it is important that 
+the material should not be too much pre- 
+pared by artificial means, such as the polish- 
+ing of rice to produce a white appearance. 
+
+
+
+CHAPTER VI 
+
+DIGESTIBILITY 
+
+THERE are many constituents of foodstuffs 
+as bought which are not digested at all, 
+although, if burnt in air, they are capable of 
+giving energy. This has already been men- 
+tioned incidentally. Materials of this kind 
+are the cellulose constituents, woody fibres 
+and so on of plants and some parts of the 
+fibrous or tendinous parts of meat. These, 
+of course, must not be reckoned as com- 
+ponents of the daily ration. They have 
+their value, however, in promoting intestinal 
+movements. 
+
+There are also some constituents which 
+are only partially utilized, because they are 
+not quickly digested and do not remain long 
+enough in the alimentary canal to be fully 
+
+acted upon. Such are the proteins of nuts. 
+
+61 
+
+
+
+62 PHYSIOLOGY OF FOOD 
+
+In giving to such proteins their proper value, 
+therefore, it must not be reckoned as that of 
+the total content in protein, but only some 
+8o%of it. Tables in which the proportion 
+digested of various foods is shown will be 
+found in Lusk's book (1909). 
+
+Many facts of practical importance have 
+come to light through Pavlov's experiments 
+(1910), especially as regards gastric diges- 
+tion. In the first place, it was found that 
+the mere presence of food in the stomach 
+was insufficient to excite secretion of gastric 
+juice, except after some considerable time. 
+The chief stimulus is that the food should be 
+approached with appetite, the stimulus being 
+conveyed through the nervous system. With- 
+out appetite, scarcely any gastric juice is 
+formed. When Macbeth wishes for his guests 
+that good digestion may wait on appetite, it 
+seems that he was stating a truism. The 
+value of attractiveness in food preparations 
+is shown hereby, as is also the mistake made 
+by some well-meaning food reformers who 
+would wish to confine us to plain food. Of 
+course, mere ornamentation of cakes and con- 
+
+
+
+DIGESTIBILITY 63 
+
+fectionery is wasteful of time and material, 
+but variety in form and flavouring, as also 
+in mode of preparation, is to be approved 
+of. This would especially apply to the 
+present time, when it is desirable to limit 
+the consumption of meat. 
+
+It is important to distinguish between 
+hunger and appetite. The former, as shown 
+especially by Carlson (1916), rests upon sen- 
+sations derived from muscular contractions of 
+the empty stomach. The latter is rather an 
+anticipation of pleasures to be obtained from 
+sensations of taste. Hunger, as Carlson re- 
+marks, is probably never felt by many people 
+at the present day, because the physiological 
+state is absent. The gastric contractions in 
+question originate in the stomach itself and 
+are of quite a different nature from those 
+which take place during the process of di- 
+gestion. These latter serve to bring in turn 
+all the food under the action of the digestive 
+juices, and, in due course, propel it into the 
+next following section of the alimentary canal. 
+
+It was mentioned above that, although the 
+presence of food in the stomach by itself 
+
+
+
+64 PHYSIOLOGY OF FOOD 
+
+alone does not lead to any immediate secre- 
+tion of gastric juice, after a time some 
+secretion appears. This is due to the direct 
+effect of products of digestion and is produced 
+also by introduction of meat extracts and 
+other substances into the stomach. The use 
+of soup to commence dinner with finds its 
+justification in this fact, especially when 
+fatigue has blunted the appetite. Perhaps 
+bitters or vermouth may sometimes be use- 
+ful under such conditions, but alcohol in any 
+form must be regarded as an aid of psychical 
+import only. Its direct effect on all digestive 
+processes is a retarding one. Carlson (1916, 
+pp. 293 and 297) shows that bitters, used 
+medicinally, neither increase hunger nor pro- 
+duce any effect on the amount or activity of 
+the gastric juice. 
+
+There are one or two erroneous impres- 
+sions as to the value of some particular foods 
+that need correction. 
+
+The first of these is that raw eggs are 
+more easily digested than cooked ones. The 
+contrary has been shown by careful experi- 
+ments to be the case. Of course, if the 
+
+
+
+DIGESTIBILITY 65 
+
+white is boiled hard, it must be finely divided 
+by chewing, otherwise the gastric juice can 
+only attack it slowly from the outside. Prob- 
+ably the best form is that of custard. The 
+reason why raw egg-white is difficult of 
+digestion is that it contains something, in 
+small amount, which has a powerful retarding 
+or inhibiting action on the digestive enzymes. 
+This is destroyed by heat. 
+
+Arrowroot and cornflour are popularly 
+supposed to be specially digestible foods for 
+invalids. In fact, they are chiefly starch, and 
+apparently no better than other forms of 
+starchy food. Very little protein is contained 
+in them. Gelatin, again, is not a complete 
+protein and should not be relied upon to 
+any extent to replace true proteins. These 
+considerations are of importance in feeding 
+patients recovering from any wasting disease. 
+It will be obvious that they require plenty of 
+material to build up the tissues that have 
+been lost. 
+
+Fatty substances are not digested in the 
+stomach and, as Pavlov showed, tend to 
+oppose the secretion of gastric juice. In a 
+
+
+
+66 PHYSIOLOGY OF FOOD 
+
+healthy stomach, and especially when in a 
+finely divided state, as in milk and cream, 
+they produce no disturbance and are easily 
+digested in the small intestine. This applies, 
+as is well known, even to the case of illness. 
+
+
+
+CHAPTER VII 
+
+ALCOHOL 
+
+AT this point some further remarks with 
+regard to the use of alcoholic "stimulants" 
+are necessary. 
+
+Some intemperate advocates of Temper- 
+ance have unfortunately done harm to their 
+cause by making statements which their 
+opponents are able to disprove. One of 
+these is the denial that alcohol is in any 
+sense a food. 
+
+Its energy value, when burnt outside the 
+body, is high, amounting to 708 calories for 
+100 grams as against 400 for carbohydrate 
+or protein. It has been stated that it is not 
+burnt in the body, or only to a very slight 
+extent. This is not true. It is excreted 
+unaltered in small amount after considerable 
+quantities have been taken, but by far the 
+
+greater quantity is oxidized to afford energy. 
+
+67 
+
+
+
+68 PHYSIOLOGY OF FOOD 
+
+The real objections to its use are of 
+another kind and chiefly on account of its 
+action on the brain before it has had time to 
+be burned up. Although it appears to be a 
+stimulant, this impression is due to an 
+incorrect interpretation of the effects ob- 
+served. It is really a narcotic. One of the 
+most striking facts with regard to the activities 
+of the highest parts of the brain is the great 
+predominance of the inhibitory mechanisms, 
+by which the bringing into play of inappro- 
+priate movements or sensations is kept in 
+check. Now, these mechanisms themselves 
+are extraordinarily susceptible of being abo- 
+lished by extraneous influence of various 
+kinds. One of the most powerful of these 
+influences is alcohol. When, therefore, 
+greater liveliness is experienced under its 
+action, it is because alcohol paralyses the 
+inhibiting mechanisms and not because it 
+excites activity by a true stimulating action. 
+There are, on the other hand, certain sub- 
+stances which appear to be genuine stimulants. 
+Such are caffeine, a constituent of coffee and 
+tea, and perhaps some of the substances 
+
+
+
+ALCOHOL 69 
+
+found in meat extracts. Liebig's extract, 
+for example, contains very little real food. 
+Cocaine, in small doses, has also a stimulant 
+effect on the brain, but it must on no account 
+be used for this or any other purpose except 
+for local anaesthesia, and indeed it is only 
+required for this purpose in very rare cases, 
+since other drugs, such as novocain, serve 
+the purpose equally well. The cocaine habit 
+is easily formed and soon makes a total 
+wreck of its victim, body and mind. Some 
+proprietary articles sold for asthma and other 
+purposes sometimes contain cocaine and 
+should be warned against, although the pre- 
+sent restrictions make it difficult to obtain 
+them. 
+
+An experiment made by Pavlov in his in- 
+vestigations of the activities of the brain 
+shows how readily an act in which inhibition 
+plays a part can be upset by a removal of the 
+inhibition. It was this : a particular bell was 
+rung in the hearing of a dog. Two minutes 
+afterwards food was given. The giving of 
+the food was accompanied, as usual, by the 
+secretion of saliva. The process was re- 
+
+
+
+70 PHYSIOLOGY OF FOOD 
+
+peated for a number of times and then the 
+bell was rung without the subsequent present- 
+ation of food. Nevertheless, after the due 
+interval of two minutes, saliva appeared. It 
+is clear that something must have been going 
+on in the brain between the hearing of the 
+bell and the secretion of saliva, but that the 
+result was prevented by inhibition from show- 
+ing itself. That this was the case was proved 
+by the fact that the inhibition could be re- 
+moved by the application of some indifferent 
+stimulus, such as a touch, to the animal's 
+body. Such a stimulus is not by itself 
+associated with the secretion of saliva. But, 
+if it be applied during the interval of two 
+minutes spoken of, the saliva appears imme- 
+diately, instead of waiting for the lapse of the 
+proper time. 
+
+The narcotic effect of alcohol on the brain is 
+also shown in other ways. After even small 
+quantities, the ability to add figures correctly 
+is decreased, although the subject believes 
+that he is doing it unusually well. Moreover, 
+the effect lasts for as long as twelve hours or 
+more. 
+
+
+
+ALCOHOL 71 
+
+Another false idea is that alcohol warms. 
+This is due to the fact that it dilates the 
+blood vessels of the skin ; and, since the feel- 
+ing of warmth arises from the skin, if this is 
+warm, the mistaken impression is given that 
+the body is warm. In point of fact, the 
+general temperature is lowered, owing to the 
+increased loss from the skin. 
+
+Alcohol also has been shown to lower the 
+resistance to infection. 
+
+Finally, visible changes have been found 
+in the brain-cells of drunkards, so that there 
+is every reason to believe that similar changes 
+in a less degree will be produced by even 
+comparatively small doses of alcohol. 
+
+Enough has been said to show that there 
+is no benefit of any kind to be derived from 
+the use of alcohol. Any reason for taking it 
+must rest on other grounds, which do not 
+concern us here. 
+
+Since this is so, if there is likely to be any 
+shortage of food, the first prohibition to be 
+made ought surely to be the use of materials 
+capable of serving as food from being used 
+in distilleries, and, to a less extent, in brew- 
+
+
+
+72 PHYSIOLOGY OF FOOD 
+
+eries. For the manufacture of alcohol as a 
+solvent for explosives, materials unfit for use 
+as food, such as bad potatoes, can be used. 
+There is also a large store of new whisky in 
+the warehouses. 
+
+Further information on the subject of the 
+action of alcohol may be obtained from 
+Cushny's Pharmacology (pp. 131-155). 
+
+I cannot help expressing regret that any 
+apology for the use of alcohol, such as that 
+in a recent number of the Church Times 
+should have been published. At the present 
+time, especially, excuses for the waste in- 
+volved in the use of alcohol should not be 
+given. The argument that it is a " gift from 
+God " would apply even better to opium, 
+which is a more natural product than alcohol. 
+It is admitted that opium should be confined 
+to medicinal use and the same limitation 
+should be applied to alcohol. Even for 
+medicinal use there are better substitutes. 
+I cannot understand how any but an ignorant 
+person can deny that there is great waste of 
+good food involved even in the manufacture 
+of beer, apart from the waste of fuel and 
+
+
+
+ALCOHOL 78 
+
+labour. There is always " degradation " of 
+energy in the fermentation process. To 
+make potable spirit, materials useful for 
+food, such as barley and potatoes, must be 
+used. A religious paper should be the last 
+to advocate what is, to put it in the most 
+favourable light, nothing but a selfish 
+indulgence. 
+
+The head of a large sanatorium has written 
+to me, without a request on my part,, to say 
+that he is greatly concerned about the number 
+of cases that come to him, even of men of 
+much value to the nation, whose efficiency 
+is seriously impaired by the use of alcohol. 
+
+From the physiological point of view, 
+an advertisement which appeared in The 
+Times of December 2ist, 1916, is distinctly 
+misleading. Nothing can alter the fact that 
+there is a loss of energy in the change from 
+carbohydrate to alcohol. If the barley re- 
+ferred to were consumed directly by man and 
+cattle, the energy value obtained would be 
+greater than if all the products resulting from 
+its use in making beer were consumed. It 
+is doubtless true that very little sugar is 
+
+
+
+74 PHYSIOLOGY OF FOOD 
+
+added, as such, in the manufacture of beer, 
+but the starch of the barley is converted into 
+sugar in the process and part of its energy 
+value lost by fermentation. So far as " tem- 
+perance drinks " contain sugar, they have, of 
+course, a food value ; and I fail to see where 
+the waste, stated to exist in such drinks, 
+occurs. As for the sixty million pounds con- 
+tributed by the " trade " to the revenue, surely 
+the sum available for national objects would 
+be greater still if the consumer saved what 
+he spends on alcoholic drinks and invested it 
+in War Loan, while he would himself have 
+the benefit of the investment. 
+
+
+
+CHAPTER VIII 
+
+VEGETARIANISM 
+
+PERHAPS one of the most widely spread 
+errors in reference to food is, that there is 
+some special virtue in butchers' meat. Some- 
+times it appears to be thought that there is 
+no protein in vegetable foods. This, as we 
+have seen, is not the case. 
+
+Vegetable foods, if properly chosen, can 
+supply all that is necessary for a complete 
+diet. The protein is not quite so easily di- 
+gested, but more of the food can be taken in 
+compensation. The proper choice, however, 
+may be the most difficult thing, since it is not 
+an easy matter, unless some animal product, 
+such as milk, is added. 
+
+The work of McCollum, Simmonds and 
+Pitz (1916) shows that an adequate diet for 
+rats can be made from the three natural 
+
+75 
+
+
+
+76 PHYSIOLOGY OF FOOD 
+
+vegetable foodstuffs, wheat, wheat-germ and 
+rice. But another mixture, although con- 
+taining a larger number of constituents, was 
+unsatisfactory. Further, it does not follow 
+that the mixture suitable for rats would be so 
+for other animals or man. The conclusion 
+drawn is that a diet of purely vegetable origin 
+cannot be safely made up until more is known 
+about the properties of each natural foodstuff. 
+It is certain, on the other hand, that all the 
+components of a successful diet can be found 
+in foods of plant origin. 
+
+
+
+CHAPTER IX 
+
+EXERCISE 
+
+IT has been recommended that the amount 
+of exercise taken for pleasure should be 
+lessened. This suggestion is made on the 
+ground that " the need felt by many for con- 
+stant exercise is in part due to the fact that 
+the food eaten is in excess of what, without 
+the exercise, would cover the needs of the 
+body." 
+
+While this may be so to some extent, uni- 
+versal experience of the benefits derived from 
+exercise suggests that the consumption of 
+slightly more food may be more than compen- 
+sated by the increase in general efficiency, 
+
+The actual increase in the energy supplied 
+by food necessitated by, say, two or three 
+hours' exercise once a week, is a small frac- 
+tion of the total consumption. It is to be 
+
+77 
+
+
+
+78 PHYSIOLOGY OF FOOD 
+
+admitted that there is a possibility that the 
+increased appetite resulting from exercise 
+in the open-air may lead to a consumption 
+of food greater than really necessary. This 
+however, when recognized, may be guarded 
+against. 
+
+The way in which exercise produces its 
+effects is a difficult matter to express an 
+opinion upon. It is possible that it may be 
+analogous to that of fresh air or a cold bath. 
+The stimulation of peripheral nerves in an 
+unusual manner wakes up, so to speak, the 
+nervous system. The use of muscles, which 
+have been more or less idle, serves also to 
+keep in adjustment the various mechanisms 
+of complex movements ready for every-day 
+requirements when needed. 
+
+But, while it is doubtless true that "all 
+work and no play makes Jack a dull boy, " it 
+is none the less true that "all play and no 
+work makes Jack a fool." The latter part of 
+the proverb may be commended to the devo- 
+tees of the cult of exaggerated athleticism 
+that one sometimes meets at the older Schools 
+and Universities. 
+
+
+
+EXERCISE 79 
+
+Of course, the remarks about muscular ex- 
+ercise have no application to those engagedin 
+muscular labour as their ordinary occupation. 
+
+The form of recreation required by these is 
+rather of a different kind, such as music, read- 
+ing, etc. It is not to be supposed, however, 
+that change of occupation of any kind is 
+without its value to any one, whatever his 
+regular work may be. 
+
+
+
+CHAPTER X 
+
+THE VALUE OF COOKING 
+
+FROM what has been said above as to the 
+destructive effect of heat on certain accessory 
+factors of diet, it might be supposed that the 
+process of cooking is to be deprecated. We 
+have also seen, however, that the digestibility 
+of some foods is improved by it, owing to the 
+removal of certain substances which prevent 
+the action of the digestive enzymes. 
+
+Another beneficial effect of cooking is to 
+kill micro-organisms and other parasites. 
+
+But perhaps the greatest use of the art is 
+in the preparation of dishes attractive to the 
+palate and other senses. As we have seen, 
+appetite plays a very important part in diges- 
+tion, owing to the secretion of gastric juice, 
+which is produced in the stomach, ready for 
+
+the reception of food. 
+
+80 
+
+
+
+THE VALUE OF COOKING 81 
+
+The destruction of accessory factors can 
+always be compensated for by taking fresh 
+fruit or vegetables. 
+
+The book by Kinne and Cooley (1916), 
+although primarily intended for use in schools, 
+will be found to contain a number of use- 
+ful instructions, both in cookery and with 
+reference to the preservation of food. 
+
+
+
+CHAPTER XI 
+
+CHARACTERISTICS OF CERTAIN ARTICLES 
+OF DIET 
+
+Sources of Protein. Meat, poultry and 
+eggs are the most costly form of protein, 
+even in peace times. Corned beef is cheaper, 
+but may be deficient in accessory factors. 
+The cheapest source of animal protein is 
+separated milk or cheese. The cheapest 
+vegetable source is oatmeal. It must again 
+be insisted on that protein can be obtained 
+equally well from either animal or vegetable 
+source. 
+
+Fish, curiously enough, when allowance is 
+made for the large percentage of water which 
+it contains, does not turn out to be a cheap 
+source of protein. The cost of transport to 
+inland towns helps to make it more costly. 
+
+As regards food in general , it should be 
+82 
+
+
+
+CERTAIN ARTICLES OF DIET 83 
+
+pointed out that an extra price is too frequently 
+paid for mere appearance, white rice and 
+the cheaper grey kind are equally valuable. 
+Special named foods made by particular firms 
+have rarely any advantage over the ordinary 
+market varieties. 
+
+Bread. Notwithstanding the agitation 
+some years ago by certain newspapers, it is 
+remarkable how little difference there really 
+is between the nutritive values of white 
+bread and the so-called "Standard " bread. It 
+appears that the extra protein obtained by 
+using a larger proportion of the wheat grain 
+than is done in white flour is comparatively 
+indigestible. The difference is greater in some 
+kinds of wheat than in others ; but, when 
+allowance is made for digestibility, very little 
+is gained. The value of the new National 
+flour, and bread made from it, consists chiefly 
+in the fact that a larger number of loaves can 
+be made from the same amount of wheat 
+without diminishing the food value. Even as 
+much as 90% of the wheat can be made into 
+flour, but 8% of this flour is indigestible husk. 
+This husk has a value in avoiding constipation, 
+
+
+
+84 PHYSIOLOGY OF FOOD 
+
+as pointed out above, but no nutritive value. 
+The experience of the Food Commission 
+in Belgium is in favour of at least 82% milling, 
+which makes a yellowish bread. The slightly 
+less nutrient value compared with that of 
+65-76% milling is more than counterbalanced 
+by the lower cost, so that more value can be 
+obtained for the same price. It will be re- 
+membered that our new Government regu- 
+lation fixes the standard of milling at 76%, 
+which also makes a rather yellowish bread. 
+The colour is due to the inclusion of more of 
+that part of the grain from which the future 
+wheat plant would grow, if the wheat were 
+sown. It is commonly known as the germ, for 
+this reason. 
+
+Some objections have been made to the 
+inclusion of more germ than in white flour. 
+It is said to be more difficult to make light 
+bread. And the flour is more inclined to 
+be spoilt by keeping. On the other hand 
+accessory factors are contained in the germ, 
+although this may not be of great importance 
+if a variety of other food is taken. 
+
+The Belgian Commission point out that 
+
+
+
+CERTAIN ARTICLES OF DIET 85 
+
+11% of maize flour (American corn flour) can 
+be mixed with the wheat flour to advantage. 
+It increases the quantity and slightly re- 
+duces the cost per kilo (Robinson Smith, 
+1916, p. 7). 
+
+It will be realized that the statements of 
+some advertisers in the daily papers can 
+only be described as misleading and mischiev- 
+ous nonsense. It is stated, for example, that 
+a particular bread is made from the whole of 
+the wheat and consists of 100% of perfectly 
+digestible material, while the Government by 
+fixing the standard at 76% has eliminated 24% 
+of the most nourishing part of the " berry " 
+\_sic\. This is absurd. 
+
+As we have seen above, bread with the ad- 
+dition of some fat, is a complete food in itself. 
+Hence the popular " bread - and - butter." 
+Speaking for myself, I would almost as readily 
+take jam as butter, so that, at a pinch, 
+even the fat might be eliminated. I agree 
+also with Wood and Hopkins that we do not, 
+in England, make sufficient use of the 
+numerous different varieties of bread, rolls, 
+etc. Bread may also be consumed as toast, 
+
+
+
+86 
+
+
+
+PHYSIOLOGY OF FOOD 
+
+
+
+hot or cold, or with jam, butter, dripping and 
+other things. All of these may assist in the 
+proper appreciation of its value. 
+
+Oatmeal. This is not nearly enough made 
+use of in the South. Weight for weight, it 
+contains more protein and more fat than 
+wheat does. It seems difficult for the in- 
+experienced to make good porridge. Oat- 
+cakes are a valuable form in which oatmeal 
+can be taken. 
+
+Rice. As already mentioned, there is no 
+advantage in using white " polished" rice. 
+In fact, where it is the staple article of diet, 
+the polishing removes an essential accessory 
+factor ; so that a disease called Beri-beri 
+results from its exclusive consumption. The 
+Belgian Commission regards rice as the 
+cheapest of nourishing food for the feeding 
+of a population on a large scale. 
+
+Sugar is too often regarded rather as a 
+flavouring or sweetening agent than as one 
+of the most valuable energy-giving foods. 
+It should be remembered also that, as pur- 
+chased, it consists of practically 100 per 
+
+
+
+CERTAIN ARTICLES OF DIET 87 
+
+cent, available material. This refers to cane- 
+sugar, or, what is the same, beet-sugar. In 
+the form of treacle, it is not, of course, quite 
+so pure. 
+
+It appears that "golden syrup" consists 
+mainly of that kind of sugar called by the 
+chemist glucose. A preparation of this sugar, 
+not chemically pure, is being sold for domestic 
+purposes. There appears to be some un- 
+deserved objection to it, apart from its 
+flavour, which would prevent its use for 
+some purposes. In point of fact, when we 
+digest cane-sugar, half of it is converted into 
+glucose. Possibly there may be an idea that 
+commercial glucose is not sugar at all. 
+
+The sugar present in fruits is glucose, 
+while that in the reserve depots of the stem 
+and root is cane-sugar, or saccharose, to give 
+it the chemical name. Glucose is not so 
+sweet as saccharose. 
+
+The chemical compound known as "sac- 
+charin " is not a foodstuff, and must not be 
+supposed to be a substitute for sugar. 
+
+Fresh Fruit and Vegetables. The chief 
+
+
+
+88 PHYSIOLOGY OF FOOD 
+
+value of these consists in accessory factors. 
+In the East End of London the only fresh 
+vegetable food used by the majority of the 
+poorer population is fruit, and mainly oranges. 
+We see, from this fact, the justification of 
+the protests raised against the restriction of 
+the import of oranges. 
+
+Milk. This, as remarked already, is one 
+of the cheapest sources of protein, actually 
+the cheapest source of animal protein. Wood 
+and Hopkins point out the waste involved 
+in not making more use of separated milk 
+for human food, but its bulk involves diffi- 
+culties of transport. 
+
+At a time when 1000 calories in the form 
+of meat cost one shilling, the same amount 
+could be obtained from milk at a cost of 
+fourpence three-farthings. 
+
+Condensed milk is not economical. 
+
+Butter and Margarin. While butter is 
+the most digestible form of fat, margarin 
+may well take its place for most purposes. 
+
+The only objection to the better qualities 
+of margarin is their lack of taste. But this 
+is preferable to the objectionable taste of the 
+
+
+
+CERTAIN ARTICLES OF DIET 
+
+
+
+89 
+
+
+
+inferior qualities. Whether this is due to 
+an attempt to imitate the taste of butter, or 
+to something present in the raw materials, 
+I do not know. Whatever it is, it would be 
+better absent. 
+
+
+
+CHAPTER XII 
+
+POSSIBILITIES OF ECONOMY 
+
+IN order to obtain some idea how economy 
+might be effected, it will be instructive to 
+examine some typical family budgets. I 
+take these from the data given in the book 
+by Wood and Hopkins. They rest upon 
+careful measurements of actual consumption, 
+and may be taken as representative of the 
+state of things before the War. 
+
+Taking, in the first place, the case of 
+fourteen families in York, as investigated 
+by Mr. Rowntree. The average income 
+of these particular families was less than 
+26s. per week. Their average consumption, 
+per "man," was 2685 calories, and the pro- 
+tein in the diet amounted to 89 grams. All 
+that may be remarked about this diet is 
+
+that the energy value is undoubtedly low, 
+
+90 
+
+
+
+POSSIBILITIES OF ECONOMY 91 
+
+and that better value might possibly have 
+been obtained Pt the same expense if part of 
+the protein had been replaced by carbo- 
+hydrate. But there is the uncertainty as to 
+how large a proportion of the individuals 
+might have been growing children, who 
+would require more protein than the adults 
+do. 
+
+Next, let us take a family with a higher 
+income, that of a foreman earning 385-. a 
+week. The food consumption per " man " 
+amounted to 145 grams of protein and 4800 
+calories. The details of the budget will be 
+found in Wood and Hopkins, and it would 
+seem that some diminution both in protein 
+and energy value could be effected without 
+detriment, especially in protein. 
+
+Passing on to an income of ^"150 to 
+200 a year, the values are 140 grams 
+protein, 4250 calories. A further case is 
+that of a family keeping three servants. 
+Here the values are 143 grams protein, 
+4379 calories. On this last case, Wood 
+and Hopkins remark that the total food 
+might be reduced by one-sixth and part of 
+
+
+
+92 
+
+
+
+PHYSIOLOGY OF FOOD 
+
+
+
+the meat consumed might be replaced by 
+cheaper sources of protein, such as bread or 
+oatmeal. They conclude that, while the 
+poorer classes cannot make any retrench- 
+ment in food expenditure, the wealthier 
+classes might save 10 per cent, of the whole 
+national expenditure on food. This saving 
+would amount to at least sixty million pounds 
+per annum, no mean figure. 
+
+It is interesting to compare the amount of 
+food obtained for one shilling by different 
+classes of the population before the war : 
+
+
+
+
+
+Labouring 
+Class. 
+
+
+Artisan. 
+
+
+Wealthy. 
+
+
+Protein . . . 
+
+
+179 
+
+
+140 
+
+
+92 
+
+
+Calories . . . 
+
+
+5500 
+
+
+4250 
+
+
+2850 
+
+
+
+The conclusion to be drawn from this 
+table is that those who have been accustomed 
+to consume their protein in the form of meat 
+might advantageously replace part of it by 
+the cheaper vegetable sources of protein. 
+It might not perhaps be advisable to replace 
+the whole of it : the 4 oz. standard might be 
+divided up somewhat as follows 
+
+
+
+POSSIBILITIES OF ECONOMY 93 
+
+i oz. as meat. 
+
+1 oz. as milk. 
+
+2 oz. as oatmeal, bread or beans. 
+
+The actual necessary amount of food is 
+less than is usually supposed, if we take the 
+food budgets of the wealthier families given 
+above as an index of the general practice in 
+such cases. 
+
+It must be admitted that it is a matter of 
+some difficulty for any household to work 
+out with any degree of accuracy what its 
+consumption is. It can probably be esti- 
+mated most easily by averaging the purchases 
+of food during a period of several days, the 
+longer the better, and calculating their value 
+from Miss McKillop's tables (1916). The 
+work will be found by no means devoid of 
+interest. But the real " man value " of a 
+household is a matter of some uncertainty. 
+Certain membersltake lunch away from home, 
+and friends or relatives on leave come in at 
+various times. With a little trouble, how- 
+ever, these factors can be given their due 
+arithmetical weight, without much inaccuracy. 
+
+
+
+94 PHYSIOLOGY OF FOOD 
+
+In a household of few persons, it is naturally 
+a simpler process, but the result would prob- 
+ably be more subject to the errors incident 
+to individual peculiarities. The wealthier 
+classes, however, apart from any calculation, 
+may take it that they may, without any dis- 
+advantage or risk, attempt to reduce their 
+expenditure on food by one-sixth in some 
+cases by replacing expensive articles by 
+cheaper ones, in other cases by diminution 
+of quantity. 
+
+It is probable that a diminution in the daily 
+ration would, at first, be attended with some 
+degree of discomfort, but benefit would soon 
+be felt. The main object of the present book 
+is to show that it can be done without risk to 
+health. Those who wish to economize for 
+patriotic reasons will be ready to accept the 
+small initial discomfort the more easily when 
+they are satisfied that no harm will result. 
+
+It has been noticed that Irish peasants, 
+used to the consumption of voluminous 
+rations of potatoes, have complained ot 
+hunger, and even of starvation, when given 
+food of greater value, but of smaller bulk. 
+
+
+
+POSSIBILITIES OF ECONOMY 95 
+
+Similarly, Bavarian peasants, used to bread, 
+complain if given a diet of meat. 
+
+The change of any habit is apt to cause at 
+first a feeling of want, which disappears sub- 
+sequently. Some old observations show how 
+ancient habits with regard to consumption of 
+food are adhered to. I refer to Dutch settlers 
+in Java, whose consumption of food was found 
+to be the same as in Holland, although the 
+conditions of a tropical climate imply that less 
+is required. 
+
+One of the most pressing needs at the 
+present time is a control of the prices of food 
+and a means of ensuring equality of distribu- 
+tion, the latter especially in the case of sugar. 
+Many dealers in foodstuffs appear to think 
+themselves justified in exacting as high a 
+price as they can get their customers to pay. 
+The experience of the Food Commission in 
+Belgium suggests that prices are unnecessarily 
+high here in England, particularly in the case 
+of bread. 
+
+A reduction in the consumption of food is 
+probably only to be obtained, to any notable 
+extent, by the voluntary efforts of patriotic 
+
+
+
+
+
+
+96 PHYSIOLOGY OF FOOD 
+
+citizens. Attempts at control from outside do 
+not promise well, if we may judge from the 
+results of the recent limitation of meals in 
+restaurants. The effect of this has been, so 
+far as we can see, to increase the consumption 
+of meat and to decrease that of sweets, 
+precisely the opposite of what is desirable. 
+We must, however, all of us assist the Food 
+Controller in his very difficult task by cheer- 
+ful acceptance of the conditions which he 
+feels it necessary to impose. No doubt, 
+suggestions made with the desire to help, and 
+not to find occasion for carping criticism, will 
+be met with welcome and receive careful 
+consideration. 
+
+
+
+CHAPTER XIII 
+
+GENERAL CONCLUSIONS 
+
+BY way of summary, we may conclude with 
+the aphorism already given 
+
+" Take care of the calories and the protein 
+will take care of itself." 
+
+But we must also remember that the number 
+of calories really necessary is by no means so 
+great as it is frequently imagined to be. 
+
+The accessory factors, again, like the pro- 
+tein, do not, as a rule, require special considera- 
+tion. At the same time, it is well to ensure 
+their presence by taking fresh fruit or salad. 
+These are practically the only uncooked food 
+taken in this country, with the exception of 
+milk. Oysters can scarcely be regarded as 
+
+a regular article of diet. 
+H 97 
+
+
+
+98 PHYSIOLOGY OF FOOD 
+
+With respect to the substitution of a part 
+of the animal protein, usually taken, by its 
+equivalent in the vegetable form, it is of some 
+importance to refer to what has been pointed 
+out in connection with the use of farm land. 
+It appears that more food per acre can be 
+obtained by growing wheat than by using the 
+land as pasture for sheep or cattle. There 
+are, doubtless, economical reasons why the 
+farmer hesitates to make the change, but the 
+fact must be kept in mind. 
+
+As to the necessity for economy in the use 
+of wheat and other cereals, the Report of 
+the International Institute of Agriculture in 
+Rome, with regard to the crops of 1916, is to 
+be considered with care. The wheat crop of 
+1916 turns out to be only 93*4% of the average ; 
+but there are remainders from 1915, which was 
+an exceptionally good year. There are also 
+to be added some crops from the Southern 
+Hemisphere reaped in December and Janu- 
+ary. On the other side, the Report points 
+out that there is likely to be an increase in 
+consumption owing to improvements in eco- 
+nomic conditions, movements of population, 
+
+
+
+
+
+
+GENERAL CONCLUSIONS 99 
+
+arrival of armies, increase of rations to mo- 
+bilized units, etc., and the conclusion is drawn 
+that " considerable drafts upon the remainders 
+mentioned must be made in order to bridge 
+over the interval " up to the harvest of 1917. 
+" It is therefore both urgent and indispen- 
+sable to effect serious economies in consump- 
+tion. Otherwise available supplies at the end 
+of the current season would be much reduced 
+and might even be insufficient if next harvest 
+should not prove to be a plentiful one." 
+
+It may be well to refer, finally, to the fact 
+that no attempt has been made in this manual 
+to deal with special food required in disorders 
+of nutrition. That is the province of medical 
+science, which deals with the diseased organ- 
+ism, while physiology deals with the activities 
+of the normal healthy organism, plant as well 
+as animal. Physiology is thus the foundation 
+not only of medicine, but of hygiene and also 
+of agriculture. I call attention to this be- 
+cause it is sometimes thought that a know- 
+ledge of physiology is only necessary for the 
+student of medicine. Since it deals with the 
+normal activities of our bodies as they are 
+
+
+
+H 2 
+
+
+
+100 PHYSIOLOGY OF FOOD 
+
+used every day, it should be obvious that 
+some knowledge of it is of vital importance 
+to all of us and ought to be possessed by 
+all of us. One of the problems of physiology 
+is that of food, and an elementary account of 
+this problem has been attempted in the 
+preceding pages. 
+
+
+
+REFERENCES 
+
+BAYLISS, W. M. (1916). Principles of Gen- 
+eral Physiology. Longmans, 2 is. 
+
+BENEDICT, F. G., and E. P. CATHCART 
+
+(1913). Muscular Work. Publication 
+
+of the Nutrition Laboratory, Carnegie 
+
+Institution of Washington. No. 187. 
+
+CARLSON, A. J . ( 1 9 1 6). The Control of Hunger 
+in Health and Disease. Univ. of Chicago 
+Press, and Cambridge Univ. Press. qs. 
+
+CATHCART, E. P. (1912). The Physiology of 
+Protein Metabolism. Longmans. 
+
+Commission for Relief in Belgium. First 
+Annual Report (1916). 3 London Wall 
+Buildings, E. C. 
+
+COOK, CAPTAIN JAMES (1776). The Method 
+taken for Preserving the Health of the 
+Crew of His Majesty s Ship, the "Reso- 
+lution" during her late Voyage Round 
+
+IOI 
+
+
+
+102 REFERENCES 
+
+the World. Phil. Trans. Royal Society. 
+66, 402-406. 
+
+CUSHNY, A. R. (1910). Textbook of Pharm- 
+acology and Therapeutics. Philadelphia: 
+Lea and Febiger. th Edn. 
+
+FISHER, IRVING (1905). A New Method for 
+Indicating Food Values. Amer. Journ. 
+Physiol., /5, 4I7-43 2 - 
+
+HAMILL, J. M. and S. B. SCHRYVER (1916). 
+Nitrogenous Metabolism in Normal In- 
+dividuals. Proc. Physiol. Soc. in Journ. 
+Physiol. 34, pp. x-xii. 
+
+HINDHEDE, M. (1913). Studien ueber Ei- 
+weissminimum. Skand. Arch. Physiol., 
+jo, 97-182. 
+
+KINNE, HELEN and ANNA M. CooLEv(i6i6). 
+food and Health. Home- Making Series. 
+New York : The Macmillan Co. 35. 
+
+LANGWORTHY, C. F. (1908). Pood and Diet 
+in the United States. Year- Book of the 
+United States Department of Agricul- 
+ture, 1907. Washington, 1908. 
+
+LUSK, GRAHAM (1909). The Elements of the 
+Science of Nutrition. Saunders, London 
+and Philadelphia. \2s. 2nd Edn. 
+
+
+
+REFERENCES 108 
+
+MCCOLLUM, E. V., and MARGUERITE DAVIS 
+(1915). The Essential Factors in the 
+Diet during Growth. Journ. Biol. 
+Chem. <?j, 231-246. 
+
+McCoLLUM, E. V., N. SIMMONDS, and W. 
+PITZ (1916). The Vegetarian Diet in 
+the Light of our Present Knowledge of 
+Nutrition. Amer. Journ. Physiol., 41, 
+333-3^0. 
+
+(1916). The Distribution in Plants 
+
+of the Fat Soluble A, the Dietary Es- 
+sential of Butter Fat. Amer. Journ. 
+Physiol. 41, 361-375. 
+
+McKiLLOP, MARGARET (1916). Food Values, 
+What they are and How to Calculate 
+Them. Routledge. is. 
+
+PAVLOV, I. P. (1910). The Work of the 
+Digestive Glands. Trans, by W. H. 
+THOMPSON. Griffin. 2nd Edn. 
+
+ROWNTREE, B. S. Poverty, a Study of Town 
+Life. Macmillan. 2s. 6d. 
+
+SMITH, ROBINSON (1916). Food Values and 
+the Rationing of a Country. Commis- 
+sion for Relief in Belgium. 3 London 
+Wall Buildings, E. C. 
+
+
+
+104 REFERENCES 
+
+STARLING, E. H.(i9i6). Principles of Human 
+Physiology. Churchill, 2is. 2nd Edn. 
+
+THOMPSON, W. H. (1916). The Food Value 
+of Great Britain's Food Supply. Eco- 
+nomic Proc. of Royal Dublin Society. 
+2, 168-220. 
+
+WOOD, T. B. (1916). The Story of a Loaf 
+of Bread. Cambridge Univ. Press. 
+\s 6d. 
+
+WOOD, T. B., and F. G. HOPKINS (1916). 
+Food Economy in War Time. Cam- 
+bridge Univ. Press. 6d. 
+
+
+
+INDEX 
+
+
+
+Accessory factors, 56, 97 ; in 
+
+plants, 60 
+
+Affinity, chemical, 13 
+Alcohol, 67 ; effect of, on 
+
+digestion, 64 
+Amino-acids, 16 
+Appearance of foods, price 
+
+paid for, 83 
+Appetite, 62, 63, 80 
+Arrowroot, 65 
+Athleticism, 78 
+
+Belgian Food Commission, 
+
+39 
+
+Beri-beri, 58 
+Bitters, 64 
+Bread, 43, 83 
+
+, Composition of, 43 
+
+, " National," 83 
+
+, "Standard," 83 
+
+Butchers' meat, 75, 82 
+Butter, 42, 43, 88 
+
+Calculation of food consump- 
+tion, 93 
+
+Calorie defined, 21 
+Carbohydrate, value of, 50, 
+
+
+
+H' 1 
+
+born 
+
+
+
+Carbohydrates, 
+nature of, 29 
+Carbon compounds, 12 
+
+dioxide, 14 
+
+, peculiarities of, 13 
+
+Carbonic acid, 14 
+
+
+
+chemical 
+
+
+
+Change of habit, 94, 95 
+Cheese, 42 
+Chemical affinity, 13 
+Cold bath, 24 
+
+weather, 33 
+
+Condensed milk, 88 
+Conservation of energy, 9 
+Constituents of the body, n 
+Control of meals, 96 j of 
+
+prices, 95 
+Convertibility of energy, 18, 
+
+19 
+
+Cooking, 54, 80 
+Custard, 65 
+
+Diabetes, 52 
+Digestibility, 61 
+Digestion, 17, 53 
+Disorders of nutrition, 99 
+
+Economic aspect of food 
+
+problem, 3 
+Economy, possibilities of, 
+
+90. 94 
+
+Economy in use of cereals, 
+98 
+
+Efficiency of animal ma- 
+chine, 33 
+
+Eggs, 42 
+
+, raw and cooked, 64 
+
+Energetics, first law of, 9 
+, second law of, 20 
+
+Energy and work, 8 
+
+conservation of, 9 
+
+
+
+105 
+
+
+
+106 
+
+
+
+INDEX 
+
+
+
+Energv, convertibility of, 18, 
+
+19 
+
+defined, 8 
+
+of the sun's rays, 1 5 
+
+, transfer of, 19 
+
+Enzymes, 60 
+Exercise, 24, 77 
+
+Farm land, nse of, 98 
+Fat-soluble A factor, 59 
+Fats, chemical nature of, 28 
+
+, value of, 52 
+
+Fermentation, 73 
+Fish, 42, 82 
+" Flesh formers," 23 
+Food budgets, 90 
+
+stuffs, classes of, 30 
+
+supply of England, 37 
+
+Fresh air, 23 
+
+Fruit, value of, 60, 87 
+
+Gastric juice, 62 
+Gelatin, 65 
+Germ of wheat, 84 
+Glucose, 87 
+" Golden syrup," 87 
+Gout, 52 
+Green plant, 15 
+Growth, 6 
+
+and maintenance dif- 
+ferent, 1 8 
+
+Heat energy, 20, 21 
+" Heat formers," 23 
+Hunger, 63 
+Hygiene, 99 
+
+Indigestible matter, function 
+of, 30 
+
+Life as transfer of energy, 19 
+
+Maintenance 6 
+
+Maize, added to bread, 85 
+
+
+
+" Man value " of population, 
+36 
+
+Margarin, 88 
+
+Meat extracts, 64 
+
+Mental work, energy con- 
+sumption of, 34 
+
+Milk, 42, 82, 88 
+
+Minimum of protein, 44 
+
+Muscle, food of, 45 
+
+Mutton, 42 
+
+" National " bread, 83 
+Nitrogen compounds, 7, 15, 
+
+16, 18 
+Nuts, protein of, 61 
+
+Oatmeal, 42, 43, 82, 86 
+Oranges in East London, 88 
+Oxygen as food, 23 
+
+Peas, 42 
+
+Petrol motor, 10, 12, 18, 26 
+Physiology, scope of, 99 
+Possibilities of economy, 90, 
+
+94 
+
+Potatoes, 43, 47 
+Poverty, 48 
+Products of protein meta- 
+
+boles, 5 1 
+
+Protein food, use of, 25/26, 
+49 ; minimum, 44 
+
+, chemical nature of, 16 
+
+of nuts, 61 
+
+, sources of, 82 
+
+Recreation, 79 
+Regulation of prices, 39 
+Rice, 86 
+
+Saccharin, 87 
+
+Salts, 12 
+
+Scurvy, 58 
+
+Soup, 64 
+
+Sources of protein, 82 
+
+
+
+INDEX 
+
+
+
+107 
+
+
+
+"Specific dynamic energy," 
+
+49 
+
+" Standard " bread, 83 
+Standard diet," 32 
+Steak, 42 
+
+Stomach, digestion in, 54 
+Sugar as food, 42, 43, 55, 86 
+
+Temperature, effect of alcohol 
+
+on, 71 
+
+Thermodynamics, 20 
+Triangles of food values, 44 
+
+Urea, 51 
+Uric acid, 51 
+
+
+
+Use of farm land, 98; of 
+food, 6 
+
+Value of cooking, 54, 80 ; of 
+
+particular food stuffs, 42 
+Vegetarian diet, 75 
+" Vitamines," 56 
+
+War rations, 37 
+Wasting disease, 65 
+Water, 12 
+
+soluble B factor, 59 
+
+Wear and tear, 6, 18 
+Wheat crop of 1916, 98 
+Work, 7 
+
+
+
+PRINTED IN GREAT BRITAIN BY 
+RICHARD CLAY & SONS, LIMITED. 
+BRUNSWICK ST., STAMFORD ST., S.H., 
+
+AND BUNGAY. SUFFOLK. 
+
+
+
+University of Toronto 
+Library 
+
+
+
+DO NOT 
+
+REMOVE 
+
+THE 
+
+CARD 
+
+FROM 
+
+THIS 
+
+POCKET 
+
+
+
+Acme Librar^ Card Pocket 
+
+Under Pat. "Ref. Index File" 
+
+Made by LIBRARY BUREAU 
+
+
+
+

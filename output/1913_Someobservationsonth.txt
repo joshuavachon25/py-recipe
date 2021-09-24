@@ -1,0 +1,2617 @@
+
+Illinois Institute 
+
+of Technology 
+
+Libraries 
+
+
+
+AT 308 
+
+Pirrie, Peter Gustave 
+Some observations on the 
+baking test as commercially 
+
+
+
+
+i^ 
+
+
+
+A THESIS 
+PEESmraED BY 
+PEIER GIBTAVE PIRRIE 
+TO TEE 
+PKESIDEHT AND FACULTT 
+OF 
+ARMOUE INSTITUTE OF lECEIIOLOGY 
+FOE THE DEGREE OF 
+BACHELOR OP SCIEICE 
+IH CEEmCAL ElTGrHSERIHG 
+HAVING COHPLETED TEE PHESCSIBED 
+COURSE OF STUDY IN 
+CHEMICAL ENGINEERING 
+1913 
+
+
+
+Approved: - 
+
+
+
+Approved 
+
+
+
+
+
+
+ProfesBOrfof Chemical Engineering 
+
+
+
+o^^.^^ 
+
+
+
+Dean of Engineering Subjects 
+
+
+
+ILLINOIS INSTITUTE OF TECHNOLOGY ~7^^ L 
+
+PAUL V.GALVIN LIBRARY ^ -^^ ^n^^n^^^..^,^ ^ 
+
+35 WEST 33RD STREET ^<^^«^ '^^iZ^ai>r<i£^yiaU^i^, 
+
+
+
+PAUL V. GALVIN LIBRARY 
+35 WEST 33RD STR 
+CHICAGO, IL 60616 
+
+
+
+
+
+
+I H D E X 
+
+Page 
+
+Reasons for Investigation 1 
+
+Llethod of Performing Strictly 
+
+Chemical and Physical Tests 7 
+
+Apparatus for Killing and Baking 10 
+
+Explanation of System of Testing 13 
+
+Discussion of Methods of Mlling 17 
+
+Tempering tlie San^le 24 
+
+The Baking Test, Discussion 26 
+
+Method 30 
+
+Gluten Expansion Dough Test 35 
+
+Reasons for Disagreement in Results 38 
+
+Summary 42 
+
+
+
+841S9 
+
+
+
+sons OBSSEVATIONS OH TEE BAZIUG TEST AS 
+
+COMEECIALLY APPLIED TO WHEAT AHD 
+
+FLOUR 
+
+The testing of different varieties of wheat and flour 
+and of different lots of the same variety for relative 
+baking value, is a liiie of experimental work that is be- 
+coming more and more recognized as a comcercial necessity. 
+
+The grading of wheat by a man who grades simply by 
+feel, taste, and appearanse is yielding to grading by a 
+chaaist who has performed a milling and baking test trpon 
+the Bample. 
+
+The general idea of the system is first to mill the 
+wheat sample to flour, then to analyze the flour and 
+bake it under identical conditions with a standard flour. 
+In this way the sample can be judged in terns of the 
+standard flour of the locality. Such a comparison 
+would be very valuable if it were not that the nethods 
+of milling and the various systems of baking used by the 
+different commercial laboratories are so varied that it 
+is difficult to place a comparative value on reports of 
+wheats or flotirs tested in different laboratories. 
+
+It has been the good fortune of the writer to be 
+placed in charge of a most excellent equipment designed 
+
+
+
+for carrying out the milling and baking tests on whsat 
+and flour. Cne of my first e:<:T)eriences was to have 
+returned to me a report of another laboratory on a sample 
+of wheat I had tested, which report was attached to one 
+of mine on the same sample, with hardly an agreeing fig- 
+ure. Therefore, for some six months it has been my aim 
+to discover the reasons for these wide differences in 
+reports on the sane sample from different laboratories, 
+and also, if possible, to discover a method of perform- 
+ing such tests that would be logical and representative 
+enough to be stiggested for use as standard. 
+
+"ith the idea of determining the points in which the 
+disagreonent is most evident, a set of samples was made 
+up and sent to two coonercial laboratories considered by 
+the trade to be the best in the country. Wiese samples 
+were milled and baked by myself according to prevailing 
+government methods, and the results were compared to 
+those reported by the two laboratories. 
+
+The United States G-ovemment laboratories have no 
+bulletin on baking and milling tests, but the Kansas 
+State Agricultural College Experiment Station Bulletin 
+ITo. 117 describes the tests essentially as the Govem- 
+
+-2- 
+
+
+
+ment laboratories carry them out. Hence the method 
+of this bill let in was followed. 
+
+The varieties sent out were a Northern Spring wheat 
+and a Kansas 2 Hard. A tabulated comparison of the 
+reports follows :- 
+
+
+
+WHEAT 
+
+Protein 
+
+Ash 
+
+IdOisture 
+
+
+
+northern Spring 
+Home A B 
+
+14.4 13.6 13.0 
+1.79 1.70 1.78 
+
+IS.l 12.7 13.65 
+
+
+
+Kansas 2 Hard 
+Hone A B 
+
+11.5 11.6 11.4 
+2.01 1.8 i.e 
+
+10.5 11.8 11.4 
+
+
+
+MILLIHG TEST 
+
+Weight Scoured 
+Loss on ScoTiring 
+Weight Hilled 
+Passes on Hou^ Bolls 
+Passes on Smooth Polls 
+Weight of Bran 
+Weight of Shorts 
+Weight of Flour 
+Loss in Mill 
+
+
+
+1250 
+
+
+2100 
+
+
+1250 
+
+
+1250 
+
+
+2100 
+
+
+1250 
+
+
+32 
+
+
+36 
+
+
+25 
+
+
+40 
+
+
+34 
+
+
+15 
+
+
+1000 
+
+
+2000 
+
+
+1000 
+
+
+1000 
+
+
+2000 
+
+
+1000 
+
+
+9 
+
+
+
+
+3 
+
+
+9 
+
+
+
+
+3 
+
+
+6 
+
+
+
+
+12 
+
+
+8 
+
+
+
+
+10 
+
+
+272 
+
+
+165 
+
+
+300 
+
+
+243 
+
+
+105 
+
+
+260 
+
+
+27 
+
+
+280 
+
+
+55 
+
+
+25 
+
+
+290 
+
+
+70 
+
+
+660 
+
+
+1390 
+
+
+645 
+
+
+715 
+
+
+1440 
+
+
+670 
+
+
+41 
+
+
+165 
+
+
+
+
+
+127 
+
+
+165 
+
+
+
+
+
+
+FLOtffi 
+
+
+
+Protein 
+
+Ash 
+
+Uoisture 
+
+
+
+12.7 
+
+
+11.5 12.4 
+
+
+10.1 9.3 9.7 
+
+
+.54 
+
+
+.47 .47 
+
+
+.50 .55 .46 
+
+
+12.54 
+
+
+12.7 13.0 
+
+
+12.1 11.7 12.3 
+
+
+
+BAZmG TEST 
+
+Absorbtion, per cent. 
+
+Time llax. Expansion, Min. 
+
+Volume in cu, in. 
+
+Weight flour per loaf, grams 340 
+
+Weight of loaf, grams 
+
+
+
+59.0 
+
+
+54.7 
+
+
+60.0 
+
+
+59.0 
+
+
+56.2 
+
+
+59.0 
+
+
+171 
+
+
+315 
+
+
+120 
+
+
+192 
+
+
+302 
+
+
+120 
+
+
+76 
+
+
+205 
+
+
+110 
+
+
+74 
+
+
+183 
+
+
+105 
+
+
+340 
+
+
+340 
+
+
+350 
+
+
+340 
+
+
+340 
+
+
+350 
+
+
+498 
+
+
+490 
+
+
+600 
+
+
+498 
+
+
+490 
+
+
+590 
+
+
+
+-3- 
+
+
+
+It is very evident from the foregoing that each lab- 
+oratory had a method of milling and baking of its own. 
+What similarity there is is very slight, 
+
+Irthen we consider the results of baking, we see that 
+my system and that of "B" are somewhat similar but do 
+not agree in results, and that "A" bakes in such a way 
+as to get almost three times our volume of loaf. 
+
+It cannot be expected that any subsequent determina- 
+tion will check when the methods of milling differ so 
+widely. This is made very evident from an examina- 
+tion of the results of the chemical tests and the ab- 
+sorbtiou. The fact, however, that this difference may 
+be Trtiolly explained by the difference in the method of 
+milling and baking, and that the flours were really 
+not chemically as different as the tests indicate, led 
+me to put up five sets of flour, of five samples each, 
+and send them out to several different laboratories to 
+check up the chemical part of the work. 
+
+The report follows :- 
+
+PEOTEI]J, as reported 
+
+Home "B" "C" "D" "E" 
+
+Sample No. "L" 11,50 11.30 11.96 11,62 11.37 
+
+"M" 10.05 9.90 10.20 10.08 10.82 
+
+"N" 9.50 8.95 9.75 9,87 10.32 
+
+"0" 9.05 8.95 9.30 9.30 9.82 
+
+"P" 10.70 10.0 11.11 10.89 10.85 
+
+-4- 
+
+
+
+Careful observation of these analyses will show that 
+if we take the average of "C" and "D" reports (these 
+two laboratories are admitted by everyone to be imq-ues- 
+ti enable in this particular analysis) and compare this 
+average with my report, they checlr in every case as 
+closely as is possible in an ordinary Kjeldahl determin- 
+ation. However, both "B" and "E" differ as much as one 
+whole per cent. 
+
+This shows that careless work is being done by just 
+those laboratories that do not check the baking tests 
+under discussion. It is astonishing that a laboratory 
+of nation-wide reputation such as "B" enjoys would re- 
+port saniples "K" and "0" the same in protein when four 
+other laboratories agree that there is 50^ difference 
+in f&vor of "W\ 
+
+Having thus shown to my satisfaction that the dis- 
+agreement in chemical data is due more to careless an- 
+alysis than to actTaal difference in asir^let it remained 
+to check up these laboratories on the baking results. 
+This was done by sending them a sample of v/heat to be 
+tested, and some weeks later sending, thru a different 
+channel, a sample of the same wheat to the same labor- 
+atory. 
+
+-6- 
+
+
+
+On coKip£.ring the two reports it was foxaid that the 
+chemical data did not cteck, but that the baJcing data 
+did, at least as closely as it is reasonable to expect. 
+This raeans that, whatever the disagreement in chemical 
+data is doe to, it is fairly certain that the disagree- 
+ment in baking data is dve chiefly to the difference in 
+milling and baMng systems of different laboratories, 
+each laboratory having a milling and baking system of 
+its own. This is brought out very forcibly when it is 
+remembered that laboratories will persistently check 
+themselves but not each other. 
+
+It remains therefore to discuss the various methods of 
+conducting milling and baking tests, and, if possible, 
+to determine methods that bring out to the best advantage 
+the relative qualities of the samples under consideration. 
+The equipment used for this work is briefly described, 
+and the methods finally adojjted are outlined in the fol- 
+lowing pages. 
+
+
+
+-6- 
+
+
+
+Method of Performing; 
+Strictly Cheaical and Physical Testa 
+
+The chemical work was done along standard lines as 
+indicated by Bulletin ITo, 107 of the tftiited States 
+Department of Agriculture, These methods are be- 
+yond all doubt as efficient as can be devised, and no 
+changes were made except those needed to meet local 
+conditions. Such details as are not covered by Bul- 
+letin Ho. 107 are given below. 
+
+All flour samples were weighed by difference from 
+glass weighing bottles, using aluminxm spoons which 
+were left inside tiie weighing bottle during all oper- 
+ations. 
+
+Moisture determinations on flour were made in glass 
+
+
+
+tubes 3-4 in. z 3 in,, heating in air at 103 C, for 
+seven hours and weighing in a glass capsule to avoid 
+the effect of the absorbtion of moisture by the hygro- 
+scopic material. 
+
+Moisture tests on wheat were made by the use of the 
+Brown and Duvel Moisture Tester as finally adopted by 
+the Department of Agriculture, This consists es- 
+sentially of a set of stills heated by gas, in which 100 
+-7- 
+
+
+
+
+
+Laboratory Equipment 
+
+
+
+grains of wheat is placed and covered by a non-volatile 
+oil. On being heated, the moisture is distilled off 
+and collected in a graduate. The volumo in c.c. 
+gives the percentage directly. This apparatus was 
+operated according to the directions furnished by the 
+Kny Sheerer Co., of Hew York, 
+
+Specific gravity of the wheat kernel was determined 
+according to the method of Circular Ho. 99, United 
+States Department of Agriculture, Sureau of Plant In- 
+dustry. This consists essentially in placing a 
+weighed quantity of the cereal in a picnometor or 
+specific gravity bottle and then filling the bottle 
+up to the mark with toluene. The specific gravity 
+of the toluene being Imown, and its weight determined 
+by difference, the volume of tte cereal can be obtain- 
+ed and the specific gravity calculated. 
+
+The "weight of 100 kernels" was determined by fold- 
+ing a paper to form a V-shaped gutter aiid then poiuring 
+in a handful of the wheat from one end of the gutter. 
+By commencing at one end and counting off 100 kernels, 
+a very average sample can. be obtained. Two sets of 
+100 kernels are weighed to one milligram and the aver- 
+age taken. 
+
+-8- 
+
+
+
+
+
+Laboratory Equipment 
+
+
+
+Vilien it was necessary to report weight per bushel, a 
+500 c.c. glass graduate was filled level full with the 
+sample, and the weight of this volurao of wheat in grams 
+multiplied by .16 to give the weight of one bushel in 
+pounds. The factor .16 is derived from tlK fact tMt 
+one bushel of water weighs 80#. Therefore, 
+
+80 X weight wheat in grams weight of wheat 
+
+
+
+weight water in grams pounds per bu. 
+
+
+
+-9- 
+
+
+
+Apparatus for Jgilling and Baking 
+
+Before taMng up the discussion of the methods of 
+milling and baking, a short description of the appar- 
+atus should be of value. 
+
+The wheat was milled on a special Allis Chalmers 
+ilsperimental Mill comprising three sets of six-inch 
+rolls and a jig bolting machine. Two sets of the 
+rolls were corrugated; one set 16 and 12 to the inch 
+and the other 24 and 18 to the inch. These rolls 
+grind dull to sharp and the fast roll runs a little 
+more than twice as fast as the slow one. The smooth 
+rolls have a differential of 7 to 10, that is, the 
+fast roll malces 10 revolutions while the slow one 
+makes 7. Accurate adjustment of the rolls is pro- 
+vided by two large screws on the side of each roll, 
+which allow the rolls to be adjusted so that they are 
+in the sajne plane, and by two smaller screws to set 
+them parallel. The rolls are thrown "in" and "out" 
+by means of a lever. A mechanical jig bolting ma- 
+chine completes the equipment of the mill. Frames 
+of standard bolting cloths are made to fit this jig; 
+and as many as four frames may be inserted at one time. 
+-10- 
+
+
+
+
+
+Milling Apparatus 
+
+
+
+Before going to the mill the wheat mast be clean, as 
+that term is ordinarily tmderstood. This is usually 
+accomplished by the use of some sort of fanning mill, 
+which does not, however, remove much dirt from the 
+crease. In these experiments a Eureka Horizontal Close 
+Scourer, manufactured by the S. Howes Co. was used. It 
+removes the crease dirt, a considerable portion of the 
+outer bran coat, and the beard from the end of the Icer- 
+nel. The Scourer is capable of wide adjustment to 
+suit various sizes of stock. 
+
+The complete scouring and milling equipment is run by 
+a five horse power electric motor connected thru clutches 
+so that either or both machines may be run at one time. 
+
+The baking of the flour was performed by the use of a 
+35^ C, electric-heated special dough raising cabinet and 
+a Simplex Electric Oven with a range of from 150 C. to 
+325" C. 
+
+The pans used for baking were identical with those 
+used by the United States Government laboratories and 
+of the following inside dimensions:- Bottom, 2 7-8 in. 
+z 5 13-16 in. Top, 3 7-16 in. x 6 13-16 in. Depth, 
+5 7-16 in. They are designed to use 340 grams (12 oz. ) 
+Of flour and yield a loaf of about 500 grams (17 1-2 oz.) 
+
+-11- 
+
+
+
+
+
+Ovens 
+
+
+
+and 1750 c.c. (or 105 cu. in.). 
+
+Besides the above equipment there is a fall chemical 
+outfit, including a constant temperature Freas Electric 
+Oven with a range of from room teniperattire to 185 C, 
+which is used for the moisture tests on the floiir, and 
+a Hoskins Electric Muffle with a range of from 250*^ C. 
+to 1100*^ C. (145 F. to 2000° F. ) for running ashes. 
+
+
+
+-12- 
+
+
+
+Earplanation of 
+, System of Testing 
+
+As before stated, the principle of the system is to 
+mill the wheat sample to flour and then analyze and bake 
+the flour under identical conditions with the standard 
+flour of the locality. In the case of flour samples, 
+the process is, of course, the sane with the omission of 
+the milling operation. 
+
+The question of the standard is a very perplexing one, 
+as it is not fixed but depends largely on the local re- 
+quirements. That which is considered 1iie best flour in 
+one district is not the best in another, and there- 
+fore the chemist first requires to know the exact kind 
+of flour the miller wishes to make. The miller can us- 
+ually lay his hands on one particular parcel which has 
+the approval of his most skillful and critical customers, 
+which he would like always to supply and which he would 
+be content to take as standard. If he can also obtain 
+certain samples uSiich more or less fall short of this 
+standard, and with clearly marked defects, they will also 
+be of service. The clBmist should be supplied with 
+these samples, and his first object should be to find out 
+-13- 
+
+
+
+\7here the faulty samples differ from the standard one. 
+There can be given no general directions as to how 
+this is to he done, since it is hero that the skill and 
+judgment of tlie expert are brought to bear on the prob- 
+lems of each particular flour. However, a baking test 
+will usually yield very definite information, and it is 
+almost wholly upon data from such tests that the grading 
+of samples depends. Still it is remarkable how soon, 
+as a result of regular testing, the chemist can form an 
+opinion on the quality of flour and recognize deviations 
+from the standard by observation of pTorely empirical 
+factors. 
+
+Having such a standard, the matter of testing the 
+samples on hand takes a rather definite form. If the 
+idea is to sell i;*ieat to the mill, then the samples on 
+hand will be milled and baked alongside the standard. 
+The selling points of tlie wheats on hand can then be 
+very clearly brought out, and the mill will know exact- 
+ly what it is buying. It is of course usual that 
+tests will be made by both parties to the sale, and the 
+reports of the two laboratories will be checked against 
+each other. 
+
+-14- 
+
+
+
+If the ftmction of the laboratory is to control the 
+running of the mill itself, the miller will take 
+samples from those parts of the mill which will afford 
+the most information, and the chemist will duly test 
+the same. In particular if stispicion attaches to the 
+work of any one machine or part of the mill, samples 
+of the products of this section will receive special 
+attention. If any marked departure from the usual 
+standard occurs, attention should be drawn to it, and 
+the defect remedied by proper adjustment. 
+
+It is almost entirely with the former object, that 
+of selling wheat to the mills, that the present inves- 
+tigation was undertaken, and the present discussion is 
+an attempt at a solution of the cause for the wide dif- 
+ferences that exist in reports on the same samples 
+from different laboratories. These differences are 
+especially pertinent when the two laboratories are those 
+of buyer and seller, and a referee chemist appointed to 
+clear the trouble furnishes a third report that differs 
+as widely from either of tie other two as they differ 
+from each other. 
+
+It is accepted almost without question that chemi- 
+cal tests alone furnish little or no reliable informa- 
+
+-15- 
+
+
+
+tion as to milling qualities of wheat and subsequent 
+baking qualities of the flour produced, UThile nruch 
+excellent -vrork has been done along these lines, no 
+chemical or physical factors have as yet been discover- 
+ed which will furnish the required information. It 
+seems that at present the only means for judging the 
+bread-malcing capacity of a wheat or flour is an actual 
+ba3cizig test. 
+
+Therefore, under the circumstances, the only true 
+test for wheats is the milling test, in which the var- 
+ious wheats are ground separately, and their resultant 
+flours tested chemically and by J>afcing. In the follow- 
+ing pages a discussion of the various methods used for 
+these tests is taken up and a system outlined which is 
+thought sufficiently representative of actual conditions 
+as to be used as standard. 
+
+
+
+-16- 
+
+
+
+Disc-ass ion of Methods of Milling 
+
+It has already been stated that the best general mode 
+of testing wheats at present is that of first reducing 
+the grain to flour and then testing the flour. Y/ith 
+this end in view the larger mills are frequently fitted 
+with small reduction plants by tftiich an experimental 
+quantity of wheat may be reduced to flOTir and this test- 
+ed before the whole of the wheat is ground. The plant 
+for this purpose may be of various sizes from a fairly 
+complete small roller mill installation to a specially 
+made machine for reducing purposes, — the different 
+separations being made by hand. 
+
+The Allis Chalmers mill used in this work is a happy 
+combination of the two. It is large enough to enable 
+the operator to mill similarly to the flow sheets of 
+the large mill, and at the same time small enough to 
+handle accurately a sample of only three pounds with a 
+very negligeable loss in the mill. 
+
+If fitted with a middlings purifier, this mill is ca- 
+pable of producing as pure a patent flour as any large 
+mill. However, the size of original sample that 
+would be necessary to matee patent flour in sufficient 
+
+-17- 
+
+
+
+amount to run a baMng test, and the time necessary to 
+produce it, make it impossible to mill in tMs way if 
+any large volume of work is to be handled. 
+
+Accordingly, grain testing laboratories generally 
+have come to the conclusion that for commercial work 
+the production of a straight run flour is the only prac- 
+tical solution. Given, however, a certain sample of 
+wheat, there are innumerable methods of handling the 
+mill to produce flour from it. The products of ths dif- 
+ferent methods will be similar neither in physical nor in 
+baking constants. Therefore it is highly necessary to 
+have some definite system upon which to work. 
+
+Entirely aside from methods of manipulating the mill, 
+it is beyond all doubt correct to attempt to produce 
+from the sample on hand a flour that will resemble as 
+closely as possible the flour a large mill will yield 
+from the same wheat. Since we are producing "straight" 
+flour from our experimental mill, we ought therefore to 
+attempt comparison with the straight vans from the big 
+mills. 
+
+It is peculiar that at present no large laboratory is 
+doing this. The general method is to compare the ex- 
+perimentally milled floiir to patent flour of standard 
+
+-18- 
+
+
+
+or stipposedly standard qualities. TThile this idea 
+is capable of fumishir^ directly comparable figures 
+between several sanrplest the actual values reported 
+are of little significance unless conrpared to their 
+proper grade of "strai^t" flour in terms of the same 
+standard. 
+
+Realizing this difficulty, one large laboratory is 
+milling to A5^ straight flour in the mill and claims 
+that flour so milled will resemble very closely the 
+patent flour a big mill will produce from the same 
+wheat. It is my opinion that this system is very 
+poor for two reasons. In the first place, compar- 
+ing a "straight" flour to a "patent" is illogical, 
+and in the second place, various wheats do not yield 
+the same per cent, of patent flour. In milling every 
+sample to 45% straight flour we are not talcing into 
+account the variation that will appear in the yield of 
+patent flour, and this is considerable, — tlius throw- 
+ing in a chance for a very great error. 
+
+If we can produce only "straight" flour on our ex- 
+perimental mill, we should compare it to straight 
+flour, and the flour we produce should be milled ac- 
+cording to a flow sheet resembling as closely as pos- 
+
+-19- 
+
+
+
+sible the average flow sheet of the big commercial mills. 
+There is, however, considerable cause for discussion on 
+this point. 
+
+A large mill averages somewhat over 70^6 total flour, of 
+which 5% is usually low enough grade to be thrown out in 
+the process from the straight run. If, then, we attempt 
+to mill to 66% flour, we should get a flour resembling 
+the commercial grade. The difficulty is in selecting a 
+flow sheet for' the mill. It is clearly possible for one 
+person to mill close on the bran and tte other close on 
+the shorts, and in that way both get the same percentage 
+of flour but with very different properties. 
+
+It appears to the writer that the first requirement 
+for a milling sheet is that the 66^ of straight flour 
+produced shall be as good a 66^ as is capable of being 
+produced from that particular wheat. Therefore it is 
+very difficult to furnish an exact flow sheet that can 
+be followed to the letter, but the operator of the mill 
+should bear in mind that he is to get as good flour as is 
+possible from his sample. It is convenient, however, to 
+have some fairly definite idea as to the flow of the 
+wheat thru the mill; and for that reason tha attached 
+sheet is presented. It should be remembered, hov/ever, 
+-20- 
+
+
+
+I 
+
+
+
+
+
+
+■fcliat this represents only the skeleton of the system, 
+and that the mill must be adjusted and the flov/ varied 
+in maiay cases to suit the requirenents of the stock. 
+
+This flov.' sheet v/ill yield about &&fo flour, A):, shorts 
+and 30/i bran. The Roman nxanerals indicate the brealc 
+or reduction number. The rectangle beloTA* the rolls 
+represents the sieves that perfoin the operations of 
+scalping, grading-, and dressing. The circles vvith 
+cross lines in both directions represent the coarse cor- 
+rugated rolls, while the circles v/ith lines in only one 
+direction represent the fine corrvigated rolls. The 
+smooth rolls are represented by open circles. The Arabic 
+numerals refer to the number of wire and bolting cloth 
+used, thus, #16, #18, and #20 are wire cloth, #34, #50, 
+and #68 are bran and shorts sieves, and ^'11 and #12 are 
+flouj- sieves. The fineness increases with the higher 
+nimiber, but one must understand that the floui- sieves 
+are in a different series from the others. 
+
+The first break should have the rolls set in such a 
+way that the berry is just broken open, and the further 
+brealcs should be adjusted to roll open the berry rather 
+than to crush it. After the bran is rolled out flat, 
+the rolls are moved in a little more each time so as to 
+-21- 
+
+
+
+Steve off the flour. The adjustments on the smooth 
+roll will depend entirely on the stock and cannot te 
+given in general terms. 
+
+The finished flOTor is run thru a #9 bolting cloth 
+several times to remove any small amount of bran that 
+nay have crept into it and to cake the saciple uniform. 
+
+With the above system a very excellent flour can be 
+produced, which, cor^idering the fact that no middlings 
+or other air draught purifier is used, contains a re- 
+markably small amoxmt of specks. The complete mill- 
+ing operation is capable of being run in 50 minutes in- 
+cluding the cleaning of the mill to prepare it for the 
+next sample. 
+
+It is not claimed by any means that the experiment- 
+ally made flour will equal in every respect that ob- 
+tained in practice on the larger scale; but usually 
+the results will be sufficiently near comparative with 
+each other to afford valuable information. The prac- 
+tical miller will naturally make allowances for the 
+milling peculiarities of the wheats he nay be thus ex- 
+amining. 
+
+If it were only possible to obtain a standard wheat 
+sample the larger part of the difficulties in this re- 
+-22- 
+
+
+
+spect wculd be done away with inmed lately. It would 
+sinrply be necessary to treat the sample to be tested 
+and the standard sanple identically in both mill and 
+bake, and the results would be directly comparative 
+irrespective of flow sheet, kind of flour produced, 
+personal equation, or type of mill. As it seems to 
+be almost completely impoBsible to obtain a sanrple of 
+wheat that can be called standard, we mast content our- 
+selves with the previously outlined approximate methods. 
+
+
+
+-23- 
+
+
+
+Temp e rit g Hie Saaple 
+
+The niain object of teinpering wbeat before milling 
+is of course to toughen the bran in such a way as to 
+mafee it flatten out between the rolls rather than 
+break up into very small pieces and thus yield a flour 
+with a high proportion of species. 
+
+There are probably as many methods of tempering 
+wheat as there are mills. I have been told by the 
+superintendent of one mill that at one time he visited 
+three lai^e mills located in the same town. One mill 
+was grinding the wheat as it cane from the cars, the 
+second was literally soaking the kernels with cold 
+water* and the third was using live steam. The beauty 
+of it all was that each mill was producing an admitted- 
+ly Mgh grade flour. 
+
+Personal equation probably plays the most imrportant 
+part in the matter of tempering. 3ach miller knows 
+just how he wants his wheat to enter the first breaks, 
+and any method that will get it into that condition is 
+acceptable. If we take the large average of mills to- 
+day, we find that warm water alone or cold water in 
+combination with steam is most generally used, but that 
+
+-24- 
+
+
+
+the time of application varies from two mimites to 
+fifteen hotirs. 
+
+It has been the practice in this laboratory to nse 
+water of about 40 C. in fairly large araormt, and to 
+allovr it to soak in for about three hotirs, during 
+which time the jar containing the sample is shaken up 
+and inverted every half hour. Ylith the proper amount 
+of water, this method appears to yield a very tough 
+bran, without affecting the inside of the kernel. 
+The exact amount of water to be used cannot be given 
+in general terms. For hard wheats about 35 c.c, per 
+1000 grams and for soft wheats about 15 c.c, per 1000 
+grams was used, but the amount depends more on the con- 
+ditions of the berry than the variety. 
+
+There are laboratories that malce a practice of mill- 
+ing without any conditioning of the wheat sample what- 
+ever. In the interest of producing as good a flour 
+as possible with the equipment at hand, teinpering the 
+sample was found to be an absolute necessity. 
+
+
+
+-26- 
+
+
+
+The Baldng? T eet 
+Discussion 
+
+
+
+With a given milling equijment there is bnt little 
+possible variation in the method of manipulation if 
+we grind to a certain grade of flour. This cannot 
+be said to be true when it cones to the baking of 
+bread. There are many different kinds of bread, and 
+as many if not more methods of handling the dough be- 
+fore baking. Hence it would not seem a very siinple 
+problem to select any one method to be used for aver- 
+age tests, where we are dealing with many different 
+varieties of flour. 
+
+However, the results of some tests run during the 
+course of these experiments are so definite that they 
+are included at this point to give foundation for an 
+assertion to be made in the following pages. In ex- 
+planation of these figures, suffice it to say that 
+they signify a comparison between two different flours, 
+and that each set of figures represents the results of 
+a separate baking test. The irrportant factor is that 
+these three bakes differed as widely in method of 
+handling the dough as possible, but that within each 
+
+-26- 
+
+
+
+test the two loaves being compared were handled iden- 
+tically. Each loaf is of course compared to its osm 
+standard. 
+
+The report follows :- 
+
+Standard ABC 
+
+Absorbtion 57.5 58,0 58.0 58.0 
+
+Color 100.0 99.0 99.0 99.0 
+
+Loaves per bbl. 100.0 100.3 100.3 100.3 
+
+Size of Loaf 100.0 95.7 95.8 96.0 
+
+Quality of Loaf 100.0 99.0 99.0 98.0 
+
+Average Value 100.0 98.5 98.5 98.3 
+
+Fermenting Period 100.0 100.0 100.0 100.0 
+
+Quality of Gluten 100,0 91,4 91.5 91.7 
+
+It is understood that the column labelled "standard" 
+represents in reality three separate loaves, but as the 
+figures "will be the same in all cases they are placed 
+in one colunn. The columns "A" "B" "C" represent 
+three separate bakes of the same flour by different 
+methods. On accotint of the percentage system these 
+different figures are directly comparable with each 
+other. It will be noticed immediately that the col- 
+trans are practically identical. This means that the 
+method of baking is not the iinportant factor. It 
+is only that whatever method is used each loaf must re- 
+ceive similar treatnont with its standard. Thus the 
+-27- 
+
+
+
+choice of method will not depend on the type of loaf 
+we wish to obtain, btit solely on the coramercial adapt- 
+ability of the method. Under these circumstances we 
+natiirally will use that method -nhich will allow us to 
+run the most tests. 
+
+Eow there are two general types of dough-handling 
+methods adapted to the baking of tinned bread. These 
+are generally known as the "sponge" method and the 
+"straight dough" method. 
+
+In the sponge method somewhat less than one half of 
+the flour is mixed with an equal weight of water and 
+all other ingredients. It is then allowed to ferment 
+for 1 1-2 or 2 hours, depending on the type of flour, 
+and is then mixed with the remainder of the flour and 
+water to malce a dou^ of the proper consistency. It 
+is then allowed to rise twice and is formed into loaves, 
+placed in the pan it is to be baked in, and allowed to 
+rise a definite amount. It is then baked. The com- 
+plete operation takes about 4 1-2 hours. 
+
+The straight dough method is in general the same as 
+the sponge method with the omission of the sponging 
+stage. In other words the dough is mitred to the proper 
+consistency for baking at the very start of operations 
+-28- 
+
+
+
+instead of after a sponging stage. This naturally 
+subtracts the time of sponging fwin the operation and 
+enables a far larger number of saraples to be handled. 
+
+In fact, with the same equipment, it has been found 
+that just double the number of samples can be handled 
+in one 8-hour day if the straight dough method is 
+used instead of the sponge method. The quality of the 
+loaves will be uniformly slightly lower, but the re- 
+sults being comparative with each other, this cannot 
+affect the test. 
+
+For the above very potent reasons, the straight dough 
+method is used in those espe^iinsnts. 
+
+
+
+-29- 
+
+
+
+The Baking Test 
+
+
+
+Method 
+
+
+
+A modification of the baking tests as outlined in 
+BtQletin 117 of the Kansas State Agricultural College 
+was used, because several things, as explained later, 
+were thought necessary to bring the test into such 
+form that its results would more closely give the 
+actual coonercial value of the flour. 
+
+For instance it was found that some flours from the 
+red wheats of the southern states could not be baked 
+satisfactorily by the above original method, whereas 
+th^ are used to good results in practice. The modi- 
+fication as will follow gives very good loaves. 
+
+In making baking tests on different floxirs it is 
+above all desirable that the test should be so conduct- 
+ed that the differences in the results should be caused 
+by the inherent qualities of the flour and not by vari- 
+ations due to the method employed. However, in prac- 
+tice the skilled baker adapts his method to suit the 
+different flours he uses, and he remedies the defects 
+in the flour to some eztent by the method of baking he 
+uses. Therefore it has been the writer's aim to con- 
+-30- 
+
+
+
+duct these tests in such a way as to get as good bread 
+as possible from the different flours, and if necessary 
+to vary the method of baldng in some sll^t details to 
+be able to do this. That such a method will yield 
+resxilts that more closely approximate the results the 
+flour is going to give in actual use is apparent, 
+
+The actual bsQcing and its associated tests were made 
+as follows : - 
+
+The Straight Dou^ Test 
+
+In these tests "dough" means a flour mixture that has 
+been subjected to a short period of fermentation and 
+baked as soon as the dough has risen a standard amount. 
+This amotint is fixed by preliminary trial and is uniform 
+in all these tests. The short period of fermentation 
+varies from 1 to 3 hours and is secured by using fresh 
+yeast in large qx:iantities. 
+
+Before maMng the dou^ we must know the percentage of 
+water that the flour will absorb to be of correct stiff- 
+ness. This is found by weighing out 30 grams of the 
+flour into a strong teaciq) and running in distilled water 
+from a burette until the resultant dough is "right." The 
+best test that the dough is "right" is to put it on the 
+-31- 
+
+
+
+■bottom of the cup in tlie form of a round ball and watch 
+it for about 3 minutes. If it gradually settles dorm 
+until it touches the rim of the circle on the bottom of 
+the cup, it is satisfactory. If it stays in the origi- 
+nal shape it is too stiff, whereas if it quic>ly sub- 
+sides and overlaps the edge of the cup it is too thin. 
+This test will be found to be sensitive in careful 
+hands to witliin .26 c.c. on 30 grams of flour. The 
+water that the flour absorbs is figured in percentage. 
+
+Now the dough can be made. 340 grams of flour, 10 
+grams of sugar, and 5 grams of salt are weighed out. 
+The amount of water as determined by the absorbtion 
+test, less 50 c.c, is also measured out. The flour is 
+placed in the pan it is to be balzed in and placed in the 
+constant temperature oven xmtil it reaches 35*^ C. As 
+
+many grams of yeast as are necessary for the whole batch 
+of loaves are weighed out and dissolved in enough cold 
+water to just be able to draw out 50 c.c. of the resul- 
+tant solution for each batch of dough. 10 grams of 
+yeast should in this way get into each batch of doug};. 
+
+T/lien the flour is warmed to the right temperature it 
+is removed from tlie oven and 2-0 of it is placed in a 
+dish. The water as raeasui-od out is heated to 42 C. 
+
+-32- 
+
+
+
+and the sugar and salt dissolved in it. Then exact- 
+ly 50 c.c. of the yeast solution are withdi^wn in a 
+pipette and added to the sugar and salt solution. The 
+temperature of the resulting mixture should be very 
+
+
+
+close to 35 C. This liquid mixture is then added to 
+the flour. The resultant batter is beaten up v/ith a 
+lai^e spoon or spatula until there are no more lumps, 
+wMch usually takes about 2 minutes. The remainder of 
+the flour is then added and the dough mixed, first by 
+means of spatulas and then the liands, to a ball of well 
+Imeaded consistency.-. After this operation, which us- 
+ually takes but two or tlxree minutes, the dough is placed 
+back in its pan, v/hich has been buttered in t lie meantime, 
+and put back in the rising oven v;hoi-o it is kept at 35 
+C. The dough is weighed at this juncture to ascertain 
+the loss during the kneading-. This loss is xinavoidable, 
+and usually is about 15 grams. It is due mostly to 
+evaporation of moisture and sticking of some flour to 
+t}i9 hands. 
+
+The dough is now allovred to rise the standard amount 
+and if it is a very v/eal-c flour from a soft wlieat, it is 
+immediately baked, bixt if the flour has any reasonable 
+strength it is knocked dovoi, rekneaded, and allowed to 
+-33- 
+
+
+
+rise a second time, and at the termination of this rise 
+if the dou^ of one of the loaves shows signs of col- 
+lapsing that loaf is then baked, otherwise a third rise 
+is used. Most flotirs ceding troia sound wheats will 
+stand three rises; they will even need them. The times 
+of rising are carefully noted, and all loaves are baked 
+
+
+
+exactly 30 minutes at 238 C. About 1-2 to 3-4 of an 
+ho\ir after the loaf has been standing in the open air, 
+it is weighed, and this weight is recorded as the weight 
+of the hot loaf. This must of course be corrected for 
+the small amotmt of dough lost in the Imeading. 
+
+In measuring the volume' of the loaf it is put in an 
+oblong box that already contains some turnip seed. 
+Then the box is filled with the seed, gently rapped, and 
+tJie seed leveled off at the top. The seed is poured 
+out and weighed, and fr(xn the weight of seed that the box 
+will contain when there is nothing but seed in it, the 
+volume of the loaf can be obtained, since the volume of 
+the box is known. This method has been found to be ac- 
+curate to within 5 grams weight of seed, which corres- 
+ponds to about 2-5 cu. in. in volume. 
+
+The volume should be measured approximately one hour 
+after removing the loaf from the oven as it will shrink 
+-34- 
+
+
+
+more and more the longer it stands. 
+
+Gluten i:^3rpansion Dough Test 
+This is for the purpose of testing the qtiality of 
+the glnten and checking the relative fermentation 
+period of the flour. The proceedure is identical 
+as for the straight dough ezcept that 100 grams of 
+flour are used instead of 340 grams, and the other 
+ingredients in proportionate amounts. At the point 
+where the regular dough would be panned, this dough is 
+placed in the bottom of a well greased glass cylinder 
+which is at a temperature of 35*^ C. and placed in the 
+rising oven at 35° C. 
+
+For the first hour no attention is required, but 
+after that the height of the dough and the time should 
+be recorded every 15 minutes; and later when it is evi- 
+dent the dough is near its maximum volume, every five 
+minutes. "lien the dough just begins to fall the vol- 
+ume and time are noted. Prom the difference in initial 
+and final volumes the relative qualities of the glutens 
+are calculated. Since we start with the same amount of 
+flour, the quality of the gluten itself will be equal 
+to the net rise divided by the per cent, gluten in the 
+
+-35- 
+
+
+
+sample. This figure is then referred tc the similar 
+figure of the standard flour on a percentage basis. 
+
+Another method of performing this test which seems 
+to yield more definite results uses the gluten itself 
+instead of the dou^. For this purpose the gluten is 
+washed out of the floxir in the usual way, ahd then 10 
+
+grams of each gluten is placed, wet, in a tin cylinder 
+
+o 
+1 inch in diameter and placed in the "bsike oven at 200 
+
+C. It will be found that the gluten will expand and 
+
+after twenty-five minutes will have formed a porous 
+
+column within the tin. The height of this column 
+
+will be directly proportional to the quality of the 
+
+gluten. 
+
+In making all these tests, a flour the baking qual- 
+ities of which are known, is selected and tested at the 
+same time as the other flour. The results are con- 
+pared on a percentage basis and in this way the unknown 
+flour is judged. 
+
+The usual form of report sheet is attached. The 
+"gluten" and "ash" are the results of chemical tests, 
+the "absorbtion" is reported in per cent, and is obtain- 
+ed as previously e:^lained, "Color," "Loaves per bblV' 
+"Size of Loaf" and "Qualitjr" will represent, on a basis 
+
+-36- 
+
+
+
+of standard s. 100^, those valuoB for the tested sample. 
+The "Average Valtie" as stated is liie mean value of the 
+above four. "Fermentation Period" is calculated from 
+the total time necessary for rising, and "Quality of 
+Gluten" is obtained as explained previously. 
+
+A report of this kind, when the miller knows your 
+system of milling and your standard, will tell him ex- 
+actly what the wheat or flour Tinder discussion is worth 
+to him. 
+
+
+
+-37- 
+
+
+
+Beasono for Disagreement in Results 
+
+It was found possible by following the above methods 
+very carefully to test samples of the same flour within 
+the following limits ;- 
+
+
+
+Volume of Loaf 1.2 cu. in. 
+
+Ueight of Loaf 7 grams 
+
+Texture of Loaf no variation 
+
+Color of Loaf no variation 
+
+Quality of Gluten 5 c.c. in 450 c.c. 
+
+Fermentation Period 12 min. in 190 min. 
+
+
+
+Uith the above very satisfactory results in my own 
+work it was again attempted to check the other coniner- 
+cial laboratories. Three samples of #2 Hard V/inter 
+wheat were sent to laboratory "B" and their report com- 
+pared with my own work according to the method I have 
+just outlined. The reports are unique in the fact 
+that they show absolutely no similarity whatever in 
+either chemical or milling and baking results. The 
+data is given in the table. 
+
+For instance "B" grades #3 best of all while I 
+graded #2 the best; also there is in most cases over 
+one per cent, difference in protein results; while the 
+ashes are too far apart to be considered at all. The 
+variation in the chemical work has been previously 
+
+-38- 
+
+
+
+oraoH 
+
+
+
+o ^ in 
+
+
+
+& 
+
+
+
+i»9«* 'q^l 
+
+
+
+t^ o 
+
+
+
+
+
+CD 
+
+
+to 
+
+
+in 
+
+
+o 
+
+
+O 
+
+
+o 
+
+
+
+
+CSJ 
+
+
+iH 
+
+
+
+
+auiOH 
+
+
+
+
+
+
+• 
+
+
+
+
+
+
+
+
+
+
+
+
+• 
+
+
+
+
+
+
+O 
+
+
+
+
+c^ 
+
+
+o 
+
+
+o 
+
+
+f- 
+
+
+c\l 
+
+
+C>J 
+
+
+to 
+
+
+<o 
+
+
+
+
+iH 
+
+
+
+
+m 
+
+
+o 
+
+
+o 
+
+
+o 
+
+
+o 
+
+
+o 
+
+
+r-t 
+
+
+o 
+
+
+
+
+
+
+
+
+
+
+i-i 
+
+
+rH 
+
+
+I-I 
+
+
+r-H 
+
+
+iH 
+
+
+pH 
+
+
+iH 
+
+
+
+
+
+
+CM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 
+
+
+^ 
+
+
+o 
+
+
+o 
+
+
+VO 
+
+
+o 
+
+
+in 
+
+
+O 
+
+
+o 
+
+
+o 
+
+
+ulu 'q^ 
+
+
+
+
+
+
+
+
+
+
+• 
+
+
+• 
+
+
+
+
+
+
+
+
+
+
+
+
+<J> 
+
+
+
+
+CO 
+
+
+to 
+
+
+O 
+
+
+o 
+
+
+CO 
+
+
+CO 
+
+
+cr> 
+
+
+r-t 
+
+
+
+
+
+
+
+
+in 
+
+
+CT> 
+
+
+o 
+
+
+o 
+
+
+en 
+
+
+cr> 
+
+
+cy> 
+
+
+O 
+
+
+
+
+
+en 
+
+
+to 
+
+
+in 
+
+
+o 
+
+
+o 
+
+
+in 
+
+
+
+
+»* 
+
+
+rH 
+
+
+
+
+
+
+
+
+• 
+
+
+
+
+
+
+
+
+
+
+• 
+
+
+
+
+etaoH 
+
+
+o 
+
+
+
+
+c- 
+
+
+o 
+
+
+o 
+
+
+to 
+
+
+C\J 
+
+
+i-H 
+
+
+VO 
+
+
+
+
+iH 
+
+
+
+
+LO 
+
+
+o 
+
+
+o 
+
+
+o 
+
+
+O 
+
+
+O 
+
+
+r-i 
+
+
+
+
+
+
+
+
+
+
+rH 
+
+
+rH 
+
+
+rH 
+
+
+r-< 
+
+
+rH 
+
+
+t-i 
+
+
+
+
+
+
+to 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vO 
+
+
+^ 
+
+
+o 
+
+
+O 
+
+
+«o 
+
+
+O 
+
+
+to 
+
+
+O 
+
+
+in 
+
+
+jiSii •q'BT: 
+
+
+• 
+
+
+
+
+• 
+
+
+
+
+• 
+
+
+
+
+
+
+
+
+
+
+
+
+cn 
+
+
+
+
+00 
+
+
+to 
+
+
+o 
+
+
+O 
+
+
+CO 
+
+
+CO 
+
+
+o 
+
+
+
+
+
+
+
+
+in 
+
+
+cr> 
+
+
+o 
+
+
+O 
+
+
+cr> 
+
+
+(J> 
+
+
+o 
+
+
+
+paBpuBq.s a> 
+
+
+
+• 
+
+
+
+
+Vi 
+
+
+
+
+•H 
+
+
+rH 
+
+
+
+
+c3 
+
+
+
+
+>H 
+
+
+,0 
+
+
+
+
+
+
+
+
+
+
+© 
+
+
+45 
+
+
+cd 
+
+
+1-^ 
+
+
+5 
+
+
+P< 
+
+
+;h 
+
+
+
+
+
+<H 
+
+
+(^ 
+
+
+fcJ5 
+
+
+
+
+
+h^ 
+
+
+
+
+
+> 
+
+
+PJ 
+
+
+ft 
+
+
+
+
+
+
+
+
+•H 
+
+
+
+
+«H 
+
+
+>» 
+
+
+ffl 
+
+
++> 
+
+
+n> 
+
+
+
+
+
+•p 
+
+
+to 
+
+
+fi 
+
+
+0) 
+
+
+
+
+•H 
+
+
+cd 
+
+
+S 
+
+
+> 
+
+
+© 
+
+
+rH 
+
+
+Pi 
+
+
+g 
+
+
+03 
+
+
+H 
+
+
+OS 
+
+
+© 
+
+
+
+
+
+•iH 
+
+
+ts 
+
+
+> 
+
+
+© 
+
+
+1-1 
+
+
+CO 
+
+
+<y 
+
+
+< 
+
+
+pL, 
+
+
+
+U ft 
+
+
+
+
+
+
+to 
+
+
+
+cleared up in my favor, tut it is hardly credible th2.t 
+a laboratory v/itb. a good reputation would lay itself 
+open to losicg it by consistently careless work. 
+
+I am inclined to think rather that the lack of agree- 
+Eient, in the baking tests at least, is due to the follov/- 
+ing facts :- 
+
+(a) Different methods of milling will seriously af- 
+fect the result. 
+
+(b) The use of old or new yeast will affect the 
+relative volumes of the loaves decidedly, this being 
+a point especially liable to give trouble as weai: and 
+strong flours are by no mesais equally affected by the 
+same variations in the yeast. 
+
+(c) The fact that "By for one, always reports 100^^ 
+for the volume no natter what the variety of wheat 
+shows that instead of baking each flour for its best 
+result as it will be handled in practice, he is baking 
+to constant volume or nearly so, and this alone woixld 
+throw off all chances of comparison. 
+
+(d) Different stiffnesses of dough used will vary 
+the voliime of the loaf. 
+
+(e) Different laboratories are using different stand- 
+ards, 
+
+-39- 
+
+
+
+Several of the above statements need explanation. 
+
+To show very clearly the difference in the method 
+of milling, several wheats v/ere milled light to 45% 
+flour and the sane wheats also milled according to the 
+regular process to 65^' flour. These four samples were 
+baifced side by side, and in the case of the soft flo^lrs 
+a difference of 6 cu. in. in volume v;as obtained, while 
+the strong flours yielded a difference of 2.5 cu. in., 
+all in favor of the lighter milled samples. The color 
+and texture of the loaves baked from the 45^2 flour 
+also were at least 2.% better tlian those values for the 
+65f, flour. 
+
+Also several sairrples were bafced using old and new 
+
+yeast, other conditions being the sane. A record of 
+
+this bake follows:- 
+
+Spring Plour TiYinter Flotir 
+
+T/eight of Yesst Used 10 grams 10 grams 
+
+Weight of Flour Used 340 grans 340 grams 
+
+TZeight of Uater Used 190 grams 175 grans 
+
+V.'eight of Sugar Used 10 grams 10 grans 
+
+T7eight of Salt Used 5 grams 5 grams 
+
+Volume of Loaf 
+
+
+
+Fresh least 
+
+
+83.7 
+
+
+85,0 
+
+
+rwo Days Old Yeast 
+
+
+85.0 
+
+
+82.2 
+
+
+Three Days Old Yeast 
+
+
+82.4 
+
+
+80.2 
+
+
+
+Relative Volume of Loaf from Soft Flour 
+
+Fresh Yeast 101.4^ 
+
+Two Days Old Yeast 96. 7^^ 
+
+Three Days Old Yeast 97.3^ 
+-40- 
+
+
+
+Hie nach more decided effect of tiie old yeast on the 
+weaker flour is very evident. 
+
+To show clearly the effect of too nmch or too little 
+water iu the dough a test on two sets of flours was 
+nan, using estreaos of water. The flours used were 
+milled from a spring wheat and a winter wheat respec- 
+tively. The data of the test follows :- 
+
+
+
+Spring Winter 
+
+^ater Used 191 181 186 leS 175 Vf6 
+
+Volume 83.8 78.0 82.0 69.8 77.2 77.6 
+
+Color 100 100 99 99 99 99 
+
+Terture 100 100 98 96 98 98 
+
+
+
+It is clearly seen that working a dough too stiff 
+cuts down decidedly on the volume of the loaf, but 
+that a reasonable overdose of vra-ter has no detrimental 
+effect, but rather a good one. It is very unlikely 
+tliat too much water will be used in any case, as the 
+kneader will immediately become aware of the fact by 
+the stickiness of the dough. But it is quite possi- 
+ble not to have enough water, and not to notice the 
+fact. 
+
+
+
+-41- 
+
+
+
+Stiramary 
+
+In the foregoing pages I have tried to show the im- 
+portance of this line of chemical work, and at the same 
+time indicate the unsettled condition of affairs. It 
+is very evident that if the different commejrcial labor- 
+atories do not choose some one system of working, and 
+follow this system out conscientioxisly, very little 
+coniparative value can attach itself to their reports. 
+
+It certainly is deplorable tlrnt at present it is im- 
+possible to get even a similarity between reports from 
+different laboratories on the same wheat or flour 
+sample. 
+
+In view of the past discussion, it seems to mo that 
+to remedy this all laboratories in this line should 
+mill their wheat and bake their flour according to 
+some definite and uniform plan. Such a plan, very 
+representative of conditions in the big mills, has 
+been suggested. The baking method should be such 
+that it brings out the commercial value of the flour 
+and not the comparison produced by subjecting the 
+flour to abnormal conditions. The test as suggested 
+does this very nicely. 
+
+-42- 
+
+
+
+Then to get the same results it will be necessary 
+only to adhere strictly to six rules, which can be 
+shortly and siniply stated as follows :- 
+
+(1) All wheats should be milled to a definite per- 
+centage of flour (66^) according to a uniform milling 
+sheet, so that one person does not mill close on the 
+bran and the other close on the shorts and in that way 
+both get the same percentage of floxir, but quite dif- 
+ferent in properties. 
+
+(2) The yeast used in the experiments should be con- 
+trolled not by taste or feel but by actual "gas" tests 
+so as to eliminate all chance of the yeast affecting 
+the restilts by having one laboratory use old yeast and 
+another fresh, strong yeast, in that ray rendering a com- 
+parison of their reports an impossibility. 
+
+(3) Loaves should be baked for their own particular 
+merits, and not accoz-ding to conditions that they will 
+be sure not to meet in coimcrcial baking. 
+
+(4) The amount of rise in the expansion case before 
+baking should be controlled vei-y carefully, and all 
+should allow the same rise. I have found by repeat- 
+ed tests tJjat three minutes overtime on the last rise 
+will affect the volume of the loaf as much as 10$^, and 
+
+-45- 
+
+
+
+if the dough is allowed to rise too far or too short 
+on one of the prelamin9.r7 risee the volume will not 
+be so affected but the texture will. 
+
+(5) In order to do a-ay with all chance of personal 
+equation, it would be best for all to use nechanical 
+Imeadins machines. This vnvad. eliminate all possi- 
+bility of trouble from this source, but it is very 
+doubtful to the writer whether any variation in the 
+resutts really exists here. 
+
+(6) All should use the same standard flour. To be 
+sure of no trouble, arrangements should be made so 
+that every laboratory gets its standard flour from the 
+sane batch of one mill. 
+
+It is the \7riter's opinion that if the methods of 
+milling and baking as suggested in this paper and the 
+precautions as just suggested in the six preceding 
+rules are conscientiously taken, the greater part of 
+the trouble arising from commercial laboratories in 
+this line of work not checking will be overcome, and 
+that a very difficult point in the grain analyst's 
+duties will be cleared up, 
+
+-44- 
+
+
+
+'^■'irt 
+
+
+

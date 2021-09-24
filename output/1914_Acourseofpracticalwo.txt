@@ -1,0 +1,1523 @@
+&SE 
+
+IN THE CI-JEMI 
+
+
+
+OF THE GARDEN 
+
+
+
+IVR JI DmRDES ~KEP 
+
+
+
+
+A COURSE OF PRACTICAL WORK IN 
+THE CHEMISTRY OF THE GARDEN 
+
+
+
+PRACTICAL 
+AGRICULTURAL CHEMISTRY 
+
+BY S. J. M. AULD 
+
+D.Sc.(Lond.), Ph.D. (Wiirzburg), P.I.C., P.C.S. 
+Professor of Agricultural Chemistry at Univertity College, Reading 
+
+And D. R. EDWARDES-KER 
+
+B.A.(Oxon.), B.Sc.(Lond.) 
+
+Head of the Chemical Dtpartment, Southeastern Agricultural College 
+(Univertity of London), Wye, Kent 
+
+Large Crown 8vo. xxiv+244 Pages. 32 Illustrations. SB. net. 
+
+This book is intended as a practical handbook in Agricultural 
+Chemistry for students working through courses of instruction for 
+the London B.Sc. degree in Agriculture and other examinations 
+of a similar type and standard. 
+
+
+
+BY A. D. HALL, M.A., F.R.S. 
+
+THE SOIL 
+
+AN INTRODUCTION TO THE SCIENTIFIC STUDY OF THE 
+GROWTH OF CROPS 
+
+Second Edition, Revised and Enlarged. 16 Illustrations. 55. net, 
+
+FERTILISERS AND MANURES 
+
+9 Illustrations. 55. net. 
+
+THE FEEDING OF CROPS AND 
+STOCK 
+
+AN INTRODUCTION TO THE SCIENCE OF 
+THE NUTRITION OF PLANTS AND ANIMALS 
+
+24 Illustrations. 55. net. 
+
+
+
+A COURSE OF PRACTICAL 
+
+WORK IN THE CHEMISTRY 
+
+OF THE GARDEN 
+
+FOR TEACHERS AND STUDENTS OF HORTICULTURE 
+GARDENING AND RURAL SCIENCE 
+
+
+
+BY D;R? J EDWARDES-KER 
+
+B.A. (OXON.), B.SC. (LOND.) 
+
+HEAD OP THE CHEMICAL DEPARTMENT AND LECTURER IN AGRICULTURAL 
+
+CHEMISTRY AT THE SOUTH-EASTERN AGRICULTURAL COLLEGE (UNIVERSITY 
+OF LONDON), WYE, KENT. 
+
+JOINT AUTHOR OF "PRACTICAL AGRICULTURAL CHEMISTRY." 
+
+
+
+
+LONDON 
+JOHN MURRAY, ALBEMARLE STREET, W, 
+
+1914 
+
+
+
+All rights reserved. 
+
+
+
+CONTENTS 
+
+CHAPTER I 
+THE CHEMISTRY OF PLANTS 
+
+PAGE 
+
+Preparation of Plant Ash . . . . < 7 
+
+Chemical Examination of Plant Ash . . 
+
+Detection of Chemical Elements in Plants . 9 
+Detection of Sugar ...... 10 
+
+Detection of Starch . . . . .11 
+
+Preparation and Properties of Cellulose . . .11 
+
+Tests for Proteins . . . . . 1 3 
+
+Preparation of Essential Oils . . . .14 
+
+CHAPTER II 
+THE CHEMISTRY OF SOILS 
+
+Detection of Phosphates in Soil . . . 15 
+
+Detection of Potash in Soil . . 15 
+
+Proof of Organic Nitrogen in Soil . . . 16 
+
+Preparation of Humus . . . . .16 
+
+Detection of Nitrates in Soil . .18 
+
+Nitrification by Soil Bacteria . . . .19 
+Detection of Calcium Carbonate in Soil ... 20 
+
+Comparison of Water-holding Capacity of Soils . . 20 
+
+Flocculation of Clay . . . .21 
+
+
+
+6 CONTENTS 
+
+CHAPTER III 
+THE CHEMISTRY OF MANURES AND FERTILISERS 
+
+PAGE 
+
+Examination of Farmyard Manure . . .23 
+
+Examination of Guano . . . . .24 
+
+Examination of Shoddy . . . . .24 
+
+Examination of Nitrate of Soda . . . .25 
+
+Examination of Sulphate of Ammonia . . .26 
+
+Examination of Superphosphate . . . .27 
+
+Examination of Basic Slag . . . .27 
+
+Examination of Kainit . . .28 
+
+Examination of Sulphate of Potash . . .29 
+
+Incompatible Mixture of Superphosphate and Nitrate 
+
+of Soda ...... 29 
+
+Incompatible Mixture of Basic Slag and Sulphate of 
+
+Ammonia ...... 30 
+
+Examination of Lime ..... 30 
+
+
+
+CHAPTER IV 
+THE CHEMISTRY OF SPRAYS AND WASHES 
+
+Preparation of Lead Arsenate Wash . . -33 
+
+Determination of Lathering Power of Soap . . 34 
+
+Preparation of Paraffin Soft- Soap Emulsion . . 35 
+
+Preparation of Paraffin Jelly . . . .36 
+
+Preparation of Bordeaux Mixture . . . 37 
+
+Preparation of Lime-Sulphur . . . .38 
+
+APPENDIX .... 39 
+
+
+
+CHEMISTRY OF THE GARDEN 
+
+CHAPTER I 
+
+THE CHEMISTRY OF PLANTS 
+
+THE ash obtained by ignition of leaves and other parts of 
+plants represents the mineral constituents that have been 
+obtained from the soil during the life of the plant. The 
+ash contains calcium (lime), potassium, iron, carbonates, 
+sulphates, phosphates, etc., and in those cases in which it is 
+obtained in quantity (e.g. bonfire ashes), is of value as a 
+fertiliser. 
+
+EXPERIMENT I. Preparation of Plant Ash. 
+
+Some leaves or other portions of plants are placed 
+in a porcelain basin, and heated over a Bunsen 
+burner. Steam is at first produced from water in 
+the material, and then charring occurs owing to 
+the burning of the dry matter. The heating is 
+continued until all blackness due to the presence 
+of unburnt carbonaceous matter disappears, and the 
+greyish or white residue of plant ash is allowed 
+to cool and used for the next experiment. 
+
+
+
+8 THE CHEMISTRY OF PLANTS [CHAP. 
+
+EXPERIMENT 2. Chemical Examination of 
+Plant Ash. 
+
+(a) Some of the ash is dissolved in a very small 
+quantity of concentrated hydrochloric acid. The 
+effervescence noticeable is due to the presence of 
+carbonates in the ash. 
+
+(b) Some of the solution so obtained is diluted 
+with its own volume of water,, and then treated 
+in two portions with potassium ferrocyanide and 
+potassium thiocyanate respectively. In the first 
+case a blue precipitate, in the second a red colora- 
+tion, show the presence of iron. 
+
+(c) To some of the solution of the ash in hydro- 
+chloric acid is added a few drops of barium chloride 
+solution. The presence of sulphates is indicated by the 
+production of a white precipitate of barium sulphate. 
+
+(d) Some of the original ash is dissolved in a 
+little concentrated nitric acid, some ammonium 
+molybdate solution added, and the whole boiled. 
+A canary-yellow precipitate shows the presence of 
+phosphates. 
+
+(e) To a solution of the ash in dilute nitric acid 
+is added some silver nitrate solution. The presence 
+of chlorides is indicated by the white precipitate of 
+silver chloride. 
+
+The presence of the above constituents, and, in addition, 
+nitrogen, which is lost during the process of ignition, may 
+be shown directly in plants without incineration. 
+
+
+
+i.] CHEMICAL ELEMENTS IN PLANTS 9 
+
+EXPERIMENT 3. Detection of Chemical 
+Elements in Plants. 
+
+(a) Carbon. Some leaves are cut into pieces, 
+placed in a test-tube, and granulated copper oxide 
+added. A cork provided with a delivery-tube is 
+placed in the end of the tube, and the contents are 
+then heated over a Bunsen burner. Carbon dioxide 
+will be produced, as shown by passing the gases 
+evolved into lime water contained in another test- 
+tube, when the lime water will become milky. 
+
+C + 2CuO = CO 2 +2Cu 
+
+(b) Nitrogen. Some pea- meal, or other plant 
+material finely chopped, is mixed with twice its bulk 
+of soda-lime and heated in a test-tube. Under 
+these conditions the nitrogen-containing bodies give 
+ammonia, the presence of which can be demonstrated 
+by holding a piece of red litmus paper in the gases 
+evolved at the mouth of the test-tube. 
+
+(c) Phosphorus. A few crystals of potassium 
+nitrate (saltpetre) are heated in a test-tube until 
+they melt, and many successive small portions of 
+pea-meal added on the point of a knife. After each 
+addition of material the nitrate should be heated 
+until all action is at an end. The mass is then 
+allowed to become quite cold, after which it is 
+dissolved in warm water and the solution obtained 
+divided into two portions. To one is added nitric 
+
+B 
+
+
+
+10 THE CHEMISTRY OF PLANTS [CUAP. 
+
+acid and ammonium molybdate, and the mixture 
+warmed. A yellow precipitate indicates phosphate 
+that has been formed from phosphorus-containing 
+bodies in the pea-meal. 
+
+(d) Sulphur. The second portion of the solution 
+obtained is treated with hydrochloric acid and barium 
+chloride, the formation of a white precipitate showing 
+the presence of sulphate produced from sulphur- 
+containing bodies in the peas. 
+
+The presence may be shown in plants of many substances 
+which are destroyed during the process of ashing or ignition 
+with potassium nitrate. Starch, sugar, cellulose (fibre), gum 
+and other similar carbohydrates containing no nitrogen and 
+built up by the plant from the carbon dioxide of the air, and 
+proteins or nitrogenous bodies formed from carbon dioxide in 
+conjunction with nitrates obtained from the soil, are examples 
+of such compounds. The value of plants as human and 
+animal foods depends largely upon the presence of these 
+bodies. 
+
+EXPERIMENT 4. Detection ofSttgar. 
+
+Some carrots, raisins, or ripe fruits (plums, apples) 
+are cut up and boiled with water in a flask for some 
+little time. The sugars are thereby extracted 
+together with other water-soluble constituents, and 
+their presence may be shown by boiling some of the 
+aqueous extract with Fehling's solution, 1 when a 
+brick-red precipitate of cuprous oxide, Cu 2 O, will 
+be obtained. 
+
+1 See Appendix. 
+
+
+
+I.] STARCH AND CELLULOSE 11 
+
+Starch exists in plants in the form of granules, which vary 
+in size and shape according to the plant in which they are 
+produced. 
+
+EXPERIMENT 5. Detection of Starch. 
+
+A small potato, after washing and peeling, is grated 
+to a pulp, and the latter tied up in a piece of linen. 
+The bag and contents are then well kneaded under 
+water in a beaker, whereby the fine starch granules 
+pass through the interstices of the cloth. The 
+turbid liquid is allowed to settle, and the water 
+poured off from the starch. A very small quantity 
+of the latter is transferred by a glass rod to a test- 
+tube half full of water, which is then boiled for a few 
+minutes. After cooling, a single drop of a solution 
+of iodine in potassium iodide 1 is added, the deep 
+blue colour produced being indicative of starch. 
+This blue colour is discharged on heating to 80 C, 
+but returns on cooling. 
+
+Cellulose is found in largest quantity in the woody or fibrous 
+parts of plants, and gives rigidity to the structure. The older 
+the plant, the more fibrous and tougher is the texture of the 
+cellulose. 
+
+EXPERIMENT 6. Preparation and Properties of 
+Cellulose. 
+
+Some stalks of plants, or full-grown leaves, are finely 
+chopped, and boiled with dilute sulphuric acid for 
+half an hour. The undissolved matter is collected 
+1 See Appendix. 
+
+
+
+12 THE CHEMISTRY OF PLANTS [CHAP. 
+
+on a piece of cloth, washed with hot water, and 
+then boiled for another half-hour with dilute caustic 
+soda solution. After washing with water, the cellu- 
+lose so obtained is subjected to the following tests : 
+
+(a) A small portion is vigorously shaken in a 
+corked test-tube with Schweizer's reagent 1 The 
+cellulose will become disintegrated and gradually 
+dissolved. The common solvents, water, ether, 
+alcohol, dilute acids and alkalis, are without action 
+on cellulose. 
+
+(b) About I c.c. of concentrated sulphuric acid is 
+placed in a test-tube and small pellets of the 
+cellulose dropped in at intervals, as the previous 
+portions dissolve with shaking. When the rate of 
+dissolution of the cellulose becomes slow, the test- 
+tube is nearly filled with water, and the solution 
+so obtained boiled in a beaker for five minutes. A 
+portion is then rendered alkaline with very strong 
+(syrupy) 1 caustic soda solution, Fehling's solution 
+added, and the mixture boiled. The red precipitate 
+shows the presence of sugar that has been formed 
+from the cellulose, the chemical structure of these 
+two bodies being very similar. By suitable fermen- 
+tation of this sugar, alcohol could be obtained, and 
+this is the basis of the process of manufacture of 
+alcohol from sawdust, wood pulp, etc. 
+
+C H 10 6 + H 2 = C C H 12 6 
+
+(Cellulose) (Grape Sugar) 
+
+1 See Appendix. 
+
+
+
+L] TESTS FOR PROTEINS 13 
+
+The complex nitrogenous compounds called proteins make 
+up the " flesh " of plants, and are especially abundant in peas, 
+beans, and other plants of' the leguminous order. These 
+plants do not, however, require excessive nitrogenous manuring 
+on this account, as they alone of all plants possess the 
+power of obtaining the nitrogen they require from the air 
+(nitrogen fixation}. 
+
+
+
+EXPERIMENT 7. Tests for Proteins. 
+
+Pea-meal, which contains about one quarter of its 
+weight of a protein called legumin^ is examined 
+as follows : 
+
+(a) Xantho-proteic reaction. A small quantity of 
+the meal is heated with i c.c. of concentrated nitric 
+acid in a test-tube until completely dissolved. To 
+the light yellow solution is cautiously added syrupy 
+caustic soda solution 1 until alkaline. Immediately 
+the acidity is neutralised the colour will suddenly 
+deepen to dark yellow or orange. 
+
+(b) Biuret reaction. A trace of pea-meal is dis- 
+solved in caustic soda solution with the application 
+of heat, and to the resulting liquid after cooling is 
+added I or 2 drops of a very dilute solution 
+of copper sulphate. A violet colour will be 
+produced. 
+
+(c) Adamkiewicz 's reaction. A little pea-meal is 
+dissolved in glacial acetic acid with gentle heating. 
+The test-tube containing this solution is inclined 
+
+1 See Appendix. 
+
+
+
+14 THE CHEMISTRY OF PLANTS [CHAP. i. 
+
+at an angle of 45, and about i c.c. of concentrated 
+sulphuric acid poured slowly down the inside so as 
+to form a layer at the bottom of the acetic solution. 
+A violet ring appears at the junction of the two 
+liquids, the colour deepening on standing. 
+
+Many garden plants, lavender, rosemary, sage, mint, etc., 
+contain essential oils, to which their odour and their value 
+is due. 
+
+EXPERIMENT 8. Preparation of Essential Oils. 
+
+Some lavender heads, or finely chopped leaves of 
+the plants mentioned, are placed in a retort together 
+with sufficient water. A round-bottomed flask large 
+enough to allow the neck of the retort to reach well 
+into it, is clamped almost horizontally, and a steady 
+stream of water arranged to run over it. On 
+boiling the contents of the retort, steam together 
+with essential oil passes into the flask, and both are 
+there condensed. The essential oil may be readily 
+extracted by shaking the distillate with about one 
+quarter of its bulk of petroleum ether, separating 
+the ethereal layer, and distilling off the ether on a 
+water-bath by means of suitable apparatus. 
+
+(Caution. Petroleum ether should not be brought 
+within six feet of a flame?) 
+
+
+
+CHAPTER II 
+
+CHEMISTRY OF SOILS 
+
+THE soil is the source of all the mineral constituents, and also 
+the nitrogen, of plants. Fertile soils can hence be shown to 
+contain phosphates, sulphates, lime, potash, magnesia, organic 
+nitrogen, nitrates, etc. 
+
+EXPERIMENT 9. Detection of Phosphates in Soil. 
+
+A small quantity of a fertile soil is ignited in a 
+porcelain basin in order to burn off organic matter. 
+The material is then boiled in a test-tube with a few 
+cubic centimetres of concentrated nitric acid, and 
+after cooling and settling, the clear liquid decanted 
+off. Ammonia solution insufficient in amount to 
+neutralise all the acid is added, followed by 
+ammonium molybdate solution. On warming, the 
+characteristic yellow precipitate indicating phosphates 
+is observed. 
+
+EXPERIMENT 10. Detection of Potash in Soil. 
+
+By boiling some soil with dilute hydrochloric acid 
+in a test-tube, potash salts together with certain 
+
+15 
+
+
+
+16 CHEMISTRY OF SOILS [CHAP. 
+
+other compounds are extracted. The solution is 
+filtered, the filtrate evaporated to dryness in a basin, 
+and the residue heated to redness over a Bunsen 
+burner. Silica and other bodies are rendered in- 
+soluble by this treatment. The cooled mass is then 
+scraped into a test-tube, shaken with a little cold 
+water, and the solution of potassium chloride so 
+obtained filtered from insoluble matter. The pres- 
+ence of potash is shown in the clear liquid by the 
+addition of a little acetic acid, followed by some 
+sodium cobaltinitrite x solution, when a reddish pre- 
+cipitate will be obtained. 
+
+All plants excepting those of the pea and bean family 
+(leguminosa) are entirely dependent on the soil for their 
+nitrogen. The reserve form in which this nitrogen exists in the 
+soil is humus, a complex nitrogenous organic compound pro- 
+duced by the bacterial decay of vegetable and animal matter. 
+
+EXPERIMENT 1 1. Proof of Organic Nitrogen 
+in Soil. 
+
+A small quantity of soil is tested as in experiment 
+3 (#) above. 
+
+EXPERIMENT 12. Preparation of Humus. 
+
+Thirty or forty grams of a peaty soil are placed in 
+a beaker of suitable size, and about half full of dilute 
+hydrochloric acid. The mixture is well stirred as 
+
+1 See Appendix. 
+
+
+
+ii.] HUMUS 17 
+
+long as it effervesces, after which it is poured into a 
+piece of calico about a foot square. The corners of 
+the cloth are gathered together, and as much liquid 
+as possible squeezed out. The residue is returned to 
+the beaker, well stirred with water, and the mixture 
+again poured into the calico and squeezed dry. This 
+process is repeated until the water squeezed out does 
+not give an acid reaction (red coloration) [with litmus 
+paper. The solid matter which is now free from 
+acid is once again placed in the beaker, and dilute 
+ammonia solution added to the half-way mark. The 
+whole is thoroughly mixed and allowed to stand for 
+some hours, or even days, whereby the humus is 
+dissolved out in the ammonia. The coffee-coloured 
+liquid is then separated from the solid matter, using 
+a piece of cloth as before, but this time the liquid 
+portion is saved. To this liquid is carefully added 
+strong hydrochloric acid until a bulky precipitate of 
+humus (humic acid) is formed. This precipitate is 
+filtered off by means of a funnel and filter paper, and 
+a portion tested for organic nitrogen as in experi- 
+ments 3 (b) and n. 
+
+Although humus is the reserve form of nitrogen in the soil, 
+this nitrogen is not assimilable by plants until it has been 
+converted into nitrate by bacterial agencies. The necessary 
+nitrifying bacteria are present in all soils, consequently all 
+soils contain appreciable amounts of nitrates. The nitrates 
+never accumulate in ordinary soils, as they are too rapidly 
+removed by growing plants, and by the washing or leaching 
+action of rain water. 
+
+C 
+
+
+
+18 CHEMISTRY OF SOILS [CHAP. 
+
+
+
+EXPERIMENT 13. Detection of Nitrates in Soil. 
+
+About twenty grams of soil are shaken with 100 
+c.c. of distilled water, the soil allowed to settle and 
+the clear liquid filtered off. About 2 c.c. of this 
+filtered extract are poured into a test-tube, and a 
+sufficient amount (3 to 5 drops) of a solution of 
+diphenylamine x in pure sulphuric acid added to give 
+a distinct milkiness. This milky liquid is then care- 
+fully poured on to the surface of i c.c. of pure nitrate- 
+free sulphuric acid contained in another test-tube, 
+and the junction of the two liquids examined. A 
+blue ring should be immediately produced, or, if the 
+amount of nitrate present is small, will gradually 
+develop. If there is no visible blue ring after five 
+minutes, some of the filtered soil extract should be 
+concentrated to a small bulk by boiling, and then 
+again tested. 
+
+The experiment is of course valueless if there is 
+the slightest trace of nitrates in either the sulphuric 
+acid or distilled water used, and these reagents should 
+be carefully tested prior to making the examination. 
+
+Nitrification is the term applied to the conversion in the 
+soil of ammonium salts into nitrates by the agency of specific 
+bacteria in conjunction with the oxygen of the air. Organic 
+nitrogen (in humus, farmyard manure, shoddy, etc.) is first 
+changed into ammonium salts by other bacterial action, 
+nitrification of these ammonium compounds then taking 
+
+1 See Appendix. 
+
+
+
+IL] NITRIFICATION 19 
+
+place. As a plentiful supply of air is required for this latter 
+change, it is stimulated by tillage, owing to the resultant 
+aeration of the soil. 
+
+EXPERIMENT 14. Nitrification by Soil Bacteria. 
+
+A solution for the nutrition of the bacteria is 
+made up as follows : 3 grams potassium phosphate, 
+2 grams ammonium sulphate, i gram magnesium 
+sulphate, a trace of common salt, and 2 drops of 
+dilute ferric chloride solution, are added to I litre 
+of water and well shaken. One hundred c.c. of this 
+solution are placed in each of two flasks, the mouths 
+of which are .then plugged with cotton wool The 
+flasks and their contents are sterilised by boiling for 
+five minutes, and after cooling the plugs are removed, 
+and about J gram of chalk, previously sterilised by 
+heating, introduced into each. To one flask only is 
+also added a pinch of arable soil. The two flasks 
+are again plugged and placed in a warm cupboard. 
+Every three or four days some of the solution is 
+removed from each flask and tested separately for 
+nitrates with diphenylamine and sulphuric acid. If 
+the experiment has been carefully carried out, the 
+liquid in the flask to which no soil was added should 
+show no nitrate reaction for some weeks, while the 
+contents of the other flask should give a pronounced 
+blue ring at the first time of testing. 
+
+The presence in soil of a certain percentage of calcium 
+carbonate (chalk), or " lime " as it is wrongly called, is of the 
+
+
+
+20 CHEMISTRY OF SOILS [CHAP. 
+
+utmost importance for many reasons (see page 30), and the 
+cropping power of many soils may be considerably increased 
+by the application of chalk, or lime which rapidly undergoes 
+conversion into chalk. 
+
+EXPERIMENT 15. Detection of Calcium Carbonate 
+in Soil. 
+
+About a gram of dry soil is placed in a test-tube, 
+and covered with a few cubic centimetres of dilute 
+hydrochloric acid. The mixture is shaken, and the 
+amount of effervescence produced by the action of 
+the acid on the chalk is observed. If there is a 
+visible effervescence, it may be concluded that the 
+soil contains a sufficiency of chalk. If the mouth of 
+the test-tube has to be brought to the ear before the 
+effervescence can be heard, an application of chalk 
+or lime would probably be beneficial, while if no 
+effervescence can be detected at all, the soil examined 
+is badly in want of treatment in this direction. 
+CaCO 3 +2HCl = CaCl 2 +H 2 + C0 2 
+
+(Chalk) 
+
+The water-holding capacity of soils, and consequently their 
+ability to withstand drought, depends mainly upon the fineness 
+of division of the soil particles ; the smaller the particles, the 
+greater the retentive power for water. 
+
+EXPERIMENT 16. Comparison of Water-holding 
+Capacity of Soils. 
+
+Four ordinary lamp glasses are fitted at the 
+bottom with pieces of calico tightly stretched and 
+
+
+
+IT.] FLOCCULATION OF CLAY 21 
+
+firmly tied. The four vessels so improvised are 
+filled to exactly the same height with air-dry 
+samples of (a) coarse sand, (&) a loam, (c) a heavy 
+clay soil, (d) a peaty soil or peat moss, in the 
+respective cases, and they are then clamped in 
+vertical positions over medium-sized beakers. Two 
+hundred c.c. of water are then poured on the top of 
+the soil in each of the glasses, and the drainings 
+collected in the beakers below. By measuring the 
+volumes of liquid collected when drainage is com- 
+plete, a comparison of the water-retaining capacities 
+is made. 
+
+Successful treatment of heavy clay land is one of the most 
+difficult problems of work in the garden or field. Clay if 
+treated or worked when in a wet condition, readily becomes 
+sticky and " puddled," or " deflocculated " as it i s scientifically 
+termed. Such puddled clay is unworkable, and even after 
+drying is extremely intractable and difficult to deal with. 
+This undesirable condition can be corrected by several 
+different agencies that bring about flocculation, such as the 
+action of frost, or by treatment with lime, chalk, or certain 
+salts. 
+
+. EXPERIMENT 17. Flocculation of Clay. 
+
+A small quantity of clay is deflocculated by knead- 
+ing with distilled water in a beaker, more water then 
+being added to the sticky mass to bring it to the 
+consistency of a thin cream after well mixing. This 
+cream is diluted to about i litre with water, and 
+after allowing any stones or other large particles to 
+
+
+
+22 CHEMISTRY OF SOILS [CHAP. n. 
+
+settle, the turbid liquid is poured in lots of 200 c.c. 
+into four gas cylinders. 
+
+To No. i is added I c.c. dilute hydrochloric acid. 
+
+To No. 2 is added 5 c.c. lime water. 
+
+To No. 3 is added i c.c. dilute caustic soda solution. 
+
+While 4 is kept as a control. 
+
+The contents of each cylinder are well stirred, and 
+are then allowed to settle. The rapidity of clearing 
+of the columns of liquid is noted, when it will be 
+found that the acid is strongly deflocculating in its 
+effect, the lime water also fairly strongly so, while 
+the caustic soda has the effect of keeping the clay 
+particles permanently deflocculated. 
+
+
+
+CHAPTER 111 
+
+CHEMISTRY OF MANURES AND FERTILISERS 
+
+CONTINUED cropping results in an impoverishment of the 
+soil by a gradual removal of the mineral constituents and 
+nitrogen. The constituents on which these losses fall most 
+heavily are nitrogen, phosphates, and potash salts, and the 
+supply of these is kept up by the addition of fertilisers con- 
+taining them. Such artificially added plant foods may be 
+either of organic (animal or vegetable) origin, e.g. farmyard 
+manure, shoddy, guanos, bone meal, in which case they add 
+also valuable humus to the soil ; or of inorganic origin, e.g. 
+nitrate of soda, superphosphate, potash salts. 
+
+MANURES OF ORGANIC ORIGIN. 
+
+Farmyard manure contains nitrogen, phosphates, and 
+potash, but varies considerably in composition. The large 
+amount of organic matter present is converted on decomposi- 
+tion into humus, a substance of great value on account of the 
+improvement it effects in the texture and water-holding 
+capacity of soil. 
+
+EXPERIMENT 18. Examination of Farmyard 
+Manure. 
+
+The presence of nitrogen in farmyard manure is 
+shown by the method used in Experiment 3 (#). 
+
+28 
+
+
+
+24 MANURES AND FERTILISERS [CHAP. 
+
+Some of the manure is dried, and then strongly 
+ignited, the ash so obtained being tested for phos- 
+phates and potash as in Experiments 2 (d) and 10 
+respectively. 
+
+Guanos are valuable fertilisers possessed of an extremely 
+high reputation, and commanding a high price in consequence. 
+Consisting of the consolidated dung of sea-birds, they contain 
+when fresh both nitrogen (up to 14 per cent.) and phosphates 
+(up to 9 per cent.). If originally deposited on islands subject 
+to occasional rains, the more soluble nitrogenous constituents 
+have been washed out, and the material is then phosphatic 
+only. Fish "guano" and meat "guano" are not guanos in 
+the true sense of the term, but are nevertheless valuable 
+manures. 
+
+EXPERIMENT 19. Examination of Guano. 
+
+The colour of the material should be noted, as 
+guanos containing both nitrogen and phosphates are 
+grey, while the phosphatic guanos are reddish or 
+brown. Chemical tests for nitrogen and phosphates 
+should be applied. 
+
+Other manures of organic origin are shoddy (nitrogenous 
+only, and especially valued for hops and fruit trees), bone 
+meal (nitrogenous and phosphatic), dried blood (nitrogenous), 
+steamed bone flour (phosphatic only), and rape dust (mainly 
+nitrogenous, traces of phosphates and potash). 
+
+EXPERIMENT 20. Examination of Shoddy. 
+
+The points on which shoddy is valued are: (i) 
+content of nitrogen ; (2) texture. A sample of 
+
+
+
+ill.] NITRATE OF SODA 25 
+
+shoddy should be examined to determine whether 
+the material is lumpy or homogeneous, and coarse 
+or finely divided The best shoddies (above 9 
+per cent, nitrogen) are like wool in appearance, while 
+low-grade samples (below 4 per cent, nitrogen) are 
+generally dirty, lumpy, with little of the texture 
+of the original wool. 
+
+FERTILISERS NOT OF ORGANIC ORIGIN. 
+
+Nitrogenous. Nitrate of Soda, Sulphate of Ammonia, and 
+the new fertilisers prepared from atmospheric nitrogen, nitrolim 
+or calcium cyanamide, and nitrate of lime. 
+
+Phosphatic. Superphosphate. Basic Slag. 
+
+Potassic. Kainit. Sulphate of Potash. Potash Salts. 
+
+Nitrate of soda is a natural deposit found a few feet below 
+the surface in Chile, Bolivia, and Peru. It is subjected to a 
+crude method of purification on the spot by crystallisation 
+from water. It contains 16 per cent, of nitrogen. 
+
+EXPERIMENT 21. Examination of Nitrate 
+of Soda, NaNO 3 . 
+
+(i.) A few crystals are exposed to the air for an 
+hour or so. They rapidly become moist, and finally 
+dissolve in the water they absorb from the atmo- 
+sphere. Nitrate of soda should therefore not be 
+stored in sacks in moist localities. (The same 
+applies to nitrate of lime.) 
+
+(ii.) A few crystals are shaken up with water in 
+a test-tube and will be found rapidly to dissolve. 
+Nitrate of soda is hence speedily dissolved in the 
+soil water, and coming into quick contact with the 
+
+D 
+
+
+
+26 MANURES AND FERTILISERS [CHAP. 
+
+plant roots, acts as an extremely rapid fertiliser. For 
+the same reason it is washed away into the drains, 
+if there be not already growing plants in possession 
+of the ground ready to utilise it. 
+
+Sulphate of ammonia is a by-product in the manufacture of 
+ordinary coal gas. Most samples are greenish in colour, 
+and contain about 20 per cent, of nitrogen. 
+
+EXPERIMENT 22. Examination of Sulphate of 
+Ammonia, (NH 4 ) 2 SO 4 '. 
+
+(i.) A little 'of the fertiliser is heatdfcl in a basin 
+or on a piece of sheet iron over a Bunsen burner. 
+The substance is entirely converted into vapour, 
+and no residue should be left. 
+
+(ii.) A few crystals are exposed to the air as in 
+Experiment 21 (i.). There will be no absorption of 
+atmospheric moisture. 
+
+(iii.) Some of the substance is dissolved in water, 
+and will be found to do so readily. It is not so 
+quick-acting a fertiliser as nitrate of soda, however, 
+as it has first to undergo nitrification before it can 
+be utilised by plants. In spite of its ready solubility 
+it is not washed out of even fallow land, as it is held 
+firmly by certain soil constituents. 
+
+(iv.) Some of the solution obtained is boiled with 
+caustic soda and the smell of ammonia so produced 
+is noticed, and tested with red litmus paper. 
+
+Superphosphate is prepared by treating certain ground 
+
+
+
+IIL] SUPERPHOSPHATE 27 
+
+mineral phosphates with sulphuric acid, whereby a large pro- 
+portion of the insoluble phosphate is rendered soluble. 
+
+EXPERIMENT 23. Examination of Superphosphate. 
+
+(i.) A little superphosphate is moistened with 
+water and tested with blue litmus paper. It will 
+be found to be strongly acid; hence it should not 
+be employed on sour or acid soils, or indeed on those 
+deficient in calcium carbonate. 
+
+(ii.) Some superphosphate is shaken with water 
+in a test-tube, the liquid filtered free from insoluble 
+matter, and the clear filtrate tested for phosphate with 
+nitric acid and ammonium molybdate. 
+
+Superphosphate contains a large percentage of its 
+phosphate in the water-soluble form, hence is quick in 
+its action. It is not washed out of soils by rain, being 
+retained by constituents of the soil. 
+
+Basic slag is a by-product in the removal of phosphorus 
+from iron in the manufacture of steel. 
+
+EXPERIMENT 24. Examination of Basic Slag. 
+
+(i.) Some slag is rubbed between the fingers. It 
+should be an impalpable powder, otherwise it is too 
+slow in action. 
+
+(ii.) Some basic slag is moistened with water and 
+tested with red litmus paper. It will be found to be 
+alkaline in reaction, a condition due to the presence 
+of free lime; hence basic slag is of especial value 
+on sour, acid land. 
+
+
+
+28 MANURES AND FERTILISERS [CHAP. 
+
+(iii.) Some slag is shaken up with water, the 
+solution filtered, and the filtrate tested for phosphate 
+as usual. It will be found that there is no water- 
+soluble phosphate, hence the fertiliser is not so 
+quick in its action as is superphosphate. 
+
+(iv.) A small quantity is shaken up with dilute 
+citric acid solution, and after filtering, the solution 
+tested for phosphate, a good indication of which 
+will be obtained. The phosphate is therefore not 
+entirely insoluble, although it does not dissolve in 
+water. 
+
+Practically all the potash fertilisers on the market are 
+derived from the natural salt deposits at Stassfurt in Germany. 
+Kainit, the commonest in use, is marketed as mined, but 
+sulphate of potash and muriate of potash are prepared by 
+methods of crystallisation of the natural salts. 
+
+EXPERIMENT 25. Examination of Kainit. 
+
+(i.) A sample of kainit is examined, and the 
+different coloured particles picked out and placed 
+together in small heaps. It will be evident that 
+kainit is not a pure salt but a mixture; in fact, it 
+contains sulphates, chlorides, salts of soda and lime, 
+as well as of potash. 
+
+(ii.) The presence of sulphates, chlorides, lime, and 
+potash should be demonstrated by the chemical tests 
+that have been described. 
+
+Kainit cannot be employed as a fertiliser for potatoes if it 
+be applied immediately before the " seed " is sown, as the 
+
+
+
+ill.] SULPHATE OF POTASH 29 
+
+chlorides it contains have the effect of rendering the tubers of 
+bad quality and waxy in texture ; for the same reason, muriate 
+of potash is even worse, and for application at the time 
+of sowing, sulphate of potash alone can be employed. The 
+use of the cheaper kainit is, however, possible if it be applied 
+some months before sowing, as the chlorides are then washed 
+away, while the potash is retained as carbonate by the soil. 
+
+EXPERIMENT 26. Examination of Sulphate 
+of Potash, K 2 SO 4 . 
+
+The pure white colour of the salt is noticed, 
+indicative of the fact that this fertiliser is a pure 
+chemical compound and not a mixture, as is kainit. 
+When tested for chlorides by nitric acid and silver 
+nitrate, only the slightest opalescence should be 
+obtained. 
+
+Incompatible Mixtures. A soil often requires manuring with 
+regard to more than one constituent, and it is convenient to 
+mix the separate fertilisers. Certain of the substances 
+mentioned above cannot be left in contact without undergoing 
+a loss of valuable constituents, and care should be taken 
+not to make a mixture of fertilisers that deteriorates in this 
+way. 
+
+EXPERIMENT 27. Superphosphate and Nitrate 
+of Soda (or Nitrate of Lime). 
+
+Equal parts of nitrate of soda and superphosphate 
+are well mixed, placed in a stoppered bottle, and 
+allowed to stand overnight. If the air in the bottle 
+be tested with moist blue litmus paper next day, 
+it will be found to be distinctly acid. This acidity 
+
+
+
+30 MANURES AND FERTILISERS [CHAP. 
+
+is due to the production of free nitric acid, the 
+evolution of which naturally results in the loss of 
+part of the fertilising constituent (nitrate) of the 
+nitrate of soda. 
+
+EXPERIMENT 27. Basic Slag and Sulphate 
+of Ammonia. 
+
+A test similar to the last is carried out with these 
+two fertilisers, a piece of red litmus paper being 
+employed. The alkalinity detected is due to the 
+volatilisation of ammonia liberated by the action of 
+the free lime in the basic slag. (Similarly, lime or 
+chalk and sulphate of ammonia should not be mixed 
+in practice.) 
+
+Lime and chalk, although not direct plant foods, are largely 
+used for the treatment of soil, and should doubtless be more 
+frequently applied than is often the case. The beneficial 
+effect of these substances is due to several different actions : 
+(i.) Neutralisation of acidity, especially in those soils that tend 
+to become sour after repeated heavy dressings of dung ; (ii.) 
+a favouring of the growth of the nitrifying and other bacteria 
+in soils ; (iii.) liberation of insoluble potash compounds, 
+especially in heavy clay soils ; (iv.) improvement in the 
+texture of heavy land. Although both lime and chalk act 
+similarly, the former should not be brought into contact with 
+plants, owing to its caustic nature, but should only be applied 
+to soil which is at the moment fallow. 
+
+EXPERIMENT 29. Examination of Lime. 
+
+(i.) A sample of lime is sprinkled with a little 
+water, when a considerable rise in temperature 
+
+
+
+IIL] LIME 31 
+
+should be noticed, and the lime should swell up and 
+fall to powder. This phenomenon is due to the 
+slaking of the lime, and the quality of the latter 
+can be roughly gauged from the vigour of the action, 
+poor or " grey " limes showing practically no change. 
+
+CaO + H 2 O = CaH 2 O 2 
+
+(Quicklime) (Slaked lime) 
+
+(ii.) A small quantity of the lime is boiled with 
+strong hydrochloric acid in a test-tube. The greater 
+the undissolved residue, the poorer the quality of the 
+lime. 
+
+(iii.) Some lime is exposed to the air for about 
+twenty-four hours, is then placed in a test-tube and 
+treated with dilute hydrochloric acid. The effer- 
+vescence noticed is due to the fact that the lime has 
+been converted into chalk by absorption of the 
+carbon dioxide of the air. CaO + CO 2 = CaCO 3 . 
+This action of course takes place in the field when 
+lime is applied, and it might be thought that it 
+would be more economical to employ, in the first 
+instance, the cheaper chalk. This is not entirely so, 
+however, as (i) the cost of carriage of lime is cheaper 
+than for an equivalent quantity of chalk ; (2) the lime 
+on slaking falls to a fine powder which is much more 
+easily distributed than chalk, unless the latter be 
+finely ground ; (3) lime exerts a certain sterilising 
+action on harmful organisms in the soil, a property 
+not possessed by chalk. 
+
+
+
+CHAPTER IV 
+
+CHEMISTRY OF SPRAYS AND WASHES 
+
+WASHES and sprays of various compositions are used largely 
+for combating the different insect and fungous pests from 
+which fruit trees, flowers, and vegetables are liable to suffer. 
+The sprays in general use may be conveniently considered in 
+the following classes : 
+
+Insecticides. (a) Toxic washes for caterpillars and other 
+biting-mouthed insects. Arsenic in some form or another is 
+the poisonous constituent of most of these sprays. 
+
+(6) Contact washes for aphides and other sucking-mouthed 
+insects. As these insects live on the sap of the plants, they 
+are naturally not poisoned by treating the plants superficially 
+with toxic washes, and have to be dealt with by the use of 
+sprays that either block up their breathing pores and act as 
+corrosives (e.g. soft soap, paraffin) or exert a poisonous action 
+on their bodies (e.g. nicotine). Quassia is also employed for 
+the sake of the astringent and cleansing properties it possesses. 
+
+(c) Winter washes of caustic alkali for use on dormant 
+wood. The hibernating quarters of many insects are thus 
+removed. 
+
+Fungicides. (d) Various copper compounds. 
+
+(2) Sulphur, either in the free form (flowers of sulphur) or 
+else combined (liver of sulphur, lime-sulphur). 
+
+82 
+
+
+
+CHAP, iv.] LEAD ARSENATE WASH 33 
+
+EXPERIMENT 30. Preparation of Lead Ar senate 
+Wash. 
+
+In 100 c.c. of water is dissolved \ gram of 
+anhydrous sodium arsenate or J gram of the crystal- 
+line salt, and in another 100 c.c. water is dissolved i 
+gram of lead acetate (sugar of lead). The latter 
+solution is then slowly added to the former with 
+constant stirring, when a precipitation of insoluble 
+lead arsenate in a finely divided form takes place. 
+
+2Na 3 AsO 4 + s(CH 3 . COO) 2 Pb 
+
+= Pb 3 (AsO 4 ) 2 +6CH 3 .COONa 
+
+(Lead arsenate) 
+
+The wash so prepared when sprayed on to the 
+leaves will rapidly kill caterpillars, but containing as 
+it does both soluble arsenic and free acetic acid, may 
+produce a certain amount of scorching of the foliage 
+in some cases. 
+
+(For making the wash in quantity, use 2 ozs. 
+anhydrous or 3| ozs. crystalline sodium arsenate to 5 
+gallons water, and 7 ozs. lead acetate to another 5 
+gallons, and mix as directed.) 
+
+Soft soap is used alone in solution for combating the 
+attacks of various insects such as aphides, while it is also 
+employed in conjunction with nicotine and quassia in many 
+cases, giving greater adherence to the sprays. It is also 
+valuable for diminishing the surface-tension of water in the 
+preparation of paraffin emulsions, and a permanent emulsion 
+of paraffin can be prepared for use when required by melting 
+
+E 
+
+
+
+34 SPRAYS AND WASHES [CHAP. 
+
+together soft soap and paraffin to give a paraffin jelly in which 
+the oil is in the form of an emulsion. 
+
+EXPERIMENT 31. Determination of Lathering 
+Power of Soap. 
+
+The value of soap when used either alone or in 
+conjunction with other substances depends upon 
+its lathering power, a property which varies both 
+with the quality of the soap and the hardness of 
+the water used. Five grams of soft soap are dissolved 
+in dilute alcohol, and made up to 500 c.c. with dis- 
+tilled water. Fifty cubic centimetres of tap water 
+are placed in a flask, and a few cubic centimetres of 
+the soap solution run in from a burette. On shak- 
+ing, no lather will generally be produced, the soap 
+having been precipitated in the form of a curd by the 
+calcium and magnesium compounds in the water. 
+More soap solution is then added, the mixture being 
+well shaken after each addition, and the procedure 
+repeated until a permanent lather is formed. The 
+volume of soap solution required to produce the 
+lather is then noted. 
+
+The lathering power of soap with any certain 
+water is generally given in pounds of soap required 
+to produce a permanent lather with 100 gallons of 
+water ; this value can be calculated from the number 
+of cubic centimetres of soap solution required in the 
+above titration, thus : 
+
+Suppose 20 c.c. soap solution were required to 
+produce a lather. Then 20 c.c. soap solution = -2 
+
+
+
+iv.] PARAFFIN EMULSION 35 
+
+grams soap, for 5 grams of soap are present in 500 
+c.c. of the soap solution prepared. 
+Hence -2 grams soap lather with 
+
+50 c.c. = 50 grams tap water, 
+
+therefore -2 x 20 ( = 4) grams soap lather with 
+50 x 20 = i coo grams tap water ; 
+
+or, expressed in pounds, 
+
+1000 Ibs. tap water require 4 Ibs. soap, 
+100 gallons tap water require 4 Ibs. soap. 
+
+It may be generally stated that with a water of 16- 
+20 degrees of hardness (a medium hard water), a 
+good soap should be found to have a lathering power 
+of from 3 \ to 4. 
+
+As stated above, paraffin has a distinct insecticidal value, 
+but cannot be applied in the concentrated form. It will not 
+dissolve in water, but can be made to form an emulsion, 
+especially in the presence of soap. 
+
+EXPERIMENT 32. Preparation of Paraffin 
+Soft- Soap Emulsion. 
+
+Thirty-five grams of soft soap are dissolved in i litre 
+of water in a suitable vessel, and TOO c.c. of paraffin 
+poured on to the surface of the liquid. By means of 
+an ordinary garden syringe, with a "rose" nozzle 
+containing a large number of fine openings, the 
+paraffin layer and some of the water is sucked up, 
+and then forced vigorously into the bulk of the liquid. 
+This operation is performed several times, in fact 
+
+
+
+36 SPRAYS AND WASHES [CHAP. 
+
+until there is no visible oily layer on the surface. 
+The emulsion so prepared will contain the paraffin 
+suspended in extremely small globules in the body 
+of the soap solution. The emulsion cannot be kept, 
+as the paraffin will gradually rise to the surface. 
+
+(For the preparation of the emulsion in quantity, 
+take water, 10 gallons; soap, 3^ Ibs. ; paraffin, i 
+gallon.) 
+
+EXPERIMENT 33. Preparation of Paraffin Jelly. 
+
+Fifty cubic centimetres of paraffin and 8 grams soft 
+soap are placed in a beaker, which is then covered 
+with a plate of glass. The covered beaker and its 
+contents are heated until the mixture boils, and i c.c. 
+of water is then poured in. On cooling, the liquid 
+becomes a jelly, of which i gram is taken and stirred 
+with 40 c.c. of water. The jelly will readily dissolve 
+to give a liquid suitable for spraying, and, as the jelly 
+will keep for any length of time, furnishes a con- 
+venient means of preparing an emulsion at short 
+notice for treatment of red spider, aphis, etc. 
+
+(For preparation in quantity, 5 gallons paraffin, 8 
+Ibs. soft soap, i pint water when boiling. For use, 
+10 Ibs. jelly to 40 gallons water.) 
+
+"Bordeaux mixture" is a copper fungicide that is very 
+largely used. Its method of preparation is due to the fact that 
+the copper must be obtained in the form of an insoluble precipi- 
+tate of sufficient fineness not to settle rapidly nor to clog the 
+fine nozzle of the spraying machine. The presence in the mix- 
+ture of any soluble copper results in a scorching of the foliage. 
+
+
+
+iv.] BORDEAUX MIXTURE 37 
+
+EXPERIMENT 34. Preparation of Bordeaux Mixture. 
+
+Eight grams of crystallised copper sulphate are 
+dissolved in 500 c.c. water, and the same weight of 
+quicklime is shaken up with an equal volume of 
+water. The copper sulphate solution is then 
+gradually added to the other solution with con- 
+stant stirring, and the mixture poured into a tall gas 
+jar or measuring cylinder. The blue precipitate of 
+basic copper sulphate will gradually fall to the 
+bottom, and the longer this settling takes, the more 
+satisfactory may be regarded the preparation. 
+
+A few cubic centimetres of the supernatant liquid 
+are filtered, and the filtrate tested for soluble copper 
+by adding some potassium ferrocyanide solution. 
+The production of a chocolate precipitate must be 
+regarded as unsatisfactory, as indicating the presence 
+of soluble copper compounds. 
+
+(For preparation in quantity, 4 Ibs. copper sulphate 
+in 25 gallons water, and 4 Ibs. quicklime in 25 gallons 
+water.) 
+
+" Lime-sulphur " is a new fungicidal wash of American origin 
+which is undergoing extensive trials in this country. The 
+sulphur is in a completely soluble form, but after spraying is 
+deposited in a very finely divided condition which has the 
+advantage over flowers of sulphur in that it is not washed off. 
+The successful application of the wash so as to avoid a certain 
+amount of damage demands, however, a considerable amount 
+of skill. 
+
+
+
+38 SPRAYS AND WASHES [CHAP iv. 
+
+EXPERIMENT 35. Preparation of " Lime- Sulphur" 
+
+Wash. 
+
+One hundred c.c. of water are placed in a litre 
+flask or other vessel, and 50 grams of quicklime 
+added. After well mixing, 100 grams of flowers of 
+sulphur are added, and the whole stirred to a thin 
+homogeneous paste. Four hundred c.c. of water are 
+then poured into the mixture, and the solution 
+boiled for half an hour. The orange-red liquid, con- 
+sisting of a solution of polysulphides of calcium, 
+contains a certain amount of undissolved sulphur 
+and impurities from the lime, and should be filtered 
+through cloth. The concentrated wash so obtained 
+must not be exposed to the air, but should be kept 
+in closed bottles until required. Before use, the 
+stock solution is diluted with twenty or forty times 
+its volume of water according to the variety of plant 
+to be treated, the dilute solutions so obtained 
+possessing specific quantities of i-oi and 1-005 
+respectively. 
+
+(For preparation of stock solution in quantity, 10 
+gallons water, 48 Ibs. quicklime, 96 Ibs. flowers of 
+sulphur ; mix, and add 40 gallons water.) 
+
+
+
+APPENDIX 
+
+
+
+IN most cases, the solutions mentioned in the text are 
+prepared of any convenient concentration, and need be 
+made of no especial strength. 
+
+Special reagents, which are required of certain definite 
+concentrations, should be made according to the follow- 
+ing directions : 
+
+Fehling's solution should be made in the form of two 
+solutions, which are mixed in equal volumes for use as 
+required. 
+
+Solution A. 17.32 grams copper sulphate dissolved in 
+150 c.c. water, and the cold solution made up to 250 c.c. 
+
+Solution B. 35 grams stick caustic soda and 90 grams 
+sodium potassium tartrate (Rochelle salt) dissolved in 
+150 c.c. water, and the cold solution made up to 250 c.c. 
+
+Iodine in potassium iodide solution. 5 grams potassium 
+iodide dissolved in 100 c.c. water and J gram iodine 
+added. 
+
+Schweizer^s reagent consists of an ammoniacal solution 
+of cupric hydroxide. 10 grams copper sulphate are dis- 
+solved in 200 c.c. water, a little ammonium chloride 
+solution added, and then caustic soda solution in 
+sufficient amount just to precipitate all the copper as 
+copper hydroxide. The precipitate is collected on a 
+piece of linen, well washed with cold water, and squeezed 
+as dry as possible. The copper hydroxide so obtained is 
+
+
+
+40 APPENDIX 
+
+then added to a mixture of I part strong ammonia 
+solution and 3 parts water until no more of the 
+hydroxide dissolves. 
+
+Syrupy caustic soda is prepared by dissolving successive 
+quantities of solid caustic soda in water until the solution 
+so obtained is quite viscous and treacly in consistency. 
+
+Sodium cobaltinitrite solution is prepared by dissolving 
+a little of the salt in water as required. The solution 
+deteriorates on keeping. 
+
+Diphenylamine in sulphuric acid is made by dissolving 
+sufficient of the solid in pure nitrate-free sulphuric acid, 
+so that a few drops of the solution obtained give a dis- 
+tinct milkiness when added to i c.c. distilled water. 
+
+
+
+
+
+
+PU1NTKD BY OLIVKB AND BOYD, EDINBURGH 
+
+
+
+ttf 
+
+
+
+o 
+
+m 
+CM 
+to 
+tn 
+
+
+
+H 
+
+*i 
+c ^ 
+
+
+
+o 
+
+JS 
+
+p 
+
+V 
+
+^l 
+
+
+
+s .tj 
+^5 H 
+
+
+
+University of Toronto 
+Library 
+
+
+
+DO NOT 
+
+REMOVE 
+
+THE 
+
+CARD 
+
+FROM 
+
+THIS 
+
+POCKET 
+
+
+
+
+Acme Library Card Pocket 
+
+Under Pat. "Ref. Index File" 
+Made by LIBRARY BUREAU 
+
+
+

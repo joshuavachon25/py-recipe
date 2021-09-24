@@ -1,0 +1,3159 @@
+TX 556 
+
+E4 B3 
+
+Copy 1 
+
+
+
+
+THE DIGESTIBILITY AND UTILIZATION 
+OF EGG PROTEINS 
+
+
+
+THE USE OF RAW EGGS IN 
+PRACTICAL DIETETICS 
+
+
+
+By 
+W. G. BATEMAN 
+
+
+
+From the Thesis Submitted for the Degree of Doctor of Philosophy 
+Yale University, 1916 
+
+
+
+rfip 
+
+
+
+Reprinted from The Journal of Biological Chemistry, Vol. XXVI, No. 1, 1916 
+
+
+
+THE DIGESTIBILITY AND UTILIZATION OF EGG 
+PROTEINS. 
+
+BY W. G. BATEMAN. 
+
+(From the Sheffield Laboratory of Physiological Chemistry in Yale 
+University, New Haven.) 
+
+(Received for publication, June 24, 1916.) 
+
+In 1898 Steinitz noted that the ingestion of raw egg-white by- 
+dogs was followed by vomiting and diarrhea. This interesting 
+observation appears to have passed almost unnoticed, although 
+no other native proteins are known to give rise to such digestive 
+disorders. When these same facts were observed by Mendel and 
+Lewis in 1913, their possible bearing on the wide spread use of 
+raw eggs in various diets, especially by the sick, prompted the 
+following study. 
+
+The Behavior of Egg-White in the Alimentary Tract. 
+Experiments with Dogs. 
+
+Native Egg-White. — Uncooked egg-white fed in any large quan- 
+tity to dogs invariably caused diarrhea of more or less severity. 
+The feces were soft, pasty, or liquid depending upon the amount 
+of material ingested and upon the individual susceptibility of 
+the subject. The more liquid stools were light in color, and of 
+very offensive odor. Many of them contained much mucus, 
+and residues of unchanged egg-white and of other foodstuffs. 
+Upon standing the surface dried rapidly so as to assume a glazed 
+or varnished appearance. Water extracts of the feces, when 
+boiled, yielded varying amounts of coagulated protein material. 
+The coagulation temperature varied from 68-73°. When an 
+equal volume of saturated ammonium sulfate solution was added 
+to the extract, the latter became turbid, but the grayish precip- 
+itate contained only a trace of protein. The addition of acid or 
+of more saturated ammonium sulfate solution to the filtrate caused 
+
+263 
+
+
+
+264 Utilization of Egg Proteins 
+
+the formation of heavy precipitates which acted like ovalbumin. 
+The substance, however, could not be obtained in crystals. The 
+protein in the feces, then, appeared to be unchanged egg-white. 
+The stools of firmer consistency contained less coagulable mate- 
+rial than those which were liquid or semi-liquid. Even the ap- 
+parently formed stools sometimes yielded small amounts of pro- 
+tein upon extraction. In this connection Tsuchiya's (1909) 
+statement that albumin is never found in real formed feces but 
+is usually associated with diarrhea is pertinent. 
+
+After eating meals containing enough raw egg-white to induce 
+diarrhea, the subjects usually lost weight to the extent of from 
+0.25 to 0.6 kilo, or from 3 to 8 per cent of the body weight. Some 
+of the dogs remained stationary in weight, but none showed an 
+increase in this respect. 
+
+Vomiting only rarely occurred in consequence of ingesting 
+native egg-white and then only after the larger amounts. The 
+ejected material was practically unchanged by its stay in the 
+stomach. 
+
+In a few cases small intestinal hemorrhages were noticed, 
+pointing to irritation of the intestinal mucosa. This occurred 
+only after several days' feeding of the raw food or after much 
+straining at stool. 
+
+These abnormal conditions ceased promptly upon substitut- 
+ing meat or "dog biscuit" for the egg-white and could be called 
+forth again by the reverse. In no case was there any "hang- 
+over" effect. Indeed the cessation of egg-white meals was usu- 
+ally followed by constipation. The digestive disturbances which 
+result from feeding dogs native egg-white are, therefore, caused 
+directly by this substance. 
+
+Urine, obtained by catheterization on those days when the ani- 
+mals had diarrhea, usually gave negative results when tested for 
+albumin; but occasionally small amounts were found present. 
+These samples of urine also contained very little indican, due 
+no doubt to the rapid emptying of the gut. 
+
+Amount of Egg Necessary to Produce Diarrheal Symptoms. — 
+The effects produced by the egg-white were roughly proportional 
+to the amounts ingested. With dogs of 5.5 to 7 kilos in weight 
+the white of one egg causes no or little effect, two eggs may cause 
+softening of the feces, three cause marked softening, and four or 
+
+
+
+W. G. Bateman 265 
+
+five induce more or less severe diarrhea. The last symptom, then, 
+is brought about by the ingestion of 1 to 1.5 gm. of native egg- 
+white per kilo of body weight. This figure is lower for the heavier 
+animals since dogs weighing from 10 to 12 kilos may develop 
+diarrhea by eating the whites of five to seven eggs. There is 
+much variation in the sensitiveness of the subjects, however; for 
+a large dog may be more easily affected than a small one by the 
+same amount of protein. 
+
+Other Factors. — Diarrhea followed the ingestion of: (1) native 
+egg-white unmixed with other foodstuffs; (2) native egg-white 
+beaten with milk; (3) raw egg-white thoroughly mixed with 
+cracker-meal and lard; (4) raw egg-white thoroughly mixed with 
+cracker-meal and lard and well flavored with extract of beef. 
+The first two types of meal produced the laxative effect more 
+quickly than the other two, the stools being passed in 8 to 12 and 
+12 to 20 hours respectively. The presence of a secretagogue 
+such as meat extract in fairly large amount had no effect on the 
+time of appearance or on the severity of the diarrhea. When a 
+meal containing the whites of four or five eggs was divided into 
+three portions which were fed to the dog several hours apart, the 
+abnormal stool was later in appearing than when the meal was 
+eaten all at the same time, and the diarrhea usually not so exten- 
+sive. Conversely, if three of four egg-whites were fed at each 
+meal several liquid stools were passed each day. 
+
+Tolerance. — It was noticed that when the raw protein was fed 
+for several days in succession its ill effects gradually waned. 
+The time necessary for the abatement of the diarrheal action 
+varied from 3 to 5 days. If then the ingestion were continued, 
+there succeeded a period of alternate days of diarrhea and 
+constipation after which time the egg ceased to exert any marked 
+action. The tolerance thus developed lasted for a short time 
+even after the feeding of the uncooked material was discontinued. 
+These facts are brought out in the following typical protocol. 
+
+Dog 1, a healthy terrier bitch weighing 6.52 kilos, received every day a 
+meal containing the whites of four raw eggs well mixed with 60 gm. of 
+cracker-meal and 20 gm. of lard. On the 1st day this caused severe diar- 
+rhea with a fall in weight to 6.31 kilos. On the 2nd day the diarrhea con- 
+tinued and the animal vomited some of the meal — one of the rare cases 
+when this happened. The weight fell to 5.96 kilos. The stool on the 3rd 
+
+
+
+266 Utilization of Egg Proteins 
+
+day consisted of a smaller amount of semi-liquid feces. No further vomit- 
+ing occurred but the weight fell to 6.9 kilos. On the 4th day the pasty 
+feces were much smaller in bulk while the weight rose slightly. This 
+improvement was followed on the 5th day by rather bad diarrhea but the 
+weight was not changed and after this time there was no further loss in 
+weight. The feces of the 6th day were small in amount and pasty. On 
+the next 2 days no feces were passed. The 9th day's stool consisted of a 
+large amount of fairly formed feces. On the 10th day no fecal matter was 
+passed. The quantity of egg given was now increased to 'five whites but 
+notwithstanding this the next 2 succeeding days showed well formed feces. 
+On the 13th day the stool was small and somewhat pasty while it was well 
+formed again on the next day. At this point the subject was put on a meat 
+diet for 2 days. Then a meal containing the whites of five eggs failed to 
+cause diarrhea. After 2 days more of meat diet, however, the whites of 
+four eggs in the meal brought forth a liquid stool. In one subject this 
+period of induced "immunity" lasted for 12 days. 
+
+This tolerance recalls that acquired by the dogs subjected to 
+peritoneal injections of raw egg-white as observed by Cramer 
+(1908). He found that the protein was partly used and partly 
+excreted in the urine. The quantity utilized rose gradually after 
+repeated injections. Hamburger (1902) and Oppenheimer (1904) 
+have observed this as well. That all proteins do not appear in 
+the urine after injection intraperitoneally was shown by Mendel 
+and Rockwood (1905) who found that edestin and excelsin were 
+not excreted by the kidneys after introduction in this way. 
+
+Utilization. — The finding of unchanged egg-white in the diar- 
+rheal feces showed this foodstuff to be poorly utilized. The ex- 
+tent to which it was used was roughly shown by extracting the 
+24 hour feces with cold water, boiling this extract, and drying 
+the coagulated material. The feces were made easier to handle 
+by adding bone-ash to the meals and the feces of one period were 
+marked off from those of another with lamp-black. After the 
+ingestion of four to five egg-whites containing 15 to 19 gm. of 
+protein, from 30 to 50 per cent of this could be recovered as coag- 
+ulum. The latter, of course, contained varying amounts of oc- 
+cluded substances. More exact estimates of utilization were 
+furnished by determining the amount of nitrogen in the feces by 
+the Kjeldahl method. This is open to the objection that a por- 
+tion at least of the fecal nitrogen is not derived from the undi- 
+gested foods but is contained in unadsorbed material of the in- 
+testinal secretion and in epithelial cells from the intestinal tract. 
+
+
+
+W. G. Bateman 
+
+
+
+267 
+
+
+
+According to Hammerl, Kermanner, Moeller, and Prausnitz (1897) 
+and Tsuboi (1897) a large part of the nitrogen in the feces comes 
+from these sources. Still another portion may be derived from 
+the organisms living in the alimentary canal, for Osborne and 
+Mendel (1914) have shown that a not inconsiderable part of the 
+feces may consist of bacterial residues. But while the method 
+does not show the exact amount of material digested, the figures 
+so obtained do serve to show the relative degree of utilization. 
+The following protocols are typical. 
+
+TABLE I. 
+Utilization of Raw Egg-While by Dog 1. 
+
+
+
+
+
+Food. 
+
+
+Nitrogen. 
+
+
+
+
+Day. 
+
+
+In food. 
+
+
+In feces. 
+
+
+Utilization. 
+
+
+1 
+
+
+Meat 
+
+
+gm. 
+
+2.50 
+2.50 
+2.50 
+2.42 
+2.42 
+2.50 
+
+
+gm. 
+
+0.13 
+0.12 
+0.13 
+1.22 
+1.07 
+0.17 
+
+
+per cent 
+
+94.7 
+
+
+2 
+
+
+
+
+95.2 
+
+
+3 
+
+
+a 
+
+
+94.8 
+
+
+4 
+5 
+6 
+
+
+Raw egg-white 
+
+u « a 
+
+Meat 
+
+
+49.8 
+56.0 
+93.1 
+
+
+
+TABLE II. 
+Utilization of Raw Egg-White by Dog 2. 
+
+
+
+
+
+Food. 
+
+
+Nitrogen. 
+
+
+
+
+Day. 
+
+
+In food. 
+
+
+In feces. 
+
+
+
+
+1-3 
+4 
+5 
+
+
+Meat 
+
+Raw egg-white 
+
+« u a 
+
+
+gm. 
+9.04 
+3.16 
+3.18 
+
+
+gm. 
+
+0.33 
+1.20 
+
+1.28 
+
+
+per cent 
+
+96.3 
+62.0 
+59.5 
+
+
+
+TABLE III. 
+Utilization of Raw Egg-White by Dog 4- 
+
+
+
+
+
+Food. 
+
+
+Nitrogen. 
+
+
+Utilization. 
+
+
+Day. 
+
+
+In food. 
+
+
+In feces. 
+
+
+1 
+
+2 
+
+
+Raw egg-white 
+
+Meat 
+
+
+gm. 
+3.21 
+3.05 
+
+
+gm. 
+
+1.06 
+
+0.13 
+
+
+per cent 
+
+69.0 
+95.8 
+
+
+
+268 
+
+
+
+Utilization of Egg Proteins 
+
+TABLE IV. 
+Utilization of Raw Egg-White by Dog 6. 
+
+
+
+
+
+Food. 
+
+
+Nitrogen. 
+
+
+
+
+Day. 
+
+
+
+
+Utilization. 
+
+
+
+
+
+
+In food. 
+
+
+In feces. 
+
+
+
+
+
+
+
+
+gm. 
+
+
+gm. 
+
+
+pei- cent 
+
+
+1 
+
+
+Meat 
+
+
+3.06 
+
+
+0.11 
+
+
+97.2 
+
+
+2 
+
+
+Raw egg-white 
+
+
+2.97 
+
+
+1.23 
+
+
+58.6 
+
+
+
+Native egg-white, then, was poorly made use of by these dogs, 
+since from 30 to 50 per cent of the amount ingested was wasted 
+by being ejected with the feces. When Mendel and Lewis (1913) 
+fed this material to dogs only about half of the nitrogen in the 
+meals appeared in the urine for the following 24 hours as con- 
+trasted with almost all when meat, casein, edestin, and other pro- 
+teins replaced the egg-white. Steinitz (1898) reported unchanged 
+egg-white in the feces in considerable quantity but does not state 
+the figures. Vogt (1906) and Falta (1906) found that the nitro- 
+gen in uncooked egg-white superimposed upon a standard diet 
+was excreted much more slowly in the urine than that ingested 
+in the form of other proteins. The former ascribes this to a 
+slower rate of digestion and the latter to the longer time neces- 
+sary to catabolize the larger cleavage products which he supposes 
+adsorbed. Both explanations are fundamentally the same — the 
+native egg-white resists digestive processes. 
+
+After the dogs had grown to tolerate the egg-white better, the 
+utilization was better as well. For example, the feces passed by 
+the subject described in the protocol under "tolerance" on the 9th 
+and 12th days were analyzed for nitrogen with results shown in 
+the following table. 
+
+
+
+
+
+Improvement 
+
+
+TABLE V. 
+
+of Utilization with Tolerance. 
+
+
+
+
+Day. 
+
+
+Food. 
+
+
+Nitrogen. 
+
+
+
+
+In food. 
+
+
+In feces. 
+
+
+Utilization. 
+
+
+9 
+12 
+
+
+Raw egg-white 
+
+it u u 
+
+
+gm. 
+2.46 
+3.15 
+
+
+gm. 
+
+0.39 
+0.42 
+
+
+per cent 
+
+84.3 
+
+86.7 
+
+
+
+W. G. Bateman 
+
+
+
+269 
+
+
+
+Dried Egg-White. — The material was prepared by drying native 
+egg-white in the air at temperatures below 50°. 15 to 20 gm. 
+of the dry powder dissolved in water and fed in the usual meal of 
+cracker-dust and lard were as active in causing diarrhea as the 
+raw egg-white itself. This was also true with the subjects of 
+Mendel and Lewis who consider the dried egg-white dissolved in 
+water as equivalent to the original material. Neither was the 
+utilization of the egg-white improved by drying. Several sam- 
+ples were kept at a temperature of about 40° for periods varying 
+from 3 to 7 days, but this again made little difference in their 
+digestibility. Falta (1906) made experiments using desiccated 
+material and found in three cases a utilization of 80 per cent, 80 
+per cent, and 61 per cent respectively, while the same dogs used 
+almost 100 per cent of casein and gelatin. The method used by 
+Falta was that of superimposition. The feces were usually not 
+analyzed but one dog was noted as having diarrhea. LeClerc 
+and Cook (1906), in the course of work on another topic, fed to 
+a dog meals containing dried albumin, cracker-dust, and lard 
+together with sodium phosphate. They give the following- 
+figures : 
+
+TABLE VI. 
+Nitrogen Balance on Diet Containing Egg-White (LeClerc and Cook). 
+
+
+
+Experiment. 
+
+
+Nitrogen. 
+
+
+Utilization. 
+
+
+
+
+
+
+
+
+
+
+
+
+In food. 
+
+
+In urine. 
+
+
+In feces. 
+
+
+Balance. 
+
+
+
+
+
+
+gm. 
+
+
+gm. 
+
+
+gm. 
+
+
+gm. 
+
+
+per cent 
+
+
+1 
+
+
+16.72 
+
+
+9.55 
+
+
+9.90 
+
+
+-1.73 
+
+
+40.8 
+
+
+2 
+
+
+16.71 
+
+
+10.89 
+
+
+6.18 
+
+
+-0.37 
+
+
+63.0 
+
+
+3 
+
+
+17.52 
+
+
+6.62 
+
+
+13.85 
+
+
+-3.05 
+
+
+21.0 
+
+
+
+For the first and third experiments practically all the nitrogen 
+was supplied in the form of egg-white, while for the second, half 
+was in this form and half in egg-yolk. The differences in the 
+balance and utilization are striking. On the last day it will be 
+noted that the nitrogen in the feces was over twice that in the 
+urine. These results may be compared with those given later 
+in this paper. 
+
+To determine what effect standing might have on the dried 
+egg-white, experiments were made with commercial albumin 
+
+
+
+270 Utilization of Egg Proteins 
+
+which had been in the laboratory for some years. This caused 
+diarrhea although not so severe as that induced by either the 
+native or freshly dried protein. Its activity was not further 
+diminished by being exposed to bright light for 2 months. The 
+dogs showed considerable ability to overcome the effects of this 
+substance. The following describes a typical case. 
+
+Dog 4 was a healthy terrier bitch weighing 6.3 kilos. Its daily meal 
+consisted of 60 gm. of cracker-dust, 20 gm. of lard, and 15 gm. of commer- 
+cial egg-albumin dissolved in 150 cc. of water. On the 1st day severe 
+diarrhea developed and the utilization of the protein was only 76 per cent. 
+Next day the diarrhea was much less extensive but the weight of the sub- 
+ject had fallen to 6 kilos. On the 3rd day no feces were passed but the quan- 
+tity on the 4th day was large while the consistency was pasty. The utili- 
+zation was now 82 per cent. On the 5th day there was only a small quan- 
+tity of feces and this was true of the 7th day as well. On the alternate 
+days — 6th and 8th — the feces were large in quantity and on the last named 
+day better formed. The utilization had risen to 86.5 per cent. The native 
+egg-white and the commercial product act, then, in much the same manner. 
+
+In still other experiments the dried egg-white was fed without 
+previous hydration or solution, only enough water being added 
+to the meal to make it eatable. In these cases diarrhea did not 
+generally occur. Water was left in the cages but no more was 
+taken than usual. The quantity of urine was diminished and 
+indican was usually present in notable amounts. The feces were 
+delayed, sometimes not being passed until 23 to 25 hours after 
+the meal. When finally passed they were soft, unformed, of 
+strong odor, and contained much mucus. The utilization was 
+better than in the previous experiments, since it was generally 
+above 80 per cent. In a few cases, however, diarrhea did result 
+from dried egg-white fed in this way. 
+
+Cooked Egg-White. — When dogs ate the well cooked whites of 
+four to six eggs they did not display the ill effects attending the 
+use. of the same quantities of uncooked egg-white. Moreover, 
+the cooked material was as effective in stopping the diarrhea 
+caused by the raw eggs as was meat. The utilization was very 
+good, being in the neighborhood of 90 per cent, as shown below. 
+The marked difference in the metabolism of the same substance 
+cooked on the one hand and raw on the other is brought out in 
+the following tables. 
+
+
+
+W. G. Bateman 
+
+
+
+271 
+
+
+
+TABLE VII. 
+
+Nitrogen Balance of Dog 1. 
+
+
+
+
+
+Meal. 
+
+
+Nitrogen. 
+
+
+Utilization. 
+
+
+J 
+
+
+
+
+
+
+
+
+
+
+Q 
+
+
+
+
+In food. 
+
+
+In urine. 
+
+
+In feces. 
+
+
+Balance. 
+
+
+
+
+
+
+
+
+gm. 
+
+
+gm. 
+
+
+gm. 
+
+
+gm. 
+
+
+per cent 
+
+
+1 
+
+
+Cooked egg-white, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cracker, lard 
+
+
+3.76 
+
+
+3.20 
+
+
+0.33 
+
+
++0.23 
+
+
+91.2 
+
+
+2 
+
+
+<< 
+
+
+3.76 
+
+
+2.91 
+
+
+0.39 
+
+
++0.46 
+
+
+89.6 
+
+
+3 
+
+
+Raw egg-white, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cracker, lard 
+
+
+3.81 
+
+
+3.10 
+
+
+1.87 
+
+
+-1.16 
+
+
+51.0 
+
+
+4 
+
+
+« 
+
+
+3.74 
+
+
+3.27 
+
+
+1.31 
+
+
+-0.84 
+
+
+62.2 
+
+
+5 
+
+
+Cooked egg-white, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cracker, lard 
+
+
+3.76 
+
+
+3.15 
+
+
+0.43 
+
+
+-0.18 
+
+
+88.5 
+
+
+
+TABLE VIII. 
+
+Nitrogen Balance of Dog 5. 
+
+
+
+
+
+
+
+Nitrogen. 
+
+
+Utilization. 
+
+
+• 
+
+
+Meal. 
+
+
+
+
+
+
+
+
+
+
+Q 
+
+
+
+
+In food. 
+
+
+In urine. 
+
+
+In feces. 
+
+
+Balance. 
+
+
+
+
+
+
+
+
+gm. 
+
+
+gm. 
+
+
+gm. 
+
+
+gm. 
+
+
+per cent 
+
+
+1 
+
+
+Cooked egg-white, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cracker, lard 
+
+
+4.32 
+
+
+3.95 
+
+
+0.43 
+
+
+-0.06 
+
+
+90.0 
+
+
+2 
+
+
+Raw egg-white, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cracker, lard 
+
+
+4.36 
+
+
+3.17 
+
+
+1.81 
+
+
+-0.72 
+
+
+58.5 
+
+
+3 
+
+
+Cooked egg-white. . . 
+
+
+4.32 
+
+
+4.00 
+
+
+0.44 
+
+
++0.12 
+
+
+89.8 
+
+
+
+It will be seen that the cooked egg-white was not so well util- 
+ized as meat. For this two factors other than the nature of the 
+foodstuff may be responsible. One is, that the dogs were fed 
+generously which led as usual to more waste; and the other is 
+the presence in the meal of bone-ash, for Mendel and Fine (1912) 
+have demonstrated that even small amounts of indigestible sub- 
+stances in the food cause a poorer use of protein. Kolpakcha 
+(1888) found egg-white to be excellently utilized by dogs — 95 
+per cent or better — even when large amounts were ingested. 
+Although not specifically stated so, the material was probably 
+cooked. Steinitz (1898), on the contrary, states that consider- 
+able quantities of coagulated egg-white were passed in the feces 
+of dogs. The differences may possibly be due to variations in 
+
+
+
+272 Utilization of Egg Proteins 
+
+the fineness of division since if dogs are allowed to bolt large 
+pieces of hard-cooked egg-white, fragments of the same can gener- 
+ally be distinguished macroscopically in the feces. 
+
+The Temperature Necessary to Improve the Digestibility of Egg- 
+White. — The above results show that simple heating of the native 
+egg-white renders it more digestible and affords the organism a 
+chance to make better use of it. At what temperature is this 
+change effected? To determine this the egg-white was heated 
+in a double-boiler for 30 to 45 minutes with constant stirring. 
+At temperatures below 55° the substance suffered little impair- 
+ment of its activity in causing diarrhea. This activity is, how- 
+ever, considerably decreased by heating at 55° or 60°. After 
+being subjected to a temperature of 65° for half an hour the 
+digestibility of the egg-white is still further enhanced while at 
+70° or above, the foodstuff becomes entirely innocuous. Above 
+55°, more or less coagulation takes place depending upon the 
+degree of alkalinity of the egg-white, while at 70° the protein is 
+entirely coagulated but is very soft and jelly-like in texture. 
+
+Experiments with Rats. 
+
+The subjects were large, healthy, white rats kept in sanitary 
+cages and supplied plentifully with food and water. The meals 
+consisted largely of separator-milk powder ("Klim") mixed well 
+with varying amounts of egg-white, bread-meal, and lard. 
+
+When the diet contained 20 per cent of raw egg-white the feces 
+of the subjects were not different from those of controls fed on a 
+mixed diet although occasionally the presence of small amounts 
+of coagulable protein could be demonstrated. When the pro- 
+portion of egg-white was increased to 40 per cent half of the ani- 
+mals had softened feces, the scybala being larger and longer than 
+normal. Such stools as these always contained unused protein. 
+All the subjects up to this time gained in weight and maintained 
+excellent condition. Tolerance for the unusual foodstuff was 
+quickly gained since after 7 to 10 days' feeding the feces could 
+not be distinguished in appearance from those of the controls. 
+
+Next, a new lot of animals were first fed a diet containing 60 
+per cent of raw egg-white. This caused diarrhea which in some 
+cases was severe. In the latter contingency the body weight 
+
+
+
+W. G. Bateman 273 
+
+decreased while the less susceptible animals, on the contrary, 
+gained somewhat or remained stationary. The food was not 
+relished so that the diminished intake played some part when 
+weight was lost. The ill effects of the native egg-white were still 
+more marked when the proportion in the food was increased to 
+70 per cent. Several subjects refused to eat after a few days, 
+moping in the cages and neglecting to clean themselves. The 
+feces now became quite liquid at times and often contained 
+mucus. When the fecal matter dried it appeared as though var- 
+nished. In a final experiment the rats were fed a mixture of 80 
+per cent raw egg-white and 20 per cent milk powder of which 
+they partook rather sparingly. They lost weight rapidly, all 
+were afflicted with diarrhea, and after 10 days it was evident that 
+their health was much impaired. Six of these animals while 
+having diarrhea were killed with chloroform and the intestines 
+examined. In half the cases everything was normal while the 
+degree of intestinal inflammation perceived in the other three did 
+not appear significant. 
+
+The use of cooked instead of raw egg-white was followed by no 
+untoward effects. All the rats gained in weight and remained 
+well and active even when the diet contained a large proportion 
+of the coagulated protein. 
+
+Falta and Noeggerath (1905) fed rats a diet in which dry egg-white was 
+the only protein. The animals did not live longer than 94 days in the most 
+favorable cases. The weight steadily declined and death followed when 
+the weight fell to two-thirds or three-fifths of its original value. The rats 
+suffered from conjunctivitis and other eye diseases. Knapp (1908) reports 
+similar results. All his rats experienced diarrhea and conjunctivitis. 
+One soon died, the others following in from 17 to 24 weeks, after losing 
+much weight. Maignon (1912) fed rats exclusively on egg-white, either 
+raw or cooked, which was found entirely inadequate to sustain them. 
+Weight was quickly lost in spite of the increased quantities of food in- 
+gested. Death occurred after various periods when the body weight had 
+been much reduced — in some cases as much as 40 per cent. Frank and 
+Schittenhelm (1912) also failed to nourish rats when the only protein 
+furnished was egg-white. 
+
+Von Knieriem (1885) fed mice exclusively on dry egg-white. They could 
+not maintain existence and some succumbed in 3 days. Rohmann (1914) 
+used mice as subjects, feeding them mixed diets some of which contained 
+egg-white. He concluded from the results of his experiments that this 
+substance sustained life poorly in comparison with other proteins. 
+
+THE JOURNAL OP BIOLOGICAL CHEMISTRY, VOL. XXVI, NO. 1 
+
+
+
+274 Utilization of Egg Proteins 
+
+All the untoward effects noted by these investigators cannot be 
+ascribed to the egg-white but more justly to the lack in the diet 
+of important food accessories such as the vitamines. Osborne 
+and Mendel (1911) kept rats growing well on rations containing 
+cooked egg-white as sole protein for 170 days and the ensuing 
+decline was arrested, not by changing the protein but by adding 
+a small amount of butter fat. As regards the eye troubles, rats 
+are prone to suffer from epidemics of conjunctivitis and other 
+diseases if poorly nourished or kept in unsanitary surroundings. 
+Both Falta and Noeggerath and Knapp experienced these troubles 
+with other proteins in the diet than egg-white; but they appeared 
+to be milder and more tractable in the former case. 
+
+Experiments with Rabbits. 
+
+The experimental animals were kept in metabolism cages and 
+liberally supplied with mixed food. The raw egg-white was fed 
+by means of a stomach sound. 
+
+1. Two rabbits each received the whites of two eggs. One passed a 
+small amount of semi-liquid matter while the feces of the other and of a 
+control which received an equivalent quanity of water were normal. 
+
+2. Two rabbits each were fed the whites of three eggs. One had mod- 
+erate diarrhea while the feces of the other were pasty and increased in 
+quantity above those passed on the mixed food. 
+
+3. Three rabbits each were given the whites of two eggs at 10 o'clock 
+and the whites of two more at 2 o'clock. Two were afflicted with diarrhea 
+of some severity. One of them ate most of the fecal matter in preference 
+to food. The third animal passed a large amount of very pasty feces, the 
+scybala being much larger than normal. 
+
+Von Knieriem (1885) fed three rabbits each a meal containing: 
+
+gm. 
+
+Dry egg-white 15 
+
+Meat extract 5 
+
+Sugar 10 
+
+Horn shavings 2 
+
+Water, cc 225 
+
+The resulting feces were very soft and abnormal. Utilization 
+of the egg-white in the three cases was calculated to be 61, 67.2, 
+and 70.2 per cent respectively. The character of the feces and 
+the poor utilization of the protein were doubtless due in part to 
+
+
+
+W. G. Bateman 275 
+
+the presence in the food of the horn shavings which acted in the 
+same manner as the indigestible substances used in the experi- 
+ments of Mendel and Fine and Mendel and Lewis. Neverthe- 
+less, von Knieriem decided that egg-white was, in contrast to 
+almost all other proteins, poorly digested. Mendel and Rose 
+(1911) found it impossible to feed any large amount of native egg- 
+white to rabbits without inducing diarrhea. 
+
+Experiments on Man. 
+
+Experiments were made with native egg-white and raw eggs 
+upon a number of persons, and the cooperation of still others who 
+were eating raw eggs in order to gain weight was secured. The 
+data collected confirmed the points already brought out. Most 
+of the subjects experienced diarrhea which generally abated after 
+several days' ingestion of the raw foodstuff, and many complained 
+of intestinal discomfort. The material was poorly utilized. 
+These experiments will be discussed more in detail together with 
+the question of the use of raw eggs in practical dietetics, in 
+another place. 
+
+The results of these experiments are in accord with those of 
+other investigators. Falta (1906) found raw egg-white to be 
+utilized by man to the extent of 70 per cent. A still lower value, 
+50 per cent, was reported by Wolf (1912) who has described the 
+peculiar behavior of this foodstuff when ingested by man. He 
+did not observe diarrhea but the feces were of soft consistency. 
+When raw egg-white was in the diet there was over twice as 
+much nitrogen in the feces as when the food contained the same 
+quantity of nitrogen in the form of other proteins. On one oc- 
+casion the feces contained more nitrogen than did the urine. The 
+latter did not contain albumin, a result in contrast to those of 
+Hamburger (1902) and Cramer (1908) who claimed that albumi- 
+nuria followed the ingestion of large doses of native egg-white by 
+man. Previously Oertel (1883) had not been able to find albu- 
+min in the urine in such cases, and neither did uncooked egg- 
+white cause an increase in excreted albumin in preexisting albu- 
+minuria. Wolf also noted that when either raw or cooked egg- 
+white was superimposed upon a standard diet there was a delay 
+in the excretion of nitrogen and sulfur, the delay being greater 
+
+
+
+276 Utilization of Egg Proteins 
+
+in the sulfur elimination. He suggested that the sulfur com- 
+plexes in the uncoagulated egg-white have considerable power to 
+withstand the action of the digestive enzymes. 
+
+Explanations of the Behavior of Egg-White in the Alimentary Tract. 
+The Effect of Heating on Egg-White. 
+
+The improvement in the digestibility of raw egg-white effected 
+by heating may be brought about by the increased temperature 
+in four different ways. These are: (1) The temperature used 
+in cooking kills any bacteria present; (2) heating changes the. 
+physical texture of the egg-white; (3) heating destroys enzymes 
+normally found in this native protein mixture; (4) heating 
+changes the chemical nature of the egg-white. 
+
+1. Heating Kills Bacteria. — That bacteria in the egg-white 
+cause the diarrhea attending its use is improbable. It is true that 
+Wiley (1908), Lamson (1909), Pennington (1910), Maurer (1911), 
+and Stiles and Bates (1912) have reported a large percentage of 
+the eggs examined by them infected. But the more recent work 
+of Rettger (1913), who carried out far-reaching tests with the 
+greatest care to prevent accidental contamination, led him to 
+the opposite conclusion. Of the whites of 582 fresh eggs only 
+seven, or 1.2 per cent, showed the presence of bacteria and some 
+of these cases were unquestionably due to contamination. These 
+results are supported by those of Horowitz (1902) and confirmed 
+by Kossowicz (1913). And not only is egg-white usually sterile 
+but it has strong antiseptic properties and in many cases a marked 
+disinfectant action on bacteria as demonstrated by Lascht- 
+schenko (1909) and Rettger and Sperry (1912). The bacteri- 
+cidal properties are destroyed by heating the egg-white to 65-70°. 
+In view of these facts it is unlikely that the unusual behavior of 
+native egg-white in the alimentary tract can be due to bacteria. 
+
+2. Heating Changes the Physical Texture. — When raw egg-white 
+is heated above 55° it coagulates and loses its properties as a 
+viscid liquid. It is possible that this change is responsible for 
+the bettered digestibility of the cooked protein especially since, 
+as shown above, this improvement is not brought about by heat- 
+ing at temperatures too low to cause coagulation. 
+
+Two sets of dogs were fed meals exactly alike except that one 
+
+
+
+W. G. Bateman 277 
+
+received native egg-white and the other cooked egg-white ground 
+to a fine pulp. By the addition of water both types of meal were 
+made as nearly of the same consistency as possible. Those 
+meals containing the raw foodstuffs always caused diarrhea while 
+the others did not. 
+
+For further evidence on this point there was added to raw egg- 
+white enough sodium hydroxide to prevent coagulation when the 
+mixture was heated even above 70°. By this treatment the egg- 
+white was little altered, only becoming somewhat more viscid; 
+yet when fed to dogs it failed to cause diarrhea. 
+
+Other experiments to be discussed later in detail also showed 
+that the egg-protein could be made digestible without changing 
+its fluid character. 
+
+While it may be said that the peculiar physical nature of the 
+substance is not per se the factor giving rise to diarrhea and poor 
+utilization, the protein does, nevertheless, act while in the stom- 
+ach in an unusual manner. Beaumont (1833) was the first to 
+discover that raw egg-white leaves the stomach more rapidly 
+than other foods, including cooked egg-white itself. Some ob- 
+jections may be raised against these early observations because of 
+the abnormality of Beaumont's subject; but that the protein does 
+act in the manner described has been confirmed recently by Can- 
+non (1905), and London and Sulima (1905). The former found 
+the egg-white to pass through the pylorus at a rate comparable 
+to that of the carbohydrates which are among the first foodstuffs 
+to enter the intestine after ingestion whereas protein leaves the 
+stomach slowly. The egg-white was the only protein to act in 
+this way among those investigated. London and Sulima by 
+means of intestinal fistulas found that the egg-white left the stom- 
+ach in large gushes, often faster than the peristaltic waves. Dur- 
+ing its stay in the stomach it retained its alkaline reaction for 
+some time or passed into the intestine in this condition. After 
+feeding a dog native egg-white these workers recovered 73 per 
+cent unchanged from a fistula in the ileum. 
+
+The amount of gastric proteolysis undergone by this protein, 
+already decreased by its short stay in stomach, is still further 
+diminished by another unusual property observed by Pawlow 
+(1902); namely, that the egg-white acts ineffectively in stimu- 
+lating a flow of gastric juice. It acts in this way only like 
+
+
+
+278 Utilization of Egg Proteins 
+
+so much water. But even this is not the end of the story, for 
+Abderhalden and Pettibone (1912), and Bizarro (1913) state that 
+native egg-white offers considerable resistance to the action of 
+pepsin. If the egg-white is heated, however, and especially if 
+coagulated at 80°, it is more quickly acted upon by the pepsin 
+than when uncooked, and hydrolysis proceeds farther. After 
+the material is once coagulated the rate of digestion is lessened 
+by heating at higher temperatures. The fineness of division of 
+the coagulum also affects the rate of digestion. 
+
+We may picture this native protein, then, as quickly leaving 
+the stomach, accompanied by scanty amounts of gastric juice 
+and practically unaltered by pepsin. Perhaps this lack of gas- 
+tric digestion is at the bottom of the egg-white's unusual behavior 
+as a foodstuff. That it does have a bearing on the subject was 
+shown by feeding dogs partially digested egg-white. The pro- 
+tein together with 0.2 per cent pepsin and 0.2 per cent hydro- 
+chloric acid was heated for several hours at 37°. The digestion 
+was continued until the mixture upon neutralization gave a heavy 
+precipitate, in the filtrates from which no coagulable protein 
+could be detected. This material, which was little altered in 
+texture from the original, was as inactive as cooked egg-white in 
+causing diarrhea. 
+
+However, Cannon, and London and Sulima have shown that 
+even coagulated egg-white leaves the stomach much more rapidly 
+than other proteins, although less so than when in the native con- 
+dition. When cooked it does, in contrast to the raw material, 
+call forth an early secretion of hydrochloric acid with which it 
+unites. But the difference in rate of gastric discharge is not 
+enough to account for the differences in digestibility, so one must 
+consider the behavior of the two in the intestine. 
+
+As stated above, the native egg-white in the stomach fails to 
+cause a good flow of gastric juice. According to the mechanism 
+which Bayliss and Starling (1902) propose for the action of secre- 
+tin, it is probable that once in the intestine the raw egg-white 
+meets comparatively little pancreatic juice since the amount of 
+the latter is proportional to the quantity of acid entering the 
+duodenum — a fact observed by Pawlow (1902) as well. Fur- 
+thermore, Bruno and Klodnizki (1914) showed that no bile was 
+passed into the intestine when raw egg-white was ingested. 
+
+
+
+W. G. Bateman 279 
+
+Okada (1915) has confirmed this to the extent that in his experi- 
+ments the secretion of bile was small and seemed to be dependent 
+upon the degree of digestion undergone by the protein in the 
+stomach. Coagulated egg-white always caused a good flow of 
+bile. 
+
+3. Heating Destroys Enzymes. — In the intestine the digestion 
+of the egg-white is still further checked by the pronounced re- 
+sistance it exerts against the action of trypsin. Vernon (1904) 
+found the antitryptic activity to be more marked with this pro- 
+tein than with any other. In solutions containing 0.5 to 1.0 per 
+cent of raw egg-white the trypsin action on fibrin was lowered 
+to only 2.7 per cent of the normal, while even one part of egg- 
+white in 6,000 reduced the activity to 45 per cent of the normal. 
+When the egg albumin was exposed to a temperature of 60° its 
+antitryptic influence was not diminished and it retained a good 
+deal of its inhibitory power even after coagulation at 100°. 
+
+The native egg-white, however, is unlike collagen which is not 
+acted upon at all by trypsin; for Bayliss (1908) has shown that 
+if sufficient time be allowed the enzyme will act as completely 
+upon uncooked as upon cooked egg albumin. For some hours 
+after being brought together the trypsin does not change the egg- 
+white in the slightest degree and it requires over 70 hours before 
+the digestion equals that of the cooked material under the same 
+conditions. Hedin (1907), Cohnheim (1912), Abderhalden and 
+Pettibone (1912), Long and Johnson (1913), and Bizarro (1913) 
+have all demonstrated the strong antitryptic effect of egg-white 
+which Hammarsten (1912) considers remarkable. 
+
+To explain this behavior the existence of a specific anti-enzyme, 
+antitrypsin, has been postulated which is supposed to unite with 
+the trypsin much as an antitoxin does with its corresponding 
+toxin. A later view is that the trypsin is adsorbed by the colloi- 
+dal egg-white which thus cuts down tryptic activity in much the 
+same way as did charcoal in the experiments conducted by Hedin 
+(1906, b). Recently Maxwell (1915) has shown that boiled 
+starch adsorbs pepsin and so hinders its activity. That egg- 
+white does act in this manner is suggested by the observations of 
+Delezenne and Pozerski (1903), Vernon (1904), Gompel and 
+Henri (1905), and Hedin (1907) who found that raw egg-white 
+prevents the tryptic digestion of other easily digested proteins. 
+
+
+
+280 Utilization of Egg Proteins 
+
+It has already been stated that native egg-white resists peptic 
+digestion. It is interesting to note that proteolytic enzymes 
+other than those occurring in the intestinal tract are also unable 
+to act upon this substance. The work of Chittenden, Joslin, and 
+Meara (1892), and Chittenden (1894) showed that raw egg-white 
+was much more poorly digested than coagulated egg-white by 
+bromelin, the proteolytic enzyme of the pineapple. Jonescu 
+(1907) and Sachs (1907) found that papain was practically un- 
+able to act upon native egg-white. If the latter was heated or 
+incubated with dilute acids the antiproteolytic action toward 
+papain was destroyed. 
+
+If native egg-white contains antitrypsin, then heating may 
+improve its digestibility by destroying the anti-enzyme. Tala- 
+rico (1910) found that preliminary heating of the egg-white aided 
+tryptic digestion. There was no effect, however, until the tem- 
+perature reached 70° after which there was an orderly liberation 
+of amino-acids up to 130°. Frank (1911) also found cooked egg- 
+white to be better digested than raw, the optimum temperature 
+being 70-75°. At temperatures above this the digestibility de- 
+creased in proportion to the hardness of the coagulated material. 
+Bizarro (1913) considered the best temperature to be 80°. In 
+addition to these observers Abderhalden and Pettibone (1912) 
+and Long and Johnson (1913) found the coagulated egg-white 
+much better digested than the raw. The latter observers state 
+that cooked egg-white, however, is acted upon slowly by trypsin 
+as compared to pepsin. 
+
+It is significant that the temperature (70°) which was found 
+sufficient to rob the egg-white entirely of its activity in causing 
+•diarrhea is the same as that given above for the optimum activity 
+of trypsin. 
+
+Beyond the resistance to trypsin the properties of the alleged 
+antitrypsin in the egg-white are little known except that Vernon 
+(1904) found its action much weakened by heating with dilute 
+sodium carbonate. Hedin (1904) also used sodium carbonate to 
+destroy the anti-enzyme. 
+
+The following experiments were made to determine whether 
+the antitrypsin could be the source of the unusual behavior of 
+egg-white. 
+
+The whites of five to six eggs were dialyzed for several days. 
+
+
+
+W. G. Bateman 281 
+
+When fed to dogs this material was effective in causing diarrhea. 
+The antitrypsin, if present, is not diffusible. Cathcart (1904) 
+found that the antitryptic action of blood serum is not removed 
+by dialysis. 
+
+Egg-white was incubated with 0.2 per cent sodium or potassium hydrox- 
+ide or 0.25 per cent sodium or potassium carbonate for several hours at 
+37°. Fed to dogs the material was no different in behavior than cooked 
+egg-white. This treatment does not alter the texture to any extent. 
+
+The native protein was heated in an incubator at 37° for 4 to 8 hours 
+with 0.2 per cent acetic or hydrochloric acid. By this treatment it was 
+rendered digestible and no diarrhea followed its use. This process also 
+left the original texture unaltered. 
+
+Jobling and Petersen (1915) succeeded in extracting antitryp- 
+sin from blood serum with chloroform. It was found impracti- 
+cable to extract native egg-white with chloroform or ether since 
+a considerable quantity of the protein was precipitated and the 
+liquids, especially the chloroform, did not separate well. After 
+standing for 12 to 24 hours the mixtures were dried rapidly in 
+a current of warm air at room temperature. The dry material 
+was thoroughly mixed with water and fed to dogs. It did not 
+cause diarrhea. Nothing had been removed from the native egg- 
+white and judging by the work of Jobling and Petersen the 
+treatment was scarcely drastic enough to destroy the anti-enzyme. 
+
+Further attempts at extraction were made more successfully 
+by previously drying and powdering the egg-white. In order to 
+make the extraction as complete as possible the mixture of dry 
+egg-white and ether or chloroform was allowed to stand for 4 
+days, on each of which it was well shaken for a period of 30 to 60 
+minutes. The extract was then separated and evaporated to 
+dryness at room temperature. The residue from the extract was 
+triturated with water and mixed as well as possible with finely 
+minced, coagulated egg-white. This mixture, assumed to con- 
+tain any antitrypsin originally in the egg-white, failed to cause 
+diarrhea when fed to dogs. The residues insoluble in chloroform 
+or ether were dried, mixed with water, and fed to dogs with nega- 
+tive results. 
+
+It is well known that enzymes in general are soluble in dilute and 
+precipitated by strong alcohol. Egg-white was coagulated with 
+strong alcohol and filtered. If antitrypsin was precipitated by 
+
+
+
+282 Utilization of Egg Proteins 
+
+the reagent it should be contained in the coagulated protein; yet 
+when this was freed from alcohol and fed to dogs it caused no 
+diarrhea. Neither did the filtrate appear to contain antitrypsin, 
+for the residue obtained from it by evaporation well mixed with 
+cooked egg-white was fed to dogs with no untoward results. In 
+still other experiments the egg-white was precipitated as before 
+with strong alcohol. After filtering, the coagulated protein was 
+finely minced, ground up with dilute alcohol, and finally washed 
+with dilute alcohol. By this treatment it might be supposed 
+that antitrypsin, if present in the egg-white, would first be pre- 
+cipitated and then washed out of the finely divided coagulum 
+by the dilute alcohol. Accordingly the filtrates and washings 
+were evaporated until the alcohol was removed and fed to dogs 
+after being thoroughly incorporated with cooked egg-white. In 
+no case was diarrhea induced. Finally the washed coagulum was 
+fed but proved as ineffective as the extracts. 
+
+Those of the above experiments, therefore, which were planned 
+to remove an active substance from egg-white — by extraction or 
+washing — appeared to fail since the separated material did not 
+render cooked egg-white indigestible. In contrast, those experi- 
+ments calculated to make the native egg-white digestible by de- 
+stroying the anti-enzyme were successful. It may justly be 
+argued, however, that antitrypsin, even if contained in the resi- 
+dues from the extracts, cannot be mixed intimately enough with 
+cooked egg-white to make it really indigestible. 
+
+4- Heating Changes the Chemical Nature. — When egg-white is 
+coagulated its chemical nature is altered. This change may be 
+the causal factor in bettering its behavior in the intestinal canal. 
+Changes of like nature brought about by other agents than heat 
+were similarly effective. 
+
+Some of the experiments already described bring out this point. 
+Thus egg-white precipitated with alcohol did not affect dogs as did 
+the original protein. It made no difference whether the precipi- 
+tate was filtered off at once or allowed to stand in contact with the 
+alcohol for several days. In other experiments the egg-white 
+was denatured by the minimum quantity of moderately strong 
+alcohol and the whole mixture dried quickly at a low temperature. 
+This material sometimes considerably softened the feces of dogs 
+by which it was ingested but this may be due to the fact that the 
+treatment usually leaves some of the original protein unaltered. 
+
+
+
+W. G. Bateman 283 
+
+It has already been stated that dried egg-white extracted with 
+chloroform or ether was readily digested. When these residues, 
+from which little had been removed by extraction, were mixed 
+with water and fed to dogs they did not cause diarrhea. Some- 
+times, after the extraction had been made with ether, the feces 
+were softer than normal. This lack of activity was not because 
+the reagents extracted any active material as shown above, but 
+apparently because the protein was more or less denatured by 
+them. Before extraction the dried egg-white was entirely solu- 
+ble in water, but the treatment so changed it that much of it 
+became insoluble. 
+
+Egg-white was chemically modified in still another way by 
+converting it into alkali-metaprotein. This was prepared by 
+the gradual addition of potassium hydroxide to native egg-white 
+with constant stirring. The transparent jelly was finely divided 
+and thoroughly washed with cold water. Fed to dogs it proved 
+an excellent foodstuff. The feces formed by it closely resembled 
+the normal feces in being dry and crumbly. Klug (1897) found 
+that pepsin from the stomach of dogs digested alkali-albumin 
+better than any other protein in his list, at the bottom of which 
+he placed coagulated egg-white. In general the same thing was 
+true with pig and ox pepsin. Vernon (1904) considered alkali- 
+albumin prepared from egg-white more easily digested by trypsin 
+than the native protein. 
+
+As stated previously, if egg-white is partially predigested by 
+pepsin or incubated with dilute acids and bases it loses its ability 
+to cause diarrhea. All of these procedures, in addition to any 
+effect they may have on antitrypsin, change the chemical 
+nature of the egg-white. It is true that some of these changes 
+are not pronounced, but in this respect the altered substances 
+may be like the racemized proteins of Dakin and Dudley (1913) 
+who found that such a slight chemical change as a partial reversal 
+of the direction of polarization was sufficient to convert casein 
+into an entirely indigestible substance. 
+
+Resume. — From the evidence at hand it is reasonable to assume 
+that the indigestibility of the egg-white is due primarily neither 
+to its physical texture nor to any bacteria present. But it seems 
+impossible to make a decision between the other two explana- 
+tions offered, the difficulty being that any process affecting one 
+
+
+
+284 Utilization of Egg Proteins 
+
+factor modifies the other as well. Thus, when incubation with 
+acid improves the digestibility of the native protein, we may 
+explain it from the one view-point as due to the destruction of 
+the antitrypsin, and from the other as due to the conversion of 
+the indigestible egg-white into digestible acid-metaprotein. When 
+treatment with chloroform renders the egg-white digestible, we 
+may assume that this is caused either by the removal or, destruc- 
+tion of the anti-enzyme, or by the change effected in the chemi- 
+cal properties of the protein. 
+
+The simplest assumption is that raw egg-white is attacked 
+with much difficulty by the digestive enzymes. It is not con- 
+tended that raw starch, agar, collagen, cellulose, and other in- 
+digestible substances contain anti-enzymes. Moreover, the 
+existence of such substances has been seriously doubted of late 
+by investigators like Bayliss (1908) and Cohnheim (1912), the 
+latter of whom considers that, "the evidence does not permit us 
+to speak of specific antiferments." Probably the explanation of 
+the behavior of antitryptic substances most in favor at present, is 
+that which postulates an adsorption of the trypsin, the effective 
+concentration of which is thereby reduced. 
+
+What Component of Egg-White Is Responsible for Its Peculiar 
+Behavior in the Alimentary Tract. 
+
+The Action of the Individual Proteins of Egg-White. 
+
+The proteins of egg-white were separated from each other 
+according to the method of Osborne and Campbell (1900). Care 
+was taken to have the various fractions as free from each other 
+as possible and each was dialyzed free from ammonium sulfate 
+before being used. The amounts of the various proteins used 
+were equivalent to those contained in the whites of five or six 
+eggs, which amount of egg-white had previously been found 
+sufficient to cause severe diarrhea in the dogs used as subjects. 
+
+Globulin. — According to Osborne and Campbell globulin is 
+present in egg-white to the extent of 7 per cent of the total solids. 
+The whites of five or six eggs contain approximately 1.5 to 2 gm. 
+of globulin. These amounts of freshly prepared, moist globu- 
+lin mixed with the usual meal did not affect the dogs in the least 
+and the same was true when quantities four or five times as 
+
+
+
+W. G. Bateman 285 
+
+large were ingested. Even 20 gm. of purified egg globulin pre- 
+pared 2 years previously did not perceptibly alter the consistency 
+of the feces, although it was not very well utilized. 
+
+Ovalbumin. — -The ovalbumin was obtained in fine cyrstals. 
+After being dialyzed it was quickly dried at a low temperature. 
+Osborne and Campbell succeeded in crystallizing 50 per cent of 
+the total proteins in egg-white but consider that all the other 
+fractions contain more or less of this substance. While the actual 
+proportion present is, then, somewhat doubtful, for these experi- 
+ments it was assumed to be 60 per cent. The whites of five or 
+six eggs would then contain 12.5 to 16 gm. of ovalbumin. Fed 
+in these amounts to dogs it caused diarrhea which was more 
+marked when larger amounts were ingested. Its action, how- 
+ever, was not so marked as might be expected from the activity 
+of the native egg-white itself and was also more variable. Thus 
+one dog, for instance, in which diarrhea had been induced several 
+times with raw egg-white failed to react at all to the ovalbumin. 
+Perhaps this is not surprising considering the amount of manipu- 
+lation necessary to obtain the pure ovalbumin. While the glob- 
+ulin is separating the mixture becomes strongly alkaline from the 
+formation of ammonium hydroxide, and another change — pos- 
+sibly oxidative — is going on as shown by the gradually deepening 
+color of the solution. Later the ovalbumin stands for a long time 
+in contact with acid, is dialyzed for several days, and dried. 
+Osborne and Campbell indeed regard the crystallized substance 
+as different from the original protein and consider that it is prob- 
+ably a combination of the protein with acid. 
+
+Conalbumin. — The amount of uncrystallizable albumin in egg- 
+white is not definitely known but it is probably from 25 to 35 per 
+cent of the total proteins. In five or six egg-whites there would 
+be 4.5 to 6 gm. of conalbumin. Fed in these amounts it generally 
+caused the formation of pasty feces, which effect was increased 
+where the amount ingested was larger. A mixture of ovalbumin 
+and conalbumin in the proportion in which they occur in egg- 
+white fed to dogs in amounts equivalent to" 85 per cent of the total 
+proteins in five or six egg-whites caused diarrhea. 
+
+Ovomucoid. — It seems unlikely that ovomucoid is the disturb- 
+ing protein of the egg-white since it is present in small amount — 
+10 per cent according to Hammarsten, — is unaffected by heating 
+
+
+
+286 Utilization of Egg Proteins 
+
+in boiling water, and is precipitated unchanged by alcohol, so 
+that it was present in the alcohol precipitates which failed to 
+cause diarrhea. This supposition was confirmed by feeding to 
+dogs ovomucoid prepared as follows. The whites of five or six 
+eggs were diluted with water and the globulin and albumins 
+coagulated by boiling after the addition of a little acetic acid. 
+The filtrate containing the ovomucoid was fed to dogs mixed 
+with the usual meal but did not cause diarrhea. 
+
+The albumin fraction, therefore, appears to be the indigestible 
+portion of the egg-white. This is in harmony with the observa- 
+tions of Mendel and Lewis who found that purified ovalbumin 
+fed to dogs in comparatively large amounts caused profuse diar- 
+rhea. Vernon (1904) found crystallized albumin to be even more 
+resistant to trypsin than native egg-white. Bainbridge (1911) 
+noted that certain forms of bacteria do not appreciably break 
+down this substance even in the presence of sufficient non-nitro- 
+genous food to insure vigorous bacterial growth. In view of 
+these results it is interesting that the antitryptic action of blood- 
+serum according to Hedin (1904), Cathcart (1904), and Vernon 
+(1908) is associated with the albumin and not with the globulin. 
+
+The Digestibility of Duck Egg-White. 
+
+Experiments with the white of the eggs of the Eastern Indian 
+Runner demonstrated that it, too, was indigestible, caused diar- 
+rhea, and was poorly utilized. The egg-white of the common 
+fowl, then, is not unique in its exceptional conduct as a foodstuff. 
+The egg of the duck appears to have been little investigated but 
+the white differs in appearance from that of the hen's egg, and 
+Panormow (1906) thought that it contained a special protein not 
+found in other eggs. 
+
+The Behavior of Egg-Yolk in the Alimentary Tract. 
+
+When egg-yolk was fed to dogs in any large quantity as part 
+of a meal containing lard and cracker-dust, it usually caused a 
+rather severe digestive disturbance of which vomiting was the 
+main symptom. The vomitus contained much bile, and fre- 
+quently comparatively large amounts of this liquid were ex- 
+pelled from the stomach. Diarrhea sometimes accompanied this 
+
+
+
+W. G. Bateman 287 
+
+vomiting. The subjects were apathetic and had little appetite 
+for several days. These effects were brought about by cooked 
+as well as by raw egg-yolk. The picture of this digestive dis- 
+order is thus quite different from that induced by native egg-white. 
+
+The regurgitation of bile suggested the fat as the cause of the 
+trouble. Therefore the lard was omitted from the meal with 
+favorable results since no diarrhea or vomiting was then noted. 
+The same end was attained by extracting the fat from the egg- 
+yolk by means of ether. The crude yolk-protein, freed from ether, 
+was fed with lard and cracker-meal to dogs, and was inactive. 
+The dogs affected by egg-yolk in the way described seem, then, 
+to have had a low tolerance for fat. The disturbing effect of the 
+yolk is considerably less than that of the white; for while, in one 
+case, the whites of four raw eggs caused diarrhea the same sub- 
+ject ate six raw yolks with impunity. 
+
+The egg-yolk and ovovitellin were found to be excellently utilized 
+and there appears to be nothing in the literature to show that 
+they are indigestible. Mendel and Lewis' (1913) experiments 
+showed the excretion of nitrogen after feeding ovovitellin to be 
+the same as that after meat, a result in opposition to that obtained 
+with coagulated and uncoagulated egg-white where the nitrogen 
+excretion was delayed. McCollum (1909) sustained life in white 
+rats for 18 weeks on nothing but egg-yolk with no unfavorable 
+results, while it may be recalled that Maignon, Knapp, and von 
+Knieriem could not keep dogs, rats, or mice alive on egg-white 
+alone. Laschtschenko (1909) found that bacteria thrived well 
+on egg-yolk, that it does not possess germicidal properties, and 
+cuts down the bactericidal action of the egg-white.,. 
+
+SUMMARY. 
+
+Raw egg-white is found to be a decidedly indigestible substance. 
+It may cause diarrhea in dogs, rats, rabbits, and man when in- 
+gested in any large quantity. Its utilization by the body is poor 
+since it is used only to the extent of 50 to 70 per cent. Subjects 
+can acquire a certain tolerance for the native protein after ingest- 
+ing it for several days so that it no longer causes diarrhea and is 
+somewhat better utilized. 
+
+Raw egg-white can be made digestible through coagulation 
+
+
+
+288 Utilization of Egg Proteins 
+
+by heat; by precipitation with alcohol, chloroform, or ether; by 
+incubation with dilute acids or alkalies; by partial digestion by 
+pepsin; by conversion into alkali-metaprotein. 
+
+The indigestibility of native egg-white probably lies either in 
+its antitryptic content or in its chemical constitution. Its physi- 
+cal texture appears to play a minor part in its behavior. 
+
+Of the individual proteins constituting egg-white, the albumin 
+fraction appears to be the indigestible component. 
+
+The whites of the hen's egg and duck's egg act alike in causing 
+diarrhea and in being poorly utilized. 
+
+Egg-yolk either raw or cooked is excellently utilized. It some- 
+times causes digestive disturbances in dogs, apparently because 
+of its high fat content. 
+
+A review of the literature shows that dietitians have relied, 
+in general, upon the early observations of Beaumont as support 
+for the use of raw eggs: These observations were in the main 
+exact; but, so far as the digestibility of raw egg-white is concerned, 
+were misinterpreted. 
+
+In current dieto-therapy raw whole eggs, raw egg-white, and 
+albumin-water are extensively prescribed. There appears to be 
+little in their conduct as foodstuffs, however, to warrant such 
+faith in their nutritive value or ease of assimilation. 
+
+In conclusion it is a pleasure to thank Dr. Lafayette B. Mendel 
+for his kindness and helpfulness during the course of this work. 
+
+REFERENCES. 
+
+Abderhalden, E., and Pettibone, C. J. V., Uber den Einfluss des physi- 
+kalischen Zustandes von Proteinen auf die Raschheit ihres Abbaues 
+durch Fermente, Z. physiol. Chem., 1912, lxxxi, 458. 
+
+Atwater, W. O., and Langworthy, C. F., A digest of metabolism experi- 
+ments, U. S. Dept. Agric, Office of Exp. Stations, Bull. 4-5, 1898. 
+
+Bainbridge, F. A., The action of certain bacteria on proteins, J. Hyg., 
+1911, xi, 341. 
+
+Bayliss, W. M., The Nature of Enzyme Action, London, 1908. 
+
+Bayliss, W. M., and Starling, E. H., The mechanism of pancreatic secre- 
+tion, J. Physiol., 1902, xxviii, 325. 
+
+Beaumont, W., Experiments and Observations on the Gastric Juice, and 
+the Physiology of Digestion, Plattsburg, 1833. 
+
+Bizarro, A. H., On the influence of preliminary heating upon peptic and 
+tryptic proteolysis, J. Physiol., 1913, xlvi, 267. 
+
+
+
+W. G. Bateman 289 
+
+Bruno, G. G., and Klodnizki (quoted from: Babkin, B. P., Die aussere 
+
+Secretion der Verdauungdrusen, Berlin, 1914). 
+Cannon, W. B., The passage of different food-stuffs from the stomach 
+
+and through the small intestine, Am. J. Physiol., 1905, xii, 387. 
+Cathcart, E. P., On the antitryptic action of normal serum, J. Physiol., 
+
+1904, xxxi, 497. 
+Chittenden, R. H., Joslin, E. P., and Meara, F..S., On the ferments con- 
+tained in the juice of the pineapple, Tr. Connecticut Acad. Arts and 
+
+Sc, 1892, viii, 281. 
+Chittenden, R. H., On the proteolytic action of bromelin, the ferment of 
+
+pineapple juice, J. Physiol., 1894, xv, 249. 
+Cohnheim, O., Enzymes, New York, 1912. 
+Cramer, W., On the assimilation of protein introduced parenterally, J. 
+
+Phijsiol., 1908, xxxvii, 146. 
+Dakin, H. D., and Dudley, H. W., The action of enzymes on racemized 
+
+proteins and their fate in the animal body, J. Biol. Chem., 1913, 
+
+xv, 271. 
+Delezenne, C, and Pozerski, E., Action empechante de "l'ovalbumine 
+
+crue" sur la digestion tryptique de "l'ovalbumine coagulee," Compt. 
+
+rend. Soc. biol., 1903, lv, 935. 
+Falta, W., Studieren iiber den Eiweissstoffwechsel, Deulsch. Arch. klin. 
+
+Med., 1906, lxxxvi, 517. 
+Falta, W., and Noeggerath, C. T., Futterungsversuche mit kunstlicher 
+
+Nahrung, Beitr. chem. Phys. u. Path., 1905, vii, 313. 
+Frank, P., The digestibility of white of egg as influenced by the temper- 
+ature at which it is coagulated, J. Biol. Chem., 1911, ix, 463. 
+Frank, F., and Schittenhelm, A., IJber die Brauchbarkeit tief abgebauter 
+
+Eiweissprr.parate fur die Ernahrung, Therap. Monat., 1912, xxvi, 112. 
+Gompel, M., and Henri, V., Etude du ralentissement que produit l'albu- 
+
+mine d'oeuf crue sur la digestion tryptique de l'albumine coagulee, 
+
+Compt. rend. Soc. biol., 1905, lviii, 457. 
+Hamburger, F., Zur Frage der Immunisierung gegen Eiweiss, Wien. klin. 
+
+Woch., 1902, xv, 1188. 
+Hammarsten, O., A Textbook of Physiological Chemistry, New York, 6th 
+
+edition, 1912. 
+Hammed, H., Kermanner, F., Moeller, J., and Prausnitz, W., Untersuch- 
+
+ungen uber das Verhalten animalischer und vegetabilischer Nahrungs- 
+
+mittel im Verdauungskanal, Z. Biol., 1897, xxxv, 287. 
+Hedin, S. G., Investigations on the proteolytic enzymes of the spleen of 
+
+the ox, J. Physiol., 1904, xxx, 155. 
+Hedin, On the antitryptic action of serum albumin, J. Physiol., 1905, a, 
+
+xxxii, 390. 
+Hedin, Action of trypsin, J. Physiol., 1905, b, xxxii, 468. 
+Hedin, Trypsin and antitrypsin, Biochem. J., 1906, a, i, 474. 
+Hedin, An antitryptic effect of charcoal, Biochem. J., 1906, b, i, 484. 
+Hedin, Tiber verschiedenartige Hemmung der tryptischen Verdauung, Z. 
+
+phijsiol. Chem., 1907, lii, 412. 
+
+
+
+290 Utilization of Egg Proteins 
+
+Horowitz, Contribution a l'etude des moyens de defense de l'organisme 
+
+contre l'invasion microbienne, These de Paris, 1902, abstr. in Jahresber. 
+
+path. Mikroorgan., 1903, xix, 984. 
+Jobling, J. W., and Petersen, W. F., A study of the ferments and antifer- 
+
+1 ments of the body, Bull. Johns Hopkins Hosp., 1915, xxvi, 356. 
+Jonescu, D., Uber eine eigenartige Verdauung des Hijhner- und Serum- 
+
+eiweiss durch Papain, Biochem. Z., 1907, ii, 177. 
+Klug, F., Beitrage zur Pepsinverdauung, Arch. ges. Physiol., 1897, lxv, 
+
+330. 
+Knapp, P., Experimenteller Beitrag zur Ernahrung von Ratten mit 
+
+ktinstlicher Nahrung, Z. exp. Path. u. Therap., 1908-09, v, 147. 
+Kolpakcha (quoted from Atwater and Langworthy), Phiziol. Sbornik, 
+
+Charkoff, 1888, i, 56. 
+Kossowicz, A., Die Zersetzung und Haltbarmachung der Eier, Wiesbaden, 
+
+1913. 
+Lamson, G. H., Infection and preservation of eggs, Storrs Agric. Exp. 
+
+Station, Bull. 55, 1909. 
+Laschtschenko, P., Uber die keimtotende und entwicklungshemmende 
+
+Wirkung von Hiihnereiweiss, Z. Hyg., 1909, lxiv, 419. 
+LeClerc, J. A., and Cook, F. C, Metabolism experiments with organic 
+
+and inorganic phosphorus, J . Biol. Chem., 1906-07, ii, 203. 
+London, E. S., and Sulima, A. T., Zum Chemismus der Verdauung im tier- 
+
+ischen Korper, Z. physiol. Chem., 1905, xlvi, 209. 
+Long, J. H., and Johnson, W. A.., Activity and stability of certain fer- 
+ments. II, J. Am. Chem. Soc, 1913, xxxv, 1188. 
+Maignon, F., Role des graisses dans l'utilisation de Palbumine alimentaire, 
+
+Compt. rend. Soc. biol., 1912, lxxii, 1054. 
+Mauer, The bacteriology of eggs and egg products, Kansas State Agric. 
+
+Coll., Exp. Station Bull. 180, 1911. 
+Maxwell, The relation of salivary to gastric digestion, Biochem. J., 1915, 
+
+ix, 323. 
+McCollum, E. V., Nuclein synthesis in the animal body, Am. J. Physiol., 
+
+1909-10, xxv, 127. 
+Mendel, L. B., and Fine, M. S., The utilization of proteins, J. Biol. Chem., 
+
+1912, xi, 5. 
+Mendel, L. B., and Lewis, R. C, Rate of elimination of nitrogen as in- 
+fluenced by diet factors, J. Biol. Chem., 1913-14, xvi, 55. 
+Mendel, L. B., and Rockwood, E. W., On the absorption and utilization 
+
+of proteins, Am. J . Physiol., 1905, xii, 336. 
+Mendel, L. B., and Rose, W. C, Experimental studies on creatine and 
+
+creatinine, J. Biol. Chem., 1911-12, x, 213. 
+Oertel, M. J., Ueber Ernahrung mit Huhnereiern, Munich, 1883. 
+Okada, S., On the secretion of bile, J. Physiol., 1914-15, xlix, 458. 
+Oppenheimer, C, Uber das Schicksal der mit Umgehung des Darmkanals 
+
+eignefuhrten Eiweissstoffe im Tierkorper, Beitr. chem. Phys. u. Path., 
+
+1904, iv, 263. 
+Osborne, T. B., and Campbell, G. F., The protein constituents of egg- 
+white, /. Am. Chem. Soc, 1900, xxii, 422. 
+
+
+
+W. G. Bateman 291 
+
+Osborne, T. B., and Mendel, L. B., Feeding experiments with isolated 
+
+food-substances, Carnegie Institution of Washington, Publication No. 
+
+156, 1911. 
+Osborne and Mendel, The contribution of bacteria to the feces, J . Biol. 
+
+Chem., 1914, xviii, 177. 
+Panormow, A. A., Uber einige Eigenschaften der Albumine im Eiweiss der 
+
+Enteneier, Biochem. Centr., 1906, v, 171. 
+Pawlow, LP., The Work of the Digestive Glands, London, 1902. 
+Pennington, M. E., A chemical and bacteriological study of fresh eggs, 
+
+./. Biol. Chem., 1909-10, vii, 109. 
+Rettger, L. F., The bacteriology of the hen's egg, with special reference to 
+
+its freedom from microbic invasion, Centr. Bakteriol.,2 teAbt., 1913-14, 
+
+xxxix, 611. 
+Rettger, L. F., and Sperry, J. A., The antiseptic and bactericidal proper- 
+ties of egg-white, /. Med. Research, 1912, xxvi, 55. 
+Rohmann, F., Uber die Ernahrung von Mausen mit einer aus einfachen 
+
+Nahrungsstoffen zusammengesetzten Nahrung, Biochem. Z., 1914.. 
+
+lxiv, 30. 
+Sachs, F., Uber die Verdauung von rohem Hiihnereiweiss durch Papain, 
+
+Z. physiol. Chem., 1907, li, 488. 
+Steinitz, F., Ueber das Vernal ten phosphorhaltiger Eiweisskorper im Stoff- 
+
+wechsel, Arch. ges. Physiol., 1898, lxxii, 75. 
+Stiles, G. W., and Bates, C, A bacteriological study of shell, frozen, and 
+
+desiccated eggs, U. S. Dept. Agric, Bureau of Chem., Bull. 158, 1912. 
+Talarico, J., De 1' influence de la cuisson sur la digestibilite tryptique de 
+
+l'albumine d'oeuf, Compt. rend. Soc. biol., 1910, lxviii, 662. 
+Tsuboi, J., Ueber die Stickstoffausscheidung aus dem Darm, Z.Biol., 1897, 
+
+xxxv, 68. 
+Tsuchiya, I., Ueber das Auftreten des gelosten Eiweisses in den Faces 
+
+Erwachsener, Z. exp. Path. u. Therap., 1909, v, 455. 
+Vernon, H. M., The protective value of proteids and their decomposition 
+
+products on trypsin, J. Physiol., 1904, xxxi, 346. 
+Vernon, Intracellular Enzymes, London, 1908. 
+Vogt, H., Der zeitliche Ablauf der Eiweisszersetzung bei verschiedener 
+
+Nahrung, Beitr. chem. Phys. u. Path., 1906, viii, 409. 
+Von Knieriem, W., Ueber die Verwerthung des Cellulose im thierischen 
+
+Organismus, Z. Biol., 1885, xxi, 67. 
+Wiley, H. W., A preliminary study of the effects of cold storage on eggs, 
+
+quail, and chickens, U. S. Dept. Agric, Bureau of Chem., Bull. 115, 
+
+1908. 
+Wolf, C. G. L., Die Ausschiedungszeit von Stickstoff, Schwefel, und 
+
+Kohlenstoff nach Aufnahme von Eiweisssubstanzen und ihren Spal- 
+
+tungsprodukten. II, Biochem. Z., 1912, xl, 234. 
+
+
+
+Extracted from the American Journal of the Medical Sciences, 
+June, 1917, No. 6, vol. cliii, p. 841. 
+
+
+
+THE USE OF RAW EGGS IN PRACTICAL DIETETICS. 
+By W. G. Bateman, Ph.D., 
+
+MISSOULA, MONTANA. 
+
+(From the Sheffield Laboratory of Physiological Chemistry in Yale University, 
+New Haven, Conn.) 
+
+
+
+During the past fifteen years evidence has been gradually 
+accumulating which shows that raw egg-white occupies an excep- 
+tional position among native protein foodstuffs. Pawlow (1902) 
+observed that this substance has only a feeble ability to stimulate 
+a flow of gastric juice. It acted in this way only as so much water. 
+Cooked egg-white, on the contrary, calls forth an abundance of 
+juice and unites easily with the hydrochloric acid. On account 
+of the scanty supply of secretion which it induces the raw protein 
+has little opportunity to be digested, but this slender chance is 
+still further diminished by another unusual property. Beaumont 
+(1833), during his famous experiments on Alexis St. Martin, was 
+the first to note that native egg-white left the stomach very rapidly 
+in comparison to other foods, including cooked egg-white itself. 
+Indeed, this substance spent a shorter time in the stomach than 
+any other Beaumont investigated. This observation has more 
+recently been confirmed by Cannon (1904) and by London and 
+Sulima (1905). The former found that the egg-white passed 
+through the pylorus at a rate comparable to that of the carbo- 
+hydrates, which are among the first foodstuffs to enter the intestine 
+after ingestion. Proteins leave the stomach slowly and egg-white 
+was the only exception noted among those investigated. London 
+and Sulima found that this hasty exit from the stomach was 
+most striking. A few moments after ingestion the egg-white 
+escaped in large gushes through a pyloric fistula. During its 
+stay in the stomach it retains its alkaline reaction and passes into 
+the intestine, for the most part entirely unchanged. After feeding 
+a dog native egg-white these workers recovered large amounts 
+unchanged from a fistula as far down the canal as the ileum. 
+
+But even this does not exhaust the means by which raw egg- 
+white escapes gastric digestion, for Abderhalden and Pettibone 
+(1912) and Bizarro (1913) discovered that it offers considerable 
+
+
+
+2 bateman: use of raw eggs in practical dietetics 
+
+resistance to the action of pepsin. If, however, the egg-white 
+is coagulated it is more readily acted upon by the pepsin, and 
+proteolysis proceeds further. 
+
+We may picture this native protein then as quickly leaving 
+the stomach, accompanied by scanty amounts of gastric juice 
+and little altered by pepsin. This peculiar behavior is consistently 
+carried on in the intestine. Bruno and Klodnizki (1914) and 
+Okada (1915) showed that little or no bile was passed into the 
+intestine after the ingestion of raw egg-white, whereas the same 
+material cooked always caused a good flow of bile. 
+
+Once in the intestine the native egg-white continues to oppose 
+the digestive enzymes, for it has remarkably strong antitryptic 
+properties. The trouble is not that trypsin is unable to act upon 
+the protein but that the rate of action is so slow. Bayliss (190S) 
+found that it required seventy hours for the digestion of the raw 
+material to equal that of the cooked, all other conditions being the 
+same in the two cases. Indeed, the trypsin appears not to change 
+the egg-white at all. Vernon (1904) found the antitryptic action 
+to be more marked with this protein than with any other. Hedin 
+(1907), Cohnheim (1912), Abderhalden and Pettibone (1912), Long 
+and Johnson (1913), and Bizarro (1913) have all demonstrated 
+the strong antitryptic action of egg-white. Not only does it 
+resist digestion itself, but it prevents the digestion of other easily 
+digested proteins, as observed by Delezenne and Pozerski (1903), 
+Vernon (1904), Compel and Henri (1905), and Hedin (1907). 
+This suggests that the true cause of both facts is that the colloidal 
+egg-white absorbs the trypsin, thus cutting down its activity in 
+much the same way as the charcoal in the experiments of Hedin 
+(1906 b). Recently it has been shown by Maxwell (1915) that 
+boiled starch absorbs pepsin and so hinders its activity. 
+
+In view of both its antipeptic and antitryptic action it is inter- 
+esting to note that other proteolytic enzymes are also unable to 
+successfully cope with this native protein. Chittenden, Joslin 
+and Meara (1892), and Chittenden (1894) showed that raw egg- 
+white was much more poorly digested than coagulated egg-white 
+by bromelin, the proteolytic enzyme present in the pineapple. 
+Jonescu (1907) and Sachs (1907) found that papain was also 
+practically unable to act upon native egg-white. 
+
+Preliminary heating of the egg-white greatly increases its 
+digestibility by trypsin. Talarico (1910) found that there was 
+no effect, however, until the temperature reached 70°, after which 
+there was an orderly liberation of amino-acids up to 130°. Frank 
+(1911) also found cooked egg-white to be better digested than 
+raw, the optimum temperature in his experience being 70° to 75°. 
+Bizarro (1913) considered the best temperature for this prelimi- 
+nary heating to be 80°. Abderhalden and Pettibone (1912) and 
+Long and Johnson (1913) made similar observations. 
+
+
+
+bateman: use of raw eggs in practical dietetics 3 
+
+This brief review of its properties shows that native egg-white 
+offers such obstacles to digestion as to place it in an exceptional 
+position among the proteins. This raises the question as to how 
+the body handles such a substance. Very little upon this point 
+has, up to the present, been recorded, although raw eggs and egg- 
+white have enjoyed a great vogue as the mainstay of various 
+diets, especially for the sick. Steinitz (1898) noted incidentally 
+that raw egg-white caused vomiting and diarrhea in dogs, but 
+this interesting observation remained unnoticed. When the 
+same facts were observed again by Mendel and Lewis (1913) they 
+led to an extended study by the author, carried out during the 
+past year, the details of which have been published elsewhere. 
+This showed native egg-white to be a decidedly indigestible sub- 
+substance. When fed to dogs in any considerable quantitv it 
+invariably caused diarrhea and sometimes induced vomiting. 
+The severity of the diarrhea depended largely upon the amount 
+of material ingested, but also, to a less extent, upon the individual 
+susceptibility of the subject. With dogs of 5.5 to 7 kilos in weight 
+four or five egg-whites were sufficient to cause more or less severe 
+diarrhea. Even the whites of two eggs often caused softening of 
+the feces. The stools were abnormal in character, very offensive 
+in odor, and often contained much mucus. After the ingestion 
+of even small amounts of native egg-white the latter could be 
+recovered unchanged in small quantity from the stools, and when 
+the amount ingested was large the proportion of coagulable protein 
+in the feces was correspondingly increased. 
+
+Even when the feces appeared normal undigested egg-white 
+could usually be recovered. In this connection, Tsuchiya's (1908) 
+statement that albumin is never found in normal feces is pertinent. 
+
+After eating enough egg-white to give rise to diarrhea the dogs 
+usually lost weight. In a few cases small intestinal hemorrhages 
+were observed. Occasionally samples of urine obtained by cathe- 
+terization were found to contain small amounts of protein. In 
+all these reactions there was found much variation in the sen- 
+sitiveness of the subjects, for sometimes a large dog was more 
+easily affected than a small one by the same amount of protein. 
+
+It made little difference with the action of the egg-white 
+whether it was eaten alone or mixed with other food. In the 
+latter case the diarrhea was later in appearing. The presence 
+in the food of a substance able to cause a good flow of gastric 
+juice — meat extract for example — had no effect upon the time of 
+appearance or severity of the diarrhea. 
+
+It was soon noticed that when the raw protein was fed for 
+several days in succession its ill effects gradually waned. The 
+time necessary for the abatement of the diarrheal action varied 
+from three to five days. If now the ingestion were continued 
+there ensued a period of alternate days of diarrhea and constipa- 
+
+
+
+4 bateman: use of raw eggs in practical dietetics 
+
+tion, after which the egg-white ceased to exert any marked action. 
+The tolerance thus developed lasted for a short time even after 
+the feeding of the uncooked material was discontinued. This 
+recalls the tolerance acquired by dogs who receive peritoneal 
+injections of raw egg-white. Cramer (1908), Hamburger (1908), 
+and Oppenheimer (1904) have observed that under such condi- 
+tions the dogs utilized part of the protein and excreted the rest 
+in the urine. After repeated injections the quantity used rose 
+gradually. It might be supposed that all proteins would appear, 
+at least in part, in the urine after injection intraperitoneally, but 
+Mendel and Lockwood (1904) have shown this not to be the case 
+with edestin and excelsin. 
+
+Native egg-white was found poorly utilized. In large doses 
+from 30 to 50 per cent, of that ingested was wasted by being 
+ejected with the feces. After the dogs had grown to tolerate this 
+material it was better utilized, but even in these cases the best 
+figure was about 85 per cent. When Mendel and Lewis (1913) 
+fed this substance to dogs only about half of the nitrogen in the 
+meals appeared in the urine for the following twenty-four hours 
+as contrasted with almost all when meat, casein, and other pro- 
+teins were fed instead of the egg-white. Steinitz (1898) reported 
+unchanged egg-white in the feces in considerable quantities. Vogt 
+(1906) and Falta (1906) found that the nitrogen in uncooked 
+egg-white superimposed upon a standard diet was excreted in the 
+urine much more slowly than that ingested in the form of other 
+proteins. 
+
+Drying the egg-white at low temperatures did not abate its 
+diarrheal activity nor improve its utilization. Neither did long 
+standing. Falta (1906) also made experiments, using desiccated 
+material, and found in three cases a utilization of SO per cent., 
+80 per cent., and 61 per cent, respectively. LeClerc and Cook 
+(1906) found the same substance very poorly utilized. 
+
+"When dogs ate cooked egg-white in place of the native or desic- 
+cated protein they did not have diarrhea and the material was 
+excellently utilized, the utilization being in the neighborhood of 
+90 per cent. When raw and cooked egg-white were fed on alter- 
+nate days or periods the differences in the utilization and in the 
+nitrogen balance were striking. 
+
+Experiments were made to show at what temperature the change 
+in digestibility became effective. By heating for thirty to forty- 
+five minutes in a double boiler with constant stirring the egg-white 
+suffered little impairment of its activity in causing diarrhea up to 
+55°. Above this the activity is considerably decreased and dis- 
+appears entirely at 70°. It should be noted that above 55° coagu- 
+lation begins and at 70° the protein is entirely coagulated, but is 
+very soft and jelly-like in texture. 
+
+In order to show that dogs did not have an exceptional inability 
+
+
+
+bateman: use of raw eggs in practical dietetics 5 
+
+to digest native egg-white, experiments similar to the above were 
+made, using rats and rabbits as subjects. These had in both cases 
+the same results. Both rats and rabbits had diarrhea with con- 
+sequent poor utilization of the protein. The hardy rats, however, 
+were less sensitive than the other animals. That this native pro- 
+tein sustains life in rats poorly in comparison to others is the 
+general conclusion drawn from the work of Falta and Noeg- 
+gerath (1906), Knapp (1908), Maignon (1912), and Frank and 
+Schittenhelm (1912). Von Knieriem (1885) and Rohmann (1914) 
+reached the same decision from work with mice as subjects. 
+Osborne and Mendel (1911), on the contrary, kept rats growing 
+well on rations containing cooked egg-white as sole protein for 
+as long as one hundred and seventy days. Von Knieriem (1885) 
+found that desiccated egg-white caused rabbits to pass very soft 
+and abnormal feces containing much unchanged egg-white. 
+Mendel and Rose (1911) found it impossible to feed any large 
+quantity of raw egg-white to rabbits without inducing diarrhea. 
+
+No other native proteins are known to act in the alimentary 
+tract in the manner brought out by these experiments. On 
+account of the importance of the subject from the stand-point 
+of dietetics it was of interest to determine how raw egg-white 
+comported itself when ingested by man. The experiments 
+described below lead to the same conclusions already formulated. 
+
+The first group of subjects included a number of men and women 
+partaking of a diet consisting largely of raw eggs and milk for the 
+purpose of increasing weight. 
+
+Case I. — Subject O. B. This was a man, aged twenty-five 
+years, who took two to three raw eggs beaten up in milk three 
+times a day. During the first three days there was rather severe 
+diarrhea and general malaise and after that regular stools of soft 
+consistency. The subject had previously been somewhat con- 
+stipated. 
+
+Case II. — Subject D. S. was a man, aged forty years, who also 
+took two raw eggs beaten up in milk three times a day. He did 
+not experience diarrhea, but did have regular stools sometimes 
+twice a day, whereas before beginning the diet he had had some- 
+what obstinate constipation. He drank a large quantity of milk 
+which generally would tend to prevent diarrhea. 
+
+Case III. — Subject M. R., a woman, aged twenty-five years, 
+ate six to eight raw eggs per day. The first few days there was 
+extensive diarrhea followed for some time by irregular movements, 
+consisting usually of soft material. 
+
+Case IV. — Subject INI. H., a young woman, aged twenty-two 
+years, who ate two raw eggs at night and the same number in the 
+morning. There was no decided diarrhea, but previous consti- 
+pation was overcome and the stools were soft. This subject 
+complained of some intestinal discomfort. 
+
+
+
+6 bateman: use of raw eggs in practical dietetics 
+
+Case V. — Subject D. G., a woman, aged thirty-five years, took 
+two or three raw eggs in milk three times a day. In this ease 
+there was diarrhea for two days, although not severe. This was 
+followed by a day without a stool, after which the bowels moved 
+regularly every day. There had been no previous constipation. 
+
+Case VI. — A man, aged about thirty-five years, took each night 
+before retiring two raw eggs in whisky. On almost every such 
+occasion he suffered much intestinal discomfort, accompanied with 
+colic-like pains. Considering raw eggs to be "bland" and the 
+whisky beneficial he did not discontinue the treatment for some time. 
+
+Another group of subjects ate only the whites of raw eggs 
+experimentally. 
+
+Case I. — Subject D. S., a young woman, aged eighteen years, 
+was unaffected by eating the whites of two eggs per day. When 
+the number was doubled, diarrhea ensued accompanied by dis- 
+comfort and some trouble with intestinal gases. 
+
+Case II. — Subject B. B., aged thirty years, remained unaffected 
+by eating every morning the whites of two to four eggs. She did 
+notice discomfort and accumulation of gas. When the number 
+was increased to six per day the subject complained of malaise and 
+took an aversion to the diet. There was flatulence but no diarrhea. 
+
+Case III. — Subject A. B., a child, aged three years. One-half 
+of a raw egg-white ingested each day led to such laxness that the 
+experiment was discontinued after the third day. The diarrhea, 
+then, disappeared at once. 
+
+Case IV. — Subject J. B., aged five years, was, on the contrary, 
+quite unaffected by the same amount of egg-white as was given 
+the last subject. 
+
+Case V. — Subject W. B., a man, aged thirty years, was found 
+quite unsusceptible to the native egg-white, since two to six whites 
+failed to cause any noticeable change in the feces. When half a 
+dozen eggs were eaten at once he experienced decided discomfort, 
+associated with flatulence. An analysis of the stool for nitrogen 
+showed the protein ingested to be only 85 per cent, utilized. Even 
+eight to nine raw whites eaten at one time did no more than soften 
+the feces, but the utilization was still poorer than before, being only 
+77 per cent. At no time was there any protein in the urine. 
+
+Case VI. — Subject L. M., aged twenty-five years, ate the whites 
+of six raw eggs every third day. On each occasion the stool was 
+soft and unformed. 
+
+Falta (1906) found this material to be utilized by man to the 
+extent of 70 per cent. Wolf (1912) reported a still lower value, 
+namely, 50 per cent. In the latter case the feces were of soft 
+consistency although no diarrhea was observed. There was over 
+twice as much nitrogen in the feces when the raw egg was in the 
+diet as when the food contained the same amount of nitrogen 
+in the form of other proteins. On one day there was more nitro- 
+
+
+
+bateman: use of raw eggs in practical DIETETICS i 
+
+gen in the feces than in the urine. The latter did not contain 
+albumin. 
+
+Hamburger (1902) and Cramer (1908) claim that albuminuria 
+follows the ingestion of large doses of native egg-white by man. 
+Oertel (1883) had not been able to find albumin in the urine of 
+either dogs or men after the ingestion of large quantities or raw or 
+half-cooked egg-white. Neither did this material cause an increase 
+in excreted albumin in preexisting albuminuria. Another aspect 
+of this debated problem will be considered later. 
+
+It is a matter of common experience that cooked egg-white has 
+not been known to cause any exceptional digestive effects, and is 
+well utilized. Rubner (1879), who seems to be the sole investi- 
+gator to have fed a subject on cooked eggs only, found the utili- 
+zation to be 97 per cent. Cathcart and Green (1913) found a 
+delay in the excretion of nitrogen after superimposition of both 
+native and coagulated egg-white, but the delay appears greater 
+in the sulphur than in the nitrogen elimination. These authors 
+and Wolf (1912), who noticed the same facts, believe that the 
+sulphur complexes in the uncoagulated egg-white have power to 
+withstand the digestive enzymes. 
+
+Raw egg-white can be made digestible by other means than 
+heating at 70°. This result can be brought about by incubation 
+with dilute acids and alkalies at 37°; by precipitation with alcohol, 
+chloroform, or ether; by partial digestion with pepsin, and by 
+conversion into alkali metaprotein. 
+
+Egg-white is not a homogeneous substance, but consists of at 
+least four components — ovoglobulin, ovalbumin, conalbumin, and 
+ovomucoid. These were separated according to the method of 
+Osborne and Campbell (1900). When fed to dogs the albumin 
+fraction proved to be the indigestible constituent, a result in 
+harmony with the observations of Mendel and Lewis, who found 
+that purified ovalbumin caused profuse diarrhea when fed to 
+dogs. Vernon (1904) states that crystallized albumin is even 
+more resistant to trypsin than native egg-white. 
+
+All the experiments so far described were made with egg-white 
+from the egg of the common fowl. That it is not unique in its 
+unusual behavior in the alimentary tract was shown when the 
+egg-white from the egg of the duck was found to act in exactly 
+the same manner. 
+
+In contrast to egg-white, egg-yolk was found to be well digested 
+and utilized. There appears to be nothing in the literature to 
+suggest that the latter is indigestible. Mendel and Lewis's (1913) 
+experiments showed the excretion of nitrogen after feeding ovo- 
+vitellin to be the same as that after meat, a result in opposition to 
+that obtained with both coagulated and uncooked egg-white. In 
+the author's experiments the feeding of egg-yolk either cooked or 
+raw in any quantity of dogs usually caused a rather severe digestive 
+
+
+
+8 bateman: use of raw eggs in practical dietetics 
+
+disturbance, of which vomiting was the main symptom. The 
+vomitus contained much bile and sometimes this liquid was alone 
+expelled from the stomach. This suggested that the high fat 
+content of the yolk was the cause of the trouble. This assump- 
+tion was correct, for when the fat was extracted the residue of 
+crude ovovitellin was eaten by dogs with no untoward effects. 
+
+These experiments show, then, that raw egg-white is a decidedly 
+indigestible substance. It may cause diarrhea and vomiting when 
+ingested in any large quantity. Its utilization by the body is 
+poor, since it is used only to the extent of from 50 to 70 per cent. 
+What bearing have these facts upon practical dietetics? 
+
+It is difficult to say to what extent raw eggs are ordinarily used. 
+Since there is a wide-spread idea that they are especially digestible 
+and very nutritious, one might expect their use to be common. 
+There is no doubt that this is so when the diet in disease is con- 
+sidered, for raw eggs appear to play an important part in systems 
+of dietetics for the sick. It is likely that Beaumont's (1833) 
+observations gave the first impetus to this dieto-therapeutic move- 
+ment. According to his views digestion takes place in the stomach 
+and absorption in the intestines. The criterion of digestibility 
+was the time a food remained in the stomach, the assumption 
+being that it passed the pylorus only when properly prepared 
+by digestion for ensuing absorption through the intestinal mucosa. 
+Since native egg-white left the stomach more rapidly than any 
+other food the conclusion seemed obvious that it is a very readily 
+digested substance. Beaumont says: 
+
+"Albumin if taken into the stomach either very slightly or not at 
+all coagulated is perhaps as readily chymified as any article of diet 
+we possess. If coagulated it experiences a very protracted diges- 
+tion. In the first case the albumin becomes finely coagulated and 
+divided in the stomach." 
+
+While the fact that raw egg-white does remain in the stomach 
+only a short time is true, the interpretation of the fact was erro- 
+neous. These experiments of Beaumont, the first of their kind, 
+attracted much attention and became widely known. The earlier 
+writers on dietetics based their advice in many details upon his 
+work. Chambers in his Manual of Diet (1875), after quoting a 
+table of Beaumont's showing the times spent in the stomach by 
+raw eggs and eggs cooked in various ways, says, 
+
+"It may be observed that this is just the order in which they 
+are tasty — that is to say, the degree in which they come with facility 
+into contact with the sensory nerves distributed through the 
+mucous membrane — so that duty and pleasure here, as usually in 
+natural operations, become one." 
+
+To such a school nature is always right; it would not be thought 
+possible for her to be so mistaken as to allow albumin to leave the 
+stomach practically undigested. 
+
+
+
+bateman: use of raw eggs in practical dietetics 9 
+
+Although these early views on digestion are no longer supported 
+by such arguments they still appear to be accepted almost un- 
+questioned. In 1906 a Farmers' Bulletin of the United States 
+Department of Agriculture quotes Beaumont's work and helps to 
+spread the impression that raw eggs are very easily digested, since 
+they are "chymified" in one and a half to two hours as against 
+three for soft-boiled eggs. The figures for "artificial digestion," 
+which approximated bodily conditions as closely as possible, are 
+even more impressive, since it appears that it requires eight hours 
+for the digestion of hard-boiled eggs, six hours for soft-boiled eggs, 
+and only four hours for raw eggs. This bulletin, which has been 
+extensively circulated, gives also the results of experiments which 
+show that cooked eggs are thoroughly digested. Still more recently 
+in Practical Dietetics for Nurses, Pattee (1910) quotes, "Half 
+subtilized to chyme the liquid food readiest obeys the assimilating 
+powers." Egg-white is then listed as a liquid food and the proper 
+conclusion thus drawn. This notion of the easy assimilation of 
+liquid foods is often mentioned by writers on dietary topics in their 
+discussion of egg-white, and it is taken for granted that such a 
+substance offers little resistance to the digestive juices. How far 
+astray such an assumption may lead one has already been shown. 
+
+In the larger and more recent text-books on dietetics the use 
+of raw eggs is generally recommended. Thompson, whose book 
+Practical Dietetics is widely used and much quoted, says on this 
+topic: 
+
+'^Yhole raw eggs are very popular in dietetics at present and are 
+often prescribed when a nutritious, highly concentrated food is 
+desired, as in cases of tuberculosis, some forms of anemia, and 
+various wasting diseases; sometimes from eight to ten or twelve 
+are given daily if they can be digested." 
+
+Egg albumen is said to be well absorbed and many recipes are 
+given for preparing albumen water in a palatable form. It is 
+stated, without naming Beaumont, that "a raw egg is ordinarily 
+digested in the stomach in one and a half hours, but a baked egg 
+requires from three to four hours." 
+
+In Diet in Health and Disease, by Friedenwald and Ruhrah 
+(1913), raw eggs are still more strongly recommended. These 
+authors state: 
+
+"In various diseases accompanied by loss of flesh and strength, 
+raw eggs in large numbers are prescribed, as many as twenty-four 
+eggs being given in twenty-four hours. Egg albumen is best 
+absorbed when eaten raw. Eggs beaten up in milk are .very useful 
+for the diet of the aged when there are diminished powers of diges- 
+tion. Raw eggs sometimes disagree but this is more often due 
+to faulty preparation than to any real egg idiocyncrasy. In 
+tuberculosis raw eggs are of the greatest value; six to twenty-four 
+whites may be given daily." 
+
+
+
+10 bateman: use of raw eggs in practical dietetics 
+
+These writers — Thompson, Friedenwald and Ruhrah, Pattee, 
+Winthrop (1S99) and others — advise raw eggs as part of the diet 
+in the treatment of many diseases, such as typhoid, diphtheria, 
+gastric ulcer, tuberculosis, appendicitis, gastritis, chronic indigestion, 
+etc. We read that "In fevers albumen water helps to supply 
+wasted tissue albumin;" that "Raw eggs in consumption are full 
+of nutrition and very assimilable;" that "Albumen water is utilized 
+by infants, being found very useful in disorders in which some 
+nutritious and easily assimilated food is needed." It is more sur- 
+prising to find raw egg-white apparently advised in diarrhea and 
+contra-indicated in constipation; to find raw eggs and albumen 
+water prescribed in dysentery, in chronic cases of which "egg 
+albumen and beef juice form the main part of the diet." Again, 
+it is often stated that raw egg-white can be retained or "kept on 
+the stomach" when nothing else can. This is not really true, since 
+it leaves the stomach rapidly, but in a sense contrary to that meant! 
+
+In the treatment of typhoid most writers are agreed that indi- 
+gestible food should not be fed and that "those causing the least 
+intestinal debris" are the best; yet they all unite in advising raw 
+egg-white in the diet. In the current therapy of gastric ulcer 
+albumen water is frequently used, with the object of taking up the 
+excessive acid. Insofar as it calls forth no more gastric secretion 
+its use may be beneficial, but considering the speed with which it 
+escapes through the pylorus its efficiency in removing acid already 
+present is problematical. One writer says: "The egg-albumen 
+should be prepared in such a manner as to require the least possible 
+expenditure of force in digestion." Cannon (1904) has shown that 
+the intestine expends more motor activity upon the absorption of 
+the carbohydrates than upon that of the fats or proteins. Raw 
+egg-white, however, acts like a carbohydrate in this respect. 
+Another author states that native egg-white is especially valuable 
+for those with a "weak digestion." All the evidence gathered in 
+this paper tends to show that the substance in question requires 
+an exceptionally "strong digestion" if it is to be utilized. 
+
+The most whole-hearted advocate of raw eggs appears to be Dr. 
+Ely (1903), who, in "The Fable of the Egg," shows himself a bold 
+practitioner of his own ideas. Again, Beaumont is quoted with 
+nothing to show that anything has been added to the subject in the 
+eighty years since his observations. The number of eggs advised 
+and administered may seem "fabulous," as the author admits. 
+One patient ate 3006 raw eggs in a year while another partook of 
+5475 in the same time, the latter being "an exemplary subject as 
+to eggs." It is further stated: 
+
+"Some moral force is necessary on the part of patient, nurse, 
+and doctor to overcome a repugnance to the treatment. It is to 
+be understood that in every instance they [eggs] have been used 
+for their supporting and restorative influence. Although some 
+
+
+
+bateman: use of raw eggs IX practical dietetics 11 
+
+patients have died while taking eggs I can think of no case in 
+which death was due to their liberal use. If you give eggs to your 
+patients do not be chicken-hearted in their employment. Do not 
+fear the production of albuminuria from the ingestion of a large 
+amount of egg albumen. Notwithstanding all possible efforts, 
+nausea and vomiting and diarrhea may often be produced and the 
+physician may be thwarted in his object. He will then try the 
+whites of eggs alone. I have given the whites of forty-eight eggs 
+daily for many days to a patient in the critical stages of typhoid 
+fever. Please remember that I am not advocating a fad, specific, 
+or 'cure-all.' I would urge that in some chronic cases of exhausted 
+nerve centers, and in those acute, critical cases that tax resources 
+for maintaining life, they [doctors] should throw away their tonics 
+and possibly stimulants and should gradually lead the stomachs 
+of their patients up to the egg-an-hour practice." 
+
+Enough has been quoted, perhaps, to show the reasons hitherto 
+underlying the advocacy of raw eggs. The results of the present 
+study show these reasons to be not well supported and indicate 
+that the use of raw egg-white is decidedly inadvisable. A sub- 
+stance which fails to stimulate a flow of gastric juice and is anti- 
+peptic, which hurries from the stomach, calls forth no flow of bile, 
+and strongly resists the action of trypsin, which is poorly utilized 
+and may cause diarrhea, has evidently little to recommend it as a 
+foodstuff of preference for the sound person, let alone for the 
+invalid. And when the native protein needs only to be coagulated 
+at 70° in order to obviate almost all the effects mentioned, there 
+appears still less reason for using it uncooked. Other considera- 
+tions strongly support this conclusion. For instance, Stokvis 
+(1864) declared that raw egg-white eaten in quantity is absorbed 
+undigested and excreted in the urine, doing thereby some damage 
+to the renal epithelium. For a number of years this work was 
+disputed by some and confirmed by others. Ascoli (1902) clarified 
+the situation somewhat by stating that the alimentary albuminuria 
+is not generally manifested by sound persons but usually is by the 
+sick. Besides his own observations he cites other investigators 
+who found that small kidney lesions were caused in this way. The 
+amounts of egg used by Ascoli were not unduly large. The work 
+of Hamburger, Oppenheimer, and Oertel on this topic has already 
+been mentioned. It should be stated that the subject is still a 
+debatable one. 
+
+It is true that fairly large amounts of raw egg-white need to be 
+ingested for the abnormal digestive effects to be made manifest; 
+but even if small quantities are used, certain disadvantages may 
+follow. The indigestible protein may reach the large intestine 
+and there become a good pabulum for the putrefactive bacteria. 
+Or mixed with other foods it may retard the digestion and lower 
+the utilization of other proteins. Again, it seems more than a 
+
+
+
+12 bateman: use of raw eggs in practical dietetics 
+
+coincidence that of all the common proteins egg-white is the most 
+indigestible and at the same time the most common cause of ana- 
+phylaxis. According to the latest views on this subject, as stated 
+by Wells (1914), anaphylactic intoxication is caused by the entrance 
+into the blood of intact, foreign protein molecules. If this be so, it 
+would appear that egg-white is a substance peculiarly apt to be 
+the agent in allergy. It leaves the stomach practically unchanged, 
+so that in the intestine it may be absorbed still intact or only 
+slightly altered. The strong antitryptic action it possesses leads 
+to the same danger. Lately, Van Alstyne (1913) has shown that 
+egg-albumen can enter into the circulation unaltered and is excreted 
+in the urine. In order to cause anaphylaxis it appears unnecessary 
+that large amounts should enter the blood, for Wells (1914) has 
+shown that in guinea-pigs sensitivity has been produced with one 
+twenty-millionth of a gram (0.00000005 gm.) of crystallized oval- 
+bumin and fatal results are obtained after sensitization with one 
+millionth of a gram (0.000001 gm.). In fact, small amounts are 
+frequently more effective than large. It may be argued that 
+cleavage products of any protein may be absorbed in small amount. 
+This is true; but Wells has found that the protein molecule loses 
+its anaphylactic properties as soon as it is altered to any extent. 
+He was not able to get reactions from the proteoses of egg-albumen. 
+Ten Broeck (1914) found that racemized egg-white had no ana- 
+phylactic effect either toward itself or toward native egg-albumen. 
+The simpler the protein disintegration products become the less 
+toxic is their action. The thorough gastric proteolysis undergone 
+by practically all proteins except raw egg-white is a potent factor 
+in preventing allergy. It is well established, however, that even 
+cooked egg-white cannot be used by those sensitized. This does 
+not weaken the case against raw egg, for, as already stated, the 
+coagulated egg-white leaves the stomach little less rapidly than 
+the uncooked. In the texts and manuals on dietetics quoted 
+above the advice to use raw or even cooked eggs is frequently 
+safeguarded by the caution that certain people are peculiarly 
+susceptible to this foodstuff, and it would appear from the cases 
+cited in professional journals that such sensitiveness is not uncom- 
+mon. Schloss (1913) reported an interesting case in which the feed- 
+ing of raw egg-white to a child ten days old caused it to react for 
+years to either cooked or uncooked egg-albumen. The sensitizing 
+substance appeared to be ovomucoid while ovalbumin seemed to 
+be inactive. 
+
+W r ith the improved technic for rectal feeding effected by the 
+drip method there has come an increased interest in this kind of 
+alimentation. Since the foods used must be liquid it is natural 
+that raw egg-white should suggest itself for the protein require- 
+ments. As early as 1S69, Voit and Bauer, however, concluded that 
+this foodstuff was practically worthless for the purposes, a con- 
+
+
+
+bateman: use of raw eggs in practical dietetics 13 
+
+elusion also reached by Eichorst. Previously it had been stated 
+that salt aided in the absorption of the egg-white, but Eichorst 
+doubted this and stated that the salt caused diarrhea. Czerny 
+and Latschenberger (1874) and Ewald (1887) also found the salt 
+to be of no value. More recent studies of rectal alimentation 
+tend to show that the amount of protein which can be utilized 
+in this way is unimportant compared to the requirements of the 
+body, a conclusion supported by the work of Adler (1915). 
+Furthermore, it is considered doubtful if unaltered proteins can 
+be absorbed from the colon (PfeifTer, 1906). If this is so, native 
+egg-white must be considered an especially poor substance for 
+nutrient enemas in view of its pronounced antitryptic properties. 
+It must not be assumed from the foregoing discussion that 
+native egg-white is considered a toxic or otherwise dangerous 
+substance. But the evidence regarding its behavior in the ali- 
+mentary canal is taken to show that no advantage accrues to the 
+body by using it raw rather than cooked. Furthermore, when 
+the diet of those seriously ill is considered it may fairly be asked 
+in the light of scientific evidence if the current extensive use of 
+raw eggs is not illogical and inadvisable? 
+
+REFERENCES. 
+
+Abderhalden and Pettibone: Ueber den Einfluss des physikalischen Zustandes 
+von Proteinen auf die Raschheit ihres Abbaues durch Fermente, Ztschr. f. physiol. 
+Chem., 1912, lxxxi, 458. 
+
+Adler: Value of Rectal Feeding, Am. Jour. Med. Sc, 1915, cl, 562. 
+
+Ascoli: Ueber den Mechanismus der Albuminuric durch Eiereiweiss, Miinchen. 
+med. Wchnschr., 1902, xlix, 398. 
+
+Ascoli and Vigano: Zur Kenntniss der Resorption der Eiweisskorper, Ztschr. f. 
+physiol. Chem., 1903, xxxix, 283. 
+
+Bateman: The Digestibility and Utilization of Egg Proteins, Jour. Biol. Chem., 
+1916, xxvi, 263. 
+
+Bayliss: The Nature of Enzyme Action, London, 1908. 
+
+Beaumont: The Physiology of Digestion, Plattsburg, 1833. 
+
+Bizarro: On the Influence of Preliminary Heating upon Peptic and Tryptic 
+Proteolysis, Jour. Physiol., 1913, xlvi, 267. 
+
+Bruno and Klodnizki: (Quoted from: Babkin, Die aussere Secretion der Verdau- 
+ungsdriisen, 1914.) 
+
+Cannon : The Passage of Different Foodstuffs from the Stomach and Through the 
+Small Intestine, Am. Jour. Physiol., 1905, xii, 387. 
+
+Cathcart and Green: The Rate of Protein Metabolism, Biochem. Jour., 1913, vii, 1. 
+
+Chambers: A Manual of Diet, Philadelphia, 1875. 
+
+Chittenden, Joslin, and Meara: On the Ferments Contained in the Juice of the 
+Pineapple, Tr. Conn. Acad. Arts. Sc, 1892, viii, 281. 
+
+Chittenden: Proteolytic Action of Bromelin, Jour. Physiol., 1894, xv, 249. 
+
+Cohnheim: Enzymes, New York, 1912. 
+
+Cramer: On the Assimilation of Protein Introduced Parenterally, Jour. Physiol., 
+190S, xxxvii, 146. 
+
+Czerny and Latschenberger: Physiologische Untersuchungen iiber die Verdauung und 
+Resorption im Dickdarm des Menschen, Arch. path. Anat. u. Physiol., 1874, lix, 161. 
+
+Delezenne and Pozerski: Action empechante de " l'ovalbumine crue" sur la diges- 
+tion tryptique de "l'ovalbumin coagulee," Comp. Rend. Soc. biol., 1903, lv, 935. 
+
+Eichorst: Ueber die Resorption der Albuminate im Dickdarm, Arch. ges. Physiol., 
+1871, iv, 570. 
+
+Ely: The Fable of the Egg, New York Med. Jour., 1903, lxxviii, 92S. 
+
+
+
+14 bateman: use of raw eggs in practical dietetics 
+
+Ewald: Ueber die Ernahrung mit Pepton- und Eierklystieren, Ztschr. f. klin. 
+Med., 1887, xii, 407.. 
+
+Falta: Studieren tiber den Eiweissstoffwechsel, Deutsch. Arch. f. klin. Med., 
+1906, lxxxvi, 517. 
+
+Falta and Noeggerath: Fiitterungsversuche mit Kiinstlicher Nahrung, Beitr. z. 
+chem. Physiol., 1905, vii, 314. 
+
+Frank: The Digestibility of White of Egg as Influenced by the Temperature at 
+Which it is Coagulated, Jour. Biol. Chem., 1911, ix, 463. 
+
+Frank and Schittenhelm : Ueber die Brauchbarkeit tief abgebauter Eiweiss- 
+praparate ftir die Erniihrung, Therap. Monatsh., 1912, xxvi, 112. 
+
+Friedenwald and Ruhrah: Diet in Health and Disease, Philadelphia, 1913. 
+
+Gompel and Henri: Etude du ralentissement que produit l'albumine d'oeuf crue 
+sur la digestion tryptique de l'albumine coagulee, Comp. Rend. Soc. biol., 1905, 
+lviii, 457. 
+
+Hamburger: Zur Frage der Immunisierung gegen Eiweiss, Wien. klin. Wchnschr., 
+1902, xv, 1188. 
+
+Hedin: An Antitryptic Effect of Charcoal, Biochem. Jour., 1906, i, 484. 
+
+Hedin: Ueber Verschiedenartige Hemmung der Tryptischen Verdauung, Ztschr. 
+f. physiol. Chem., 1907, Hi, 412. 
+
+Jonescu : Ueber eine eigenartige Verdauung des Hiihner- und Serum-eiweiss durch 
+Papain, Biochem. Ztschr., 1907, ii, 177. 
+
+Knapp: Experimenteller Beitrage zur Ernahrung von Ratten mit kiinstlicher 
+Nahrung, Ztschr. f. exper. Path. u. Therap., 1908, v, 147. 
+
+Langworthy: Eggs and their Uses as Food, United States Department of Agricul- 
+ture, Farmers' Bull. 128, 1906. 
+
+LeClerc and Cook: Metabolism Experiments with Organic and Inorganic 
+Phosphorus, Jour. Biol. Chem., 1906, ii, 203. 
+
+London and Sulima: Zum Chemisrnus der Verdauung im tierischen Korper, 
+Ztschr. f. Physiol. Chem., 1905, xlvi, 209. 
+
+Long and Johnson: Activity and Stability of Certain Ferments, Jour. Am. 
+Chem. Soc, 1913, xxxv, 1188. 
+
+Maignon: Role des graisses dans l'utilization de l'albumine alimentaire, Comp. 
+Rend. Soc. biol., 1912, lxxii, 1054. 
+
+Maxwell: The Relation of Salivary to Gastric Digestion, Biochem. Jour., 1915, 
+ix, 323. 
+
+Mendel and Lewis: Rate of Elimination of Nitrogen as Influenced by Diet 
+Factors, Jour. Biol. Chem., 1913, xvi, 55. 
+
+Mendel and Rockwood: On the Absorption and Utilization of Proteins, Am. 
+Jour. Physiol., 1905, xii, 336. 
+
+Mendel and Rose: Experimental Studies on Creatine and' Creatinine, Jour. 
+Biol. Chem., 1911, x, 213. 
+
+Oertel: Ueber Ernahrung mit Huhnereiern, Miinchen., 1883. 
+
+Okada: On the Secretion of Bile, Jour. Physiol., 1915, xlix, 458. 
+
+Oppenheimer: Ueber das Schicksal der mit Umgehung des Darmskanals einge- 
+fuhrten Eiweissstoffe im Tierkorper, Beitr. z. chem. Physiol., 1904, iv, 263. 
+
+Osborne and Campbell: The Protein Constituents of Egg-white, Jour. Am. Chem. 
+Soc, 1900, xxii, 422. 
+
+Osborne and Mendel: Feeding Experiments with Isolated Food-Substances, 
+Carnegie Institution of Washington, Publication No. 156, 1911. 
+
+Pattee: Practical Dietetics with Reference to Diet in Disease, New York, 1910. 
+
+Pawlow: The Work of the Digestive Glands, London, 1902. 
+
+Pfeiffer: Ueber Ausnutzung von Eiweissklystieren, Ztschr. f. exper. Path., 1906, 
+cxi, 89. 
+
+Rohmann : Ueber die Ernahrung von Mausen mit einer aus einfachen Nahrungs- 
+stoffen zusammengesetzen Nahrung, Biochem. Ztschr., 1914, lxiv, 30. 
+
+Rubner: Ueber die Ausnutzung einiger Nahrungsmittel in Darmkanals des 
+Menschen, Soc Biol., 1879, xv, 115. 
+
+Sachs: Ueber die Verdauung von rohem Hiihnereiweiss durch Papain, Ztschr. f- 
+physiol. Chem., 1907, li, 488. 
+
+Schloss: A Case of Allergy to Common Foods, Am. Jour. Dis. Child., 1912, hi, 34. 
+
+Steinitz: Ueber das Verhalten phosphorhaltiger Eiweisskorper im Stoffwechsel, 
+Arch. ges. Physiol., 1898, lxxii, 75. 
+
+Stokvis: Huhner-eiweiss und Serum-eiweiss und ihr Verhalten zum thierischen 
+Organismus, Zentralbl. f. med. Wiss., 1864, ii, 596. 
+
+
+
+bateman: use of raw eggs in practical dietetics 15 
+
+Talarico: De l'influence de la cuisson sur la digestibilite tryptique de l'albumine 
+d'oeuf, Comp. Rend. Soc. Biol., 1910, Ixviii, 662. 
+
+Ten Broeck: The Non-antigenic Properties of Racemized Egg Albumin, Jour. 
+Biol. Chem., 1914, xvii, 369. 
+
+Thompson: Practical Dietetics, New York, 1902. 
+
+Tsuchiya: Ueber das Auftreten des gelosten Eiweisses in den Faces Erwachsener, 
+Ztschr. f. exper. Path. u. Therap., 1908, v, 455. 
+
+Van Alstyne: The Absorption of Proteins without Digestion, Arch. Int. Med., 
+1913, xii, 372. 
+
+Vernon: Proteids and Trypsin Destruction, Jour. Physiol., 1904, xxxi, 346. 
+
+Voit and Bauer: Ueber die Aufsaugung im Dick und Dunndarme, Ztschr. f. 
+Biol., 1869, v, 536. 
+
+Vogt: Der Zeitliche Ablauf der Eiweisszersetzung bei Verschiedener Nahrung, 
+Beitr. z. chem. Physiol, u. Path., 1906, viii, 409. 
+
+Von Knieriem: Ueber die Verwerthung der Cellulose im Thierischen Organismus, 
+Ztschr. f. Biol., 1885, xxi, 67. 
+
+Wells: Chemical Pathology, Philadelphia, 1914. 
+
+Winthrop: Diet in Illness and Convalescence, New York, 1899. 
+
+Wolf: Die Ausschiedungzeit von Stickstoff, Schwefel, und Kohlenstoff nach 
+Aufnahme von Eiweisssubstanzen und ihren Spaltungsprodukten, Biochem. Ztschr., 
+1912, xl, 234. 
+
+
+
